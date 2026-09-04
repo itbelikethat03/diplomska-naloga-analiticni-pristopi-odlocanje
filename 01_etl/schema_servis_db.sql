@@ -465,7 +465,4 @@ SET FOREIGN_KEY_CHECKS = 1;
 --  Dokumentirane 3NF izjeme:
 --  [3NF-1] reklamacija.pritoznik_id — tranzitivna odvisnost
 --          prek kontakt_id; ohranjena za NULL-varnost
---  [3NF-2] servisni_poseg.vezni_dokument — de-normalizacijski
---          bližnjič za Power BI; kanonično razmerje je v
---          poseg_reklamacija
 -- ============================================================
