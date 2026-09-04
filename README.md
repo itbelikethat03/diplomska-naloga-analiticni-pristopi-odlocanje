@@ -11,7 +11,7 @@ ustvarila.
 
 Naloga obsega dva empirična dela:
 
-1. **Interni podatki podjetja** (mape `01_etl`, `02_fotona`) — dve ploski
+1. **Interni podatki podjetja** (mape `01_etl`, `02_podjetje) — dve ploski
    razpredelnici iz internega sistema sta bili s cevovodom ETL preneseni v
    normalizirano bazo MySQL (24 tabel, 124.741 zapisov), nad njo pa so bile
    izvedene opisna analiza, nadzorna plošča in napovedni modeli.
