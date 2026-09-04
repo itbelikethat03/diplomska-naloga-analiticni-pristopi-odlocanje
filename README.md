@@ -48,7 +48,7 @@ Naloga obsega dva empirična dela:
   servisni_proces.drawio   izvorna datoteka diagrama servisnega procesa
   poizvedbe/               poizvedbe SQL za opisne številke poglavja 5.1
 
-02_fotona/             analiza internih podatkov podjetja
+02_podjetje/             analiza internih podatkov podjetja
   db_common.py             povezava na bazo + rekonstrukcija stolpca kategorija
   opisna/                  grafikoni 1-5 (poglavje 5.1)
   napovedni/               napovedni modeli in detekcija anomalij (poglavje 5.3)
@@ -65,31 +65,7 @@ docs/                  tehnični poročili o obeh analizah
 slike_v_nalogi/        ponazoritve, kot so natisnjene v nalogi
 ```
 
-## Ponazoritve v nalogi in njihov izvor
 
-| Ponazoritev | Poglavje | Nastala z |
-|---|---|---|
-| Slika 1: Cikel vrednosti podatkov | 2.2.2 | tuji vir (van Ooijen idr., 2019) — ni v repozitoriju |
-| Slika 2: Potek servisnega procesa | 3.1 | `01_etl/servisni_proces.drawio` (diagram EPC, draw.io) |
-| Slika 3: Logični podatkovni model | 4.1.3 | obratni inženiring sheme v MySQL Workbench (`01_etl/schema_servis_db.sql`) |
-| Grafikon 1: Porazdelitev po vrstah reklamacije | 5.1.1 | `02_fotona/opisna/porazdelitev_reklamacij.py` |
-| Grafikon 2: Porazdelitev po družini izdelkov | 5.1.2 | `02_fotona/opisna/porazdelitev_reklamacij_po_druzini.py` |
-| Grafikon 3: Reklamacije skozi leta | 5.1.4 | `02_fotona/opisna/graf_reklamacije_leta.py` |
-| Grafikon 4: Servisni posegi skozi leta | 5.1.4 | `02_fotona/opisna/trend_servisnih_posegov.py` |
-| Grafikon 5: Razpršenost po trgih | 5.1.5 | `02_fotona/opisna/porazdelitev_servisnih_posegov_po_drzavi_anonimizirano.py` |
-| Slika 4: Preslikava podatkovne sheme | 5.2.2 | pogled modela v Power BI |
-| Slike 5-7: Strani nadzorne plošče | 5.2.3 | Power BI nad bazo `servis_db` |
-| Tabela 1 in grafikon 6: Drseče preverjanje po kategorijah | 5.3.2 | `02_fotona/napovedni/backtest_kategorije.py` |
-| Tabela 2: Modeli z eksternimi prediktorji | 5.3.3 | `02_fotona/napovedni/backtest_kategorije_multivariant.py`, `koleracije_posegi_reklamacijami.py` |
-| Tabela 3: Mesečni napovedni modeli | 5.3.4 | `02_fotona/napovedni/posegi_reklamacije_mesecno.py` |
-| Grafikona 7 in 8: Detekcija anomalij | 5.3.5 | `02_fotona/napovedni/anomaly_detection.py` |
-| Tabela 4 in grafikon 9: Napoved časa reševanja | 5.3.6 | `02_fotona/napovedni/fotona_solution_time.py` |
-| Tabela 5: Merila za nezanesljive tedne | 5.4.1 | `03_nijz/skripte/10_diagnostika_kakovosti.py`, `11_panel_kakovost.py` |
-| Tabela 6: Sprememba MAE proti naivnemu modelu | 5.4.2 | `03_nijz/skripte/20_analiza_5_4.py` |
-| Priloge 1-5 | priloge | `04_priloge/gradi_docx.py` |
-
-Grafikona 7 in 8 sta v nalogi objavljena kot izrezka zgornjih dveh polj
-skupne slike `02_fotona/rezultati/fotona_anomaly_detection.png`.
 
 ## Zagon
 
@@ -101,26 +77,6 @@ py -3.11 -m venv .venv
 pip install -r requirements.txt
 ```
 
-### Del s podatki podjetja
-
-Potrebna je lokalna baza MySQL. Poverilnice se berejo iz datoteke `.env` v
-korenu repozitorija (predloga je `.env.example`); v kodi niso zapisane.
-
-```bash
-mysql -u root -p -e "CREATE DATABASE servis_db CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;"
-py -3.11 01_etl/etl_servis.py          # zahteva izvorna CSV, ki nista objavljena
-```
-
-Skripte v `02_fotona/` izhodne datoteke zapisujejo v delovno mapo, zato se
-poganjajo iz mape `02_fotona/rezultati/`:
-
-```bash
-cd 02_fotona/rezultati
-py -3.11 ../napovedni/backtest_kategorije.py
-```
-
-Skripte v `02_fotona/opisna/` pot izhoda določijo same in se lahko poženejo
-od koderkoli.
 
 ### Del s podatki NIJZ
 
@@ -149,7 +105,7 @@ merodajna, so v `03_nijz/README.md`.
 
 ## Metodološke opombe
 
-- Vrednotenje je povsod časovno pravilno: uporabljeno je drseče preverjanje
+- Uporabljeno je drseče preverjanje
   z rastočim učnim oknom, naključna delitev podatkov ni bila uporabljena.
 - Vsak model je primerjan z naivno oziroma sezonsko naivno napovedjo. Brez te
   primerjave absolutna vrednost MAE ne pove ničesar.
@@ -159,7 +115,4 @@ merodajna, so v `03_nijz/README.md`.
 - Pri podatkih NIJZ manjkajoči tedni **niso** interpolirani. Učinek te
   odločitve je izmerjen ločeno v `03_nijz/skripte/23_ucinek_interpolacije.py`.
 
-## Licenca in uporaba
 
-Koda je objavljena za namen preverljivosti diplomskega dela. Podatki podjetja
-so bili uporabljeni na podlagi pisnega soglasja in niso del te objave.
