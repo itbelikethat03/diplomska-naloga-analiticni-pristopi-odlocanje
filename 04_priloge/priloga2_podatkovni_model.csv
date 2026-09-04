@@ -1,0 +1,26 @@
+﻿Sloj,Tabela,Vrstic,Vsebina
+1 – iskalniške,vrsta_predmeta_lookup,6,Šifrant vrst predmeta (numerične oznake brez pomenskega šifranta)
+1 – iskalniške,vrsta_reklamacije_lookup,11,"Šifrant vrst reklamacije (okvara, neustrezno delovanje, drugo …)"
+1 – iskalniške,status_reklamacije_lookup,2,Šifrant statusov reklamacije
+1 – iskalniške,status_posega_lookup,5,Šifrant statusov servisnega posega
+1 – iskalniške,vrsta_popravila_lookup,2,Šifrant vrst popravila
+1 – iskalniške,nacin_prejema_lookup,5,Šifrant kanalov prejema reklamacije
+2 – entitetne,podjetje,344,Distributerji in naročniki z državo poslovanja
+2 – entitetne,zaposleni,33,Interni referenti in odgovorne osebe; hrani zgolj anonimni identifikator
+2 – entitetne,nadrejen_izdelek,807,Družine izdelkov (nadrejeni identifikatorji)
+2 – entitetne,predmet,2274,Laserski sistemi in komponente
+2 – entitetne,tuji_kontakt,527,Kontaktne osebe pri distributerjih
+3 – transakcijske,reklamacija,11039,"Glava reklamacije (pritožnik, vrsta, status, garancija)"
+3 – transakcijske,prejem_reklamacije,11114,Podatki o prejemu; ena reklamacija ima lahko več prejemov
+3 – transakcijske,nevarnost,10760,Ocena nevarnosti z obrazložitvijo
+3 – transakcijske,ukrepi,10759,Izvedeni in dodatni ukrepi za rešitev
+3 – transakcijske,analiza_reklamacije,10759,"Rezultati analize, vključno s poljem vrsta_napake"
+3 – transakcijske,zakljucek_reklamacije,10075,Datumi zaključka reklamacije in zaprtja delovnega naloga
+3 – transakcijske,reklamacija_pozicija,12043,Pozicije reklamacije z izdelki in količinami
+3 – transakcijske,serijska_stevilka,9777,Serijske številke po pozicijah reklamacije (ena na zapis)
+3 – transakcijske,servisni_poseg,4078,"Glava servisnega posega (naročnik, prejemnik, referent, datumi)"
+3 – transakcijske,poseg_reklamacija,3592,Vezna tabela M:N med posegi in reklamacijami
+3 – transakcijske,servisni_poseg_postavka,22176,Postavke posega z izdelki
+3 – transakcijske,servisni_poseg_serijska,1098,Serijske številke po postavkah posega (ena na zapis)
+3 – transakcijske,servisni_poseg_izpeljani,3455,Izpeljani dokumenti po posegih (eden na zapis)
+,SKUPAJ (24 tabel),124741,

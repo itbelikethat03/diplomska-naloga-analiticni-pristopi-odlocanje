@@ -1,0 +1,43 @@
+﻿vzs,naziv,horizont,model,n,MAE,RMSE,MASE,MAE_vs_naivni_pct
+1010P,Dermatološki pregled - prvi,1,naivni,62,264.973,652.41,1.157,0.0
+1010P,Dermatološki pregled - prvi,1,ar1,62,274.682,648.267,1.187,-3.664
+1010P,Dermatološki pregled - prvi,1,lin,62,1168.573,1404.552,4.897,-341.016
+1010P,Dermatološki pregled - prvi,4,naivni,59,509.424,840.403,2.244,0.0
+1010P,Dermatološki pregled - prvi,4,ar1,59,574.984,858.762,2.439,-12.869
+1010P,Dermatološki pregled - prvi,4,lin,59,1327.351,1577.402,5.539,-160.559
+1018P,Kardiološki pregled - prvi,1,naivni,62,140.589,181.589,0.85,0.0
+1018P,Kardiološki pregled - prvi,1,ar1,62,142.393,183.33,0.86,-1.283
+1018P,Kardiološki pregled - prvi,1,lin,62,873.419,1058.576,5.156,-521.258
+1018P,Kardiološki pregled - prvi,4,naivni,59,358.992,456.655,2.153,0.0
+1018P,Kardiološki pregled - prvi,4,ar1,59,368.375,459.8,2.199,-2.614
+1018P,Kardiološki pregled - prvi,4,lin,59,994.21,1232.565,5.824,-176.945
+1195,Operacija sive mrene (katarakte),1,naivni,62,127.473,249.904,1.133,0.0
+1195,Operacija sive mrene (katarakte),1,ar1,62,128.439,251.468,1.144,-0.757
+1195,Operacija sive mrene (katarakte),1,lin,62,334.1,404.36,2.913,-162.094
+1195,Operacija sive mrene (katarakte),4,ar1,59,227.968,337.853,1.981,2.309
+1195,Operacija sive mrene (katarakte),4,naivni,59,233.356,327.914,2.017,0.0
+1195,Operacija sive mrene (katarakte),4,lin,59,387.978,455.816,3.374,-66.26
+1626,Endoproteza kolena,1,naivni,62,157.984,283.547,1.394,0.0
+1626,Endoproteza kolena,1,ar1,62,202.878,267.356,1.728,-28.417
+1626,Endoproteza kolena,1,lin,62,222.398,263.319,1.879,-40.772
+1626,Endoproteza kolena,4,lin,59,226.211,269.522,1.88,4.953
+1626,Endoproteza kolena,4,naivni,59,238.0,329.249,2.006,0.0
+1626,Endoproteza kolena,4,ar1,59,256.586,320.502,2.099,-7.809
+1755,MR glave brez kontrasta,1,naivni,62,122.629,157.447,1.18,0.0
+1755,MR glave brez kontrasta,1,ar1,62,124.043,157.906,1.201,-1.153
+1755,MR glave brez kontrasta,1,lin,62,1071.23,1152.031,10.15,-773.553
+1755,MR glave brez kontrasta,4,naivni,59,355.085,412.217,3.361,0.0
+1755,MR glave brez kontrasta,4,ar1,59,363.332,423.951,3.464,-2.322
+1755,MR glave brez kontrasta,4,lin,59,1230.906,1320.234,11.657,-246.651
+1941,UZ vratnih žil,1,ar1,62,325.483,475.025,1.145,3.769
+1941,UZ vratnih žil,1,naivni,62,338.231,470.3,1.203,0.0
+1941,UZ vratnih žil,1,lin,62,1684.296,1845.689,6.021,-397.972
+1941,UZ vratnih žil,4,naivni,59,634.017,761.402,2.289,0.0
+1941,UZ vratnih žil,4,ar1,59,648.047,818.303,2.286,-2.213
+1941,UZ vratnih žil,4,lin,59,1897.919,2089.187,6.78,-199.348
+AGREGAT,Agregat,1,naivni,62,2561.315,6099.967,1.295,0.0
+AGREGAT,Agregat,1,ar1,62,2991.665,6245.68,1.471,-16.802
+AGREGAT,Agregat,1,lin,62,5920.512,7069.402,3.0,-131.151
+AGREGAT,Agregat,4,naivni,59,4053.5,6872.85,1.989,0.0
+AGREGAT,Agregat,4,ar1,59,6322.074,8659.2,2.923,-55.966
+AGREGAT,Agregat,4,lin,59,6375.409,7591.461,3.21,-57.282

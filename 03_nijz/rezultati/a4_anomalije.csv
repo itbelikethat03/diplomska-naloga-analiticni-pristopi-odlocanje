@@ -1,0 +1,23 @@
+﻿vzs,naziv,datum,razlika,z,z_flag,if_flag,konsenz,razlaga
+1010P,Dermatološki pregled - prvi,2025-06-11,-3158.0,-6.118,True,True,True,brez ocitne domenske razlage
+1010P,Dermatološki pregled - prvi,2025-06-18,3730.0,7.042,True,True,True,praznik +/-10 dni
+1018P,Kardiološki pregled - prvi,2024-06-13,571.0,2.717,True,True,True,brez ocitne domenske razlage
+1018P,Kardiološki pregled - prvi,2024-09-12,-649.0,-2.892,True,True,True,brez ocitne domenske razlage
+1018P,Kardiološki pregled - prvi,2024-09-19,759.0,3.581,True,True,True,brez ocitne domenske razlage
+1018P,Kardiološki pregled - prvi,2024-11-21,-543.0,-2.405,True,True,True,brez ocitne domenske razlage
+1941,UZ vratnih žil,2025-08-20,-1608.0,-4.164,True,True,True,praznik +/-10 dni
+1941,UZ vratnih žil,2025-08-27,1520.0,3.476,True,True,True,brez ocitne domenske razlage
+1941,UZ vratnih žil,2026-06-17,-995.0,-2.667,True,True,True,praznik +/-10 dni
+1755,MR glave brez kontrasta,2025-01-08,-390.0,-2.921,True,True,True,praznik +/-10 dni
+1755,MR glave brez kontrasta,2025-06-11,-438.0,-3.258,True,True,True,brez ocitne domenske razlage
+1755,MR glave brez kontrasta,2025-06-18,471.0,3.12,True,True,True,praznik +/-10 dni
+1755,MR glave brez kontrasta,2025-08-20,-403.0,-3.013,True,True,True,praznik +/-10 dni
+1195,Operacija sive mrene (katarakte),2025-06-11,-1298.0,-6.548,True,True,True,brez ocitne domenske razlage
+1195,Operacija sive mrene (katarakte),2025-06-18,1097.0,5.134,True,True,True,praznik +/-10 dni
+1626,Endoproteza kolena,2025-04-16,-745.0,-3.177,True,True,True,praznik +/-10 dni
+1626,Endoproteza kolena,2025-06-11,-1146.0,-4.87,True,True,True,brez ocitne domenske razlage
+1626,Endoproteza kolena,2025-06-18,1181.0,4.954,True,True,True,praznik +/-10 dni
+1626,Endoproteza kolena,2026-04-29,733.0,3.063,True,True,True,praznik +/-10 dni
+AGREGAT,Agregat,2024-08-29,12726.0,2.496,True,True,True,brez ocitne domenske razlage
+AGREGAT,Agregat,2025-06-11,-32669.0,-6.724,True,True,True,brez ocitne domenske razlage
+AGREGAT,Agregat,2025-06-18,31161.0,6.24,True,True,True,praznik +/-10 dni

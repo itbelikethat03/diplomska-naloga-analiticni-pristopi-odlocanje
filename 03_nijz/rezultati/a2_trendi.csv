@@ -1,0 +1,15 @@
+﻿vzs,naziv,kazalnik,naklon_teden,ci_spodnja,ci_zgornja,p,r2
+1010P,Dermatološki pregled - prvi,cak_skupaj,47.4954,40.7223,54.2685,0.0,0.6371
+1010P,Dermatološki pregled - prvi,cd_redno,0.9851,0.8678,1.1024,0.0,0.7158
+1018P,Kardiološki pregled - prvi,cak_skupaj,-16.6155,-21.3949,-11.8361,0.0,0.3014
+1018P,Kardiološki pregled - prvi,cd_redno,-0.1587,-0.3106,-0.0067,0.0408,0.0375
+1941,UZ vratnih žil,cak_skupaj,117.2158,108.9096,125.522,0.0,0.8767
+1941,UZ vratnih žil,cd_redno,1.6338,1.5267,1.7408,0.0,0.8927
+1755,MR glave brez kontrasta,cak_skupaj,39.1229,33.7043,44.5416,0.0,0.6505
+1755,MR glave brez kontrasta,cd_redno,0.1278,-0.0231,0.2788,0.0962,0.025
+1195,Operacija sive mrene (katarakte),cak_skupaj,46.5376,44.7721,48.3031,0.0,0.9613
+1195,Operacija sive mrene (katarakte),cd_redno,1.5974,1.456,1.7388,0.0,0.8201
+1626,Endoproteza kolena,cak_skupaj,4.805,3.581,6.0291,0.0,0.3549
+1626,Endoproteza kolena,cd_redno,-1.0973,-1.3636,-0.831,0.0,0.3774
+AGREGAT,Agregat (282 VZS s popolnimi vrstami),cak_skupaj,588.7282,552.9462,624.5103,0.0,0.9062
+AGREGAT,Agregat (282 VZS s popolnimi vrstami),cd_redno,0.6101,0.5357,0.6846,0.0,0.7057

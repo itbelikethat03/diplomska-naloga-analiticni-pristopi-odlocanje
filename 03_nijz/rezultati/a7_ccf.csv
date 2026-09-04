@@ -1,0 +1,64 @@
+﻿vzs,naziv,zamik_tednov,r,znacilna,n,meja_znacilnosti
+1010P,Dermatološki pregled - prvi,0,0.1316,False,119,0.1833
+1010P,Dermatološki pregled - prvi,1,0.0482,False,119,0.1833
+1010P,Dermatološki pregled - prvi,2,-0.017,False,119,0.1833
+1010P,Dermatološki pregled - prvi,3,-0.09,False,119,0.1833
+1010P,Dermatološki pregled - prvi,4,-0.0163,False,119,0.1833
+1010P,Dermatološki pregled - prvi,5,0.1238,False,119,0.1833
+1010P,Dermatološki pregled - prvi,6,-0.0628,False,119,0.1833
+1010P,Dermatološki pregled - prvi,7,0.0313,False,119,0.1833
+1010P,Dermatološki pregled - prvi,8,0.062,False,119,0.1833
+1018P,Kardiološki pregled - prvi,0,0.0141,False,119,0.1833
+1018P,Kardiološki pregled - prvi,1,-0.0415,False,119,0.1833
+1018P,Kardiološki pregled - prvi,2,0.1513,False,119,0.1833
+1018P,Kardiološki pregled - prvi,3,0.0062,False,119,0.1833
+1018P,Kardiološki pregled - prvi,4,-0.0067,False,119,0.1833
+1018P,Kardiološki pregled - prvi,5,0.1689,False,119,0.1833
+1018P,Kardiološki pregled - prvi,6,-0.0577,False,119,0.1833
+1018P,Kardiološki pregled - prvi,7,-0.0194,False,119,0.1833
+1018P,Kardiološki pregled - prvi,8,0.0793,False,119,0.1833
+1941,UZ vratnih žil,0,0.0737,False,119,0.1833
+1941,UZ vratnih žil,1,-0.0843,False,119,0.1833
+1941,UZ vratnih žil,2,0.1172,False,119,0.1833
+1941,UZ vratnih žil,3,0.1712,False,119,0.1833
+1941,UZ vratnih žil,4,-0.1508,False,119,0.1833
+1941,UZ vratnih žil,5,0.1476,False,119,0.1833
+1941,UZ vratnih žil,6,-0.1199,False,119,0.1833
+1941,UZ vratnih žil,7,0.0672,False,119,0.1833
+1941,UZ vratnih žil,8,0.0052,False,119,0.1833
+1755,MR glave brez kontrasta,0,0.1727,False,119,0.1833
+1755,MR glave brez kontrasta,1,0.0127,False,119,0.1833
+1755,MR glave brez kontrasta,2,0.0073,False,119,0.1833
+1755,MR glave brez kontrasta,3,0.1246,False,119,0.1833
+1755,MR glave brez kontrasta,4,0.0016,False,119,0.1833
+1755,MR glave brez kontrasta,5,0.1449,False,119,0.1833
+1755,MR glave brez kontrasta,6,0.0094,False,119,0.1833
+1755,MR glave brez kontrasta,7,0.0299,False,119,0.1833
+1755,MR glave brez kontrasta,8,0.0851,False,119,0.1833
+1195,Operacija sive mrene (katarakte),0,-0.0147,False,119,0.1833
+1195,Operacija sive mrene (katarakte),1,-0.0673,False,119,0.1833
+1195,Operacija sive mrene (katarakte),2,0.0849,False,119,0.1833
+1195,Operacija sive mrene (katarakte),3,-0.0125,False,119,0.1833
+1195,Operacija sive mrene (katarakte),4,0.0119,False,119,0.1833
+1195,Operacija sive mrene (katarakte),5,-0.044,False,119,0.1833
+1195,Operacija sive mrene (katarakte),6,0.0933,False,119,0.1833
+1195,Operacija sive mrene (katarakte),7,-0.0577,False,119,0.1833
+1195,Operacija sive mrene (katarakte),8,-0.1139,False,119,0.1833
+1626,Endoproteza kolena,0,0.0308,False,119,0.1833
+1626,Endoproteza kolena,1,0.0259,False,119,0.1833
+1626,Endoproteza kolena,2,-0.0017,False,119,0.1833
+1626,Endoproteza kolena,3,-0.0791,False,119,0.1833
+1626,Endoproteza kolena,4,0.1491,False,119,0.1833
+1626,Endoproteza kolena,5,-0.0929,False,119,0.1833
+1626,Endoproteza kolena,6,0.0567,False,119,0.1833
+1626,Endoproteza kolena,7,-0.0406,False,119,0.1833
+1626,Endoproteza kolena,8,0.0569,False,119,0.1833
+AGREGAT,Agregat,0,0.1491,False,119,0.1833
+AGREGAT,Agregat,1,-0.0321,False,119,0.1833
+AGREGAT,Agregat,2,0.0243,False,119,0.1833
+AGREGAT,Agregat,3,-0.1142,False,119,0.1833
+AGREGAT,Agregat,4,0.123,False,119,0.1833
+AGREGAT,Agregat,5,0.0739,False,119,0.1833
+AGREGAT,Agregat,6,-0.041,False,119,0.1833
+AGREGAT,Agregat,7,0.0817,False,119,0.1833
+AGREGAT,Agregat,8,0.1322,False,119,0.1833

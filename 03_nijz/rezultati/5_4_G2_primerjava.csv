@@ -1,0 +1,42 @@
+﻿postavka,staro,novo,status,opomba
+Surovih datotek,112.0,112.0,nespremenjeno,
+Vrstic panela,41767.0,41767.0,nespremenjeno,
+Razlicnih VZS,376.0,376.0,nespremenjeno,
+VZS s popolno vrsto cak_skupaj,282.0,292.0,spremenjeno,merilo popolnosti se zdaj presoja na 110 zanesljivih tednih (A6)
+VZS v agregatu,282.0,292.0,spremenjeno,"2395P in 1264 (blok-izpad poleti 2024) NISO izlocena: izlocitev natanko teh dveh od 68 prizadetih VZS bi bila selektivna brez splosnega praga; poleg tega je blok v celoti v ucnem, ne testnem delu"
+Uporabljenih tednov za modeliranje,120.0,110.0,spremenjeno,"prej redna mreza 120 tednov z interpolacijo; zdaj 110 dejansko opazovanih in zanesljivih tednov, brez interpolacije"
+Manjkajocih tednov v arhivu,8.0,8.0,nespremenjeno,"stevilo drzi, a razlaga ne: 2026-W17 in 2026-W24 ne padeta na noben praznik"
+Nezanesljivih tednov,0.0,2.0,spremenjeno,11. 6. 2025 in 20. 8. 2025 (A3)
+Delez NaN pri cak_skupaj (%),11.5,11.5,nespremenjeno,
+VZS z nepopolno vrsto,93.0,84.0,napacno v besedilu,"prej navedeno 93; 376 - 282 = 94, torej je bila stara stevilka napacna"
+Dogodkov sprememb nabora VZS,37.0,37.0,nespremenjeno,
+Rast agregata (%),15.9,15.9,nespremenjeno,"sprememba izhaja iz novega nabora VZS, ne iz izlocitve tednov"
+"Agregat, prva vrednost",294560.0,304210.0,napacno v besedilu,"294.560 je bil minimum vrste, ne prva vrednost — stara navedba je bila napacna ze pred popravki"
+"Agregat, zadnja vrednost",,352457.0,novo,
+"Agregat, vrh",358335.0,358869.0,spremenjeno,
+Naklon trenda agregata (na teden),589.0,604.0,spremenjeno,
+R2 trenda agregata,0.91,0.92,spremenjeno,
+Rast UZ vratnih zil (%),60.0,60.0,nespremenjeno,
+Rast MR glave (%),59.0,59.0,nespremenjeno,
+Rast kardioloskega pregleda (%),-11.6,-11.6,nespremenjeno,
+Delez sezonske komponente STL (%),33.0,30.9,spremenjeno,
+Testiranih tock (anomalije),777.0,763.0,spremenjeno,
+Z-oznacb,27.0,38.0,spremenjeno,"porast: po izlocitvi osamelcev pade st. odklon razlik, zato prag |z| > 2 prekorači vec tednov (past iz koraka C2)"
+IF-oznacb,42.0,42.0,nespremenjeno,
+Konsenznih anomalij,22.0,26.0,spremenjeno,
+Testnih tock h = 1,62.0,58.0,spremenjeno,
+Testnih tock h = 4,59.0,55.0,spremenjeno,
+"MAE naivnega, agregat, h = 1",2561.0,1488.0,spremenjeno,
+"MAE naivnega kot delez ravni, agregat (%)",0.8,0.45,spremenjeno,
+"AR(1) proti naivnemu, agregat, h = 1 (%)",-16.8,1.0,spremenjeno,"OBRAT: prejsnja stevilka izvira iz presezene interpolirane metodologije (120 t., 62 tock); na izhodiscni (112 t., brez interpolacije) je -17,6 %. Po popravku obeh tednov razlika ni vec statisticno razlocljiva od nic (Wilcoxon p = 0,748, glej 5_4_D4_parni_testi.csv) - naivni in AR(1) sta nerazlocljiva, ne AR(1) zmagovalec"
+"AR(1) proti naivnemu, agregat, h = 4 (%)",-56.0,0.8,spremenjeno,
+"Lin. regresija proti naivnemu, agregat, h = 1 (%)",-131.2,-246.6,spremenjeno,
+"AR(1) proti naivnemu, UZ vratnih zil, h = 1 (%)",3.8,1.2,spremenjeno,
+"AR(1) proti naivnemu, katarakta, h = 4 (%)",2.3,16.1,spremenjeno,
+"Vrst, kjer AR(1) premaga naivnega pri h = 1",1.0,2.0,spremenjeno,
+"Vrst, kjer AR(1) premaga naivnega pri h = 4",1.0,3.0,spremenjeno,
+"Znacilnih kriznih korelacij (nominalno, p < 0,05)",0.0,5.0,spremenjeno,"stara trditev 'nobena ni znacilna' ne drzi vec; a nobena ne prezivi korekcije za 63 testov (Bonferroni, BH)"
+Znacilnih po korekciji za mnogotere teste,0.0,0.0,nespremenjeno,
+Najnizja p-vrednost (agregat),0.06,0.003,spremenjeno,
+AR-X: najmanjse poslabsanje (%),-0.7,4.66,spremenjeno,stara trditev 'AR-X poslabsa pri VSEH vrstah' ne drzi: pri kardioloskem pregledu napoved izboljsa
+AR-X: najvecje poslabsanje (%),-10.0,-5.42,spremenjeno,

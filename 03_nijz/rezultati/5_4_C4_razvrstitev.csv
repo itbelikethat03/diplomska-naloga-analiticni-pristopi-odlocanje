@@ -1,0 +1,76 @@
+﻿razlicica,vzs,naziv,datum,razlika,z,razvrstitev
+izhodiscna,1010P,Dermatološki pregled - prvi,2025-06-11,-3158.0,-6.12,podatkovna: oznacen nezanesljiv teden
+izhodiscna,1010P,Dermatološki pregled - prvi,2025-06-18,3730.0,7.04,podatkovna: teden ob prazniku
+izhodiscna,1018P,Kardiološki pregled - prvi,2024-06-13,571.0,2.72,procesna ali nepojasnjena
+izhodiscna,1018P,Kardiološki pregled - prvi,2024-09-12,-649.0,-2.89,podatkovna: par padec-odboj
+izhodiscna,1018P,Kardiološki pregled - prvi,2024-09-19,759.0,3.58,procesna ali nepojasnjena
+izhodiscna,1018P,Kardiološki pregled - prvi,2024-11-21,-543.0,-2.4,procesna ali nepojasnjena
+izhodiscna,1941,UZ vratnih žil,2025-08-20,-1608.0,-4.16,podatkovna: oznacen nezanesljiv teden
+izhodiscna,1941,UZ vratnih žil,2025-08-27,1520.0,3.48,procesna ali nepojasnjena
+izhodiscna,1941,UZ vratnih žil,2026-06-17,-995.0,-2.67,podatkovna: sprememba izmerjena cez vrzel v arhivu
+izhodiscna,1755,MR glave brez kontrasta,2025-01-08,-390.0,-2.92,podatkovna: sprememba izmerjena cez vrzel v arhivu
+izhodiscna,1755,MR glave brez kontrasta,2025-06-11,-438.0,-3.26,podatkovna: oznacen nezanesljiv teden
+izhodiscna,1755,MR glave brez kontrasta,2025-06-18,471.0,3.12,podatkovna: teden ob prazniku
+izhodiscna,1755,MR glave brez kontrasta,2025-08-20,-403.0,-3.01,podatkovna: oznacen nezanesljiv teden
+izhodiscna,1195,Operacija sive mrene (katarakte),2025-06-11,-1298.0,-6.55,podatkovna: oznacen nezanesljiv teden
+izhodiscna,1195,Operacija sive mrene (katarakte),2025-06-18,1097.0,5.13,podatkovna: teden ob prazniku
+izhodiscna,1626,Endoproteza kolena,2025-04-16,-745.0,-3.18,podatkovna: teden ob prazniku
+izhodiscna,1626,Endoproteza kolena,2025-06-11,-1146.0,-4.87,podatkovna: oznacen nezanesljiv teden
+izhodiscna,1626,Endoproteza kolena,2025-06-18,1181.0,4.95,podatkovna: teden ob prazniku
+izhodiscna,1626,Endoproteza kolena,2026-04-29,733.0,3.06,podatkovna: sprememba izmerjena cez vrzel v arhivu
+izhodiscna,AGREGAT,Agregat,2024-08-29,12726.0,2.5,procesna ali nepojasnjena
+izhodiscna,AGREGAT,Agregat,2025-06-11,-32669.0,-6.72,podatkovna: oznacen nezanesljiv teden
+izhodiscna,AGREGAT,Agregat,2025-06-18,31161.0,6.24,podatkovna: teden ob prazniku
+delno_ocisceno,1010P,Dermatološki pregled - prvi,2024-10-10,-581.0,-2.55,procesna ali nepojasnjena
+delno_ocisceno,1010P,Dermatološki pregled - prvi,2024-10-17,-619.0,-2.7,podatkovna: par padec-odboj
+delno_ocisceno,1010P,Dermatološki pregled - prvi,2024-10-24,551.0,2.06,podatkovna: teden ob prazniku
+delno_ocisceno,1010P,Dermatološki pregled - prvi,2025-01-29,-538.0,-2.37,podatkovna: teden ob prazniku
+delno_ocisceno,1010P,Dermatološki pregled - prvi,2025-07-02,735.0,2.81,podatkovna: sprememba izmerjena cez vrzel v arhivu
+delno_ocisceno,1018P,Kardiološki pregled - prvi,2024-06-13,571.0,2.78,procesna ali nepojasnjena
+delno_ocisceno,1018P,Kardiološki pregled - prvi,2024-09-12,-649.0,-2.96,podatkovna: par padec-odboj
+delno_ocisceno,1018P,Kardiološki pregled - prvi,2024-09-19,759.0,3.66,procesna ali nepojasnjena
+delno_ocisceno,1018P,Kardiološki pregled - prvi,2025-04-30,451.0,2.22,podatkovna: teden ob prazniku
+delno_ocisceno,1941,UZ vratnih žil,2025-08-20,-1608.0,-4.26,podatkovna: oznacen nezanesljiv teden
+delno_ocisceno,1941,UZ vratnih žil,2025-08-27,1520.0,3.55,procesna ali nepojasnjena
+delno_ocisceno,1941,UZ vratnih žil,2026-06-17,-995.0,-2.73,podatkovna: sprememba izmerjena cez vrzel v arhivu
+delno_ocisceno,1755,MR glave brez kontrasta,2024-07-18,-253.0,-2.16,procesna ali nepojasnjena
+delno_ocisceno,1755,MR glave brez kontrasta,2025-01-08,-390.0,-3.22,podatkovna: sprememba izmerjena cez vrzel v arhivu
+delno_ocisceno,1755,MR glave brez kontrasta,2025-08-20,-403.0,-3.32,podatkovna: oznacen nezanesljiv teden
+delno_ocisceno,1755,MR glave brez kontrasta,2025-10-15,304.0,2.15,procesna ali nepojasnjena
+delno_ocisceno,1195,Operacija sive mrene (katarakte),2024-04-18,348.0,2.38,podatkovna: teden ob prazniku
+delno_ocisceno,1195,Operacija sive mrene (katarakte),2026-02-18,402.0,2.8,podatkovna: teden ob prazniku
+delno_ocisceno,1195,Operacija sive mrene (katarakte),2026-07-01,-244.0,-2.26,podatkovna: teden ob prazniku
+delno_ocisceno,1626,Endoproteza kolena,2025-04-09,425.0,2.34,podatkovna: par padec-odboj
+delno_ocisceno,1626,Endoproteza kolena,2025-04-16,-745.0,-4.22,podatkovna: teden ob prazniku
+delno_ocisceno,1626,Endoproteza kolena,2025-05-07,384.0,2.11,podatkovna: teden ob prazniku
+delno_ocisceno,1626,Endoproteza kolena,2026-04-29,733.0,4.07,podatkovna: sprememba izmerjena cez vrzel v arhivu
+delno_ocisceno,AGREGAT,Agregat,2024-07-18,-7095.0,-3.13,procesna ali nepojasnjena
+delno_ocisceno,AGREGAT,Agregat,2024-08-29,12731.0,5.1,procesna ali nepojasnjena
+delno_ocisceno,AGREGAT,Agregat,2025-08-20,-8163.0,-3.57,podatkovna: oznacen nezanesljiv teden
+delno_ocisceno,AGREGAT,Agregat,2025-08-27,6647.0,2.58,procesna ali nepojasnjena
+ocisceno,1010P,Dermatološki pregled - prvi,2024-10-10,-581.0,-2.54,procesna ali nepojasnjena
+ocisceno,1010P,Dermatološki pregled - prvi,2024-10-17,-619.0,-2.69,podatkovna: par padec-odboj
+ocisceno,1010P,Dermatološki pregled - prvi,2024-10-24,551.0,2.05,podatkovna: teden ob prazniku
+ocisceno,1010P,Dermatološki pregled - prvi,2025-01-29,-538.0,-2.36,podatkovna: teden ob prazniku
+ocisceno,1010P,Dermatološki pregled - prvi,2025-07-02,735.0,2.8,podatkovna: sprememba izmerjena cez vrzel v arhivu
+ocisceno,1018P,Kardiološki pregled - prvi,2024-06-13,571.0,2.77,procesna ali nepojasnjena
+ocisceno,1018P,Kardiološki pregled - prvi,2024-09-12,-649.0,-2.95,podatkovna: par padec-odboj
+ocisceno,1018P,Kardiološki pregled - prvi,2024-09-19,759.0,3.66,procesna ali nepojasnjena
+ocisceno,1018P,Kardiološki pregled - prvi,2024-11-21,-543.0,-2.45,procesna ali nepojasnjena
+ocisceno,1941,UZ vratnih žil,2025-07-16,-795.0,-2.62,podatkovna: par padec-odboj
+ocisceno,1941,UZ vratnih žil,2025-07-23,1014.0,2.69,procesna ali nepojasnjena
+ocisceno,1941,UZ vratnih žil,2026-05-20,-952.0,-3.08,procesna ali nepojasnjena
+ocisceno,1941,UZ vratnih žil,2026-06-17,-995.0,-3.21,podatkovna: sprememba izmerjena cez vrzel v arhivu
+ocisceno,1941,UZ vratnih žil,2026-07-01,894.0,2.33,podatkovna: teden ob prazniku
+ocisceno,1755,MR glave brez kontrasta,2025-01-08,-390.0,-3.31,podatkovna: sprememba izmerjena cez vrzel v arhivu
+ocisceno,1755,MR glave brez kontrasta,2025-08-27,-273.0,-2.38,podatkovna: sprememba izmerjena cez vrzel v arhivu
+ocisceno,1755,MR glave brez kontrasta,2025-10-15,304.0,2.2,procesna ali nepojasnjena
+ocisceno,1195,Operacija sive mrene (katarakte),2024-04-18,348.0,2.36,podatkovna: teden ob prazniku
+ocisceno,1195,Operacija sive mrene (katarakte),2026-02-18,402.0,2.78,podatkovna: teden ob prazniku
+ocisceno,1195,Operacija sive mrene (katarakte),2026-07-01,-244.0,-2.26,podatkovna: teden ob prazniku
+ocisceno,1626,Endoproteza kolena,2025-04-09,425.0,2.33,podatkovna: par padec-odboj
+ocisceno,1626,Endoproteza kolena,2025-04-16,-745.0,-4.2,podatkovna: teden ob prazniku
+ocisceno,1626,Endoproteza kolena,2025-05-07,384.0,2.1,podatkovna: teden ob prazniku
+ocisceno,1626,Endoproteza kolena,2026-04-29,733.0,4.05,podatkovna: sprememba izmerjena cez vrzel v arhivu
+ocisceno,AGREGAT,Agregat,2024-07-18,-7095.0,-3.42,procesna ali nepojasnjena
+ocisceno,AGREGAT,Agregat,2024-08-29,12731.0,5.58,procesna ali nepojasnjena

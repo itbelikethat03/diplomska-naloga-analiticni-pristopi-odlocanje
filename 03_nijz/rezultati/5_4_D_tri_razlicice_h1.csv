@@ -1,0 +1,64 @@
+﻿razlicica,vzs,naziv,model,n,MAE,MAE_vs_naivni_pct
+delno_ocisceno,1010P,Dermatološki pregled - prvi,ar1,59,191.541,-5.193
+delno_ocisceno,1010P,Dermatološki pregled - prvi,lin,59,1184.312,-550.418
+delno_ocisceno,1010P,Dermatološki pregled - prvi,naivni,59,182.085,0.0
+delno_ocisceno,1018P,Kardiološki pregled - prvi,ar1,59,140.301,-1.22
+delno_ocisceno,1018P,Kardiološki pregled - prvi,lin,59,833.69,-501.464
+delno_ocisceno,1018P,Kardiološki pregled - prvi,naivni,59,138.61,0.0
+delno_ocisceno,1195,Operacija sive mrene (katarakte),ar1,59,100.562,-4.072
+delno_ocisceno,1195,Operacija sive mrene (katarakte),lin,59,322.391,-233.644
+delno_ocisceno,1195,Operacija sive mrene (katarakte),naivni,59,96.627,0.0
+delno_ocisceno,1626,Endoproteza kolena,ar1,59,157.004,-22.741
+delno_ocisceno,1626,Endoproteza kolena,lin,59,205.058,-60.308
+delno_ocisceno,1626,Endoproteza kolena,naivni,59,127.915,0.0
+delno_ocisceno,1755,MR glave brez kontrasta,ar1,59,117.378,-0.411
+delno_ocisceno,1755,MR glave brez kontrasta,lin,59,1148.833,-882.763
+delno_ocisceno,1755,MR glave brez kontrasta,naivni,59,116.898,0.0
+delno_ocisceno,1941,UZ vratnih žil,ar1,59,327.832,2.045
+delno_ocisceno,1941,UZ vratnih žil,lin,59,1643.45,-391.054
+delno_ocisceno,1941,UZ vratnih žil,naivni,59,334.678,0.0
+delno_ocisceno,AGREGAT,Agregat,ar1,59,1672.35,0.933
+delno_ocisceno,AGREGAT,Agregat,lin,59,5029.599,-197.944
+delno_ocisceno,AGREGAT,Agregat,naivni,59,1688.102,0.0
+izhodiscna,1010P,Dermatološki pregled - prvi,ar1,60,295.086,-3.788
+izhodiscna,1010P,Dermatološki pregled - prvi,lin,60,1202.159,-322.824
+izhodiscna,1010P,Dermatološki pregled - prvi,naivni,60,284.317,0.0
+izhodiscna,1018P,Kardiološki pregled - prvi,ar1,60,146.922,-0.723
+izhodiscna,1018P,Kardiološki pregled - prvi,lin,60,834.275,-471.943
+izhodiscna,1018P,Kardiološki pregled - prvi,naivni,60,145.867,0.0
+izhodiscna,1195,Operacija sive mrene (katarakte),ar1,60,135.111,-2.681
+izhodiscna,1195,Operacija sive mrene (katarakte),lin,60,317.099,-140.987
+izhodiscna,1195,Operacija sive mrene (katarakte),naivni,60,131.583,0.0
+izhodiscna,1626,Endoproteza kolena,ar1,60,208.934,-27.411
+izhodiscna,1626,Endoproteza kolena,lin,60,220.873,-34.692
+izhodiscna,1626,Endoproteza kolena,naivni,60,163.983,0.0
+izhodiscna,1755,MR glave brez kontrasta,ar1,60,130.678,-0.87
+izhodiscna,1755,MR glave brez kontrasta,lin,60,1135.976,-776.863
+izhodiscna,1755,MR glave brez kontrasta,naivni,60,129.55,0.0
+izhodiscna,1941,UZ vratnih žil,ar1,60,342.494,1.836
+izhodiscna,1941,UZ vratnih žil,lin,60,1648.751,-372.557
+izhodiscna,1941,UZ vratnih žil,naivni,60,348.9,0.0
+izhodiscna,AGREGAT,Agregat,ar1,60,3172.008,-17.642
+izhodiscna,AGREGAT,Agregat,lin,60,5634.783,-108.979
+izhodiscna,AGREGAT,Agregat,naivni,60,2696.333,0.0
+ocisceno,1010P,Dermatološki pregled - prvi,ar1,58,194.22,-4.857
+ocisceno,1010P,Dermatološki pregled - prvi,lin,58,1181.134,-537.678
+ocisceno,1010P,Dermatološki pregled - prvi,naivni,58,185.224,0.0
+ocisceno,1018P,Kardiološki pregled - prvi,ar1,58,139.425,-1.311
+ocisceno,1018P,Kardiološki pregled - prvi,lin,58,827.804,-501.512
+ocisceno,1018P,Kardiološki pregled - prvi,naivni,58,137.621,0.0
+ocisceno,1195,Operacija sive mrene (katarakte),ar1,58,101.729,-3.496
+ocisceno,1195,Operacija sive mrene (katarakte),lin,58,314.218,-219.675
+ocisceno,1195,Operacija sive mrene (katarakte),naivni,58,98.293,0.0
+ocisceno,1626,Endoproteza kolena,ar1,58,158.229,-22.217
+ocisceno,1626,Endoproteza kolena,lin,58,204.629,-58.057
+ocisceno,1626,Endoproteza kolena,naivni,58,129.466,0.0
+ocisceno,1755,MR glave brez kontrasta,ar1,58,114.487,-0.049
+ocisceno,1755,MR glave brez kontrasta,lin,58,1161.065,-914.642
+ocisceno,1755,MR glave brez kontrasta,naivni,58,114.431,0.0
+ocisceno,1941,UZ vratnih žil,ar1,58,284.518,1.221
+ocisceno,1941,UZ vratnih žil,lin,58,1640.817,-469.66
+ocisceno,1941,UZ vratnih žil,naivni,58,288.034,0.0
+ocisceno,AGREGAT,Agregat,ar1,58,1472.483,1.043
+ocisceno,AGREGAT,Agregat,lin,58,5158.104,-246.647
+ocisceno,AGREGAT,Agregat,naivni,58,1488.0,0.0

@@ -1,0 +1,15 @@
+﻿vzs,naziv,kazalnik,n,povprecje,mediana,std,min,max,zacetek,konec,sprememba_pct
+1010P,Dermatološki pregled - prvi,cak_skupaj,112,29198.1,29360.5,1932.4,24345.0,31872.0,24345.0,29233.0,20.1
+1010P,Dermatološki pregled - prvi,cd_redno,112,423.8,425.6,37.8,350.9,481.8,361.4,440.5,21.9
+1018P,Kardiološki pregled - prvi,cak_skupaj,112,17391.0,17173.0,982.8,15744.0,19129.0,19129.0,16912.0,-11.6
+1018P,Kardiološki pregled - prvi,cd_redno,112,305.5,299.0,26.6,248.4,380.1,347.0,337.1,-2.9
+1941,UZ vratnih žil,cak_skupaj,112,24657.8,26579.5,4065.5,17932.0,29662.0,17932.0,28688.0,60.0
+1941,UZ vratnih žil,cd_redno,112,341.1,356.1,56.2,249.4,439.3,252.9,405.1,60.2
+1755,MR glave brez kontrasta,cak_skupaj,112,5172.3,4764.0,1575.3,3160.0,8404.0,4958.0,7884.0,59.0
+1755,MR glave brez kontrasta,cd_redno,112,186.8,180.8,26.3,111.2,243.3,145.9,171.7,17.6
+1195,Operacija sive mrene (katarakte),cak_skupaj,112,14016.2,14390.0,1541.5,11189.0,16326.0,11198.0,16139.0,44.1
+1195,Operacija sive mrene (katarakte),cd_redno,112,371.0,377.2,57.3,285.3,499.4,306.7,479.8,56.4
+1626,Endoproteza kolena,cak_skupaj,112,8835.9,8812.0,261.9,7833.0,9441.0,8603.0,9441.0,9.7
+1626,Endoproteza kolena,cd_redno,112,656.7,678.0,58.0,511.9,737.1,674.4,582.1,-13.7
+AGREGAT,Agregat (282 VZS s popolnimi vrstami),cak_skupaj,112,326859.1,328922.0,20084.1,294560.0,358335.0,303612.0,351969.0,15.9
+AGREGAT,Agregat (282 VZS s popolnimi vrstami),cd_redno,112,145.1,136.7,23.6,98.0,202.9,121.5,163.4,34.5

@@ -1,0 +1,23 @@
+# Python 3.11 (na razvojnem stroju `py -3.11`).
+# Gonilnik za MySQL je PyMySQL, ker se mysql-connector-python 9.x
+# na razvojnem stroju sesuje ob connect() (glej 02_fotona/db_common.py).
+
+# --- skupno ---
+pandas>=2.2
+numpy>=2.0
+matplotlib>=3.8
+scipy>=1.11
+scikit-learn>=1.4
+
+# --- 01_etl in 02_fotona (dostop do baze servis_db) ---
+SQLAlchemy>=2.0
+PyMySQL>=1.1
+
+# --- 03_nijz (javni podatki, brez baze) ---
+openpyxl>=3.1
+pyarrow>=15.0
+statsmodels>=0.14
+requests>=2.31
+
+# --- 04_priloge (sestava Priloge.docx) ---
+python-docx>=1.1

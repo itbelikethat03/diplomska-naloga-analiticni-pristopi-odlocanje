@@ -1,0 +1,66 @@
+﻿Št.,Šifrant,Izvorna oznaka,Uvrščena kategorija,Vir uvrstitve,Št. reklamacij,Obdobje
+1,strukturiran (2019–2025),odpoved električnih povezav (odpovedi napajalnih ali ozemljitvenih povezav),Neskladnost elektronskih komponent,zapisano v izvornih podatkih,88,2019–2025
+2,strukturiran (2019–2025),"odpoved komunikacijskih povezav (komunikacijski fiber, ožičenje)",Neskladnost elektronskih komponent,zapisano v izvornih podatkih,170,2019–2025
+3,strukturiran (2019–2025),"odpoved napajalnega dela (odpoved glavnega in pomožnih napajanj 24V, 5V...)",Neskladnost elektronskih komponent,zapisano v izvornih podatkih,172,2019–2025
+4,strukturiran (2019–2025),"odpoved nožnega stikala (odpoved stikala, kabla, oddajnika ali sprejemnika FSW)",Neskladnost elektronskih komponent,zapisano v izvornih podatkih,68,2019–2024
+5,strukturiran (2019–2025),odpoved prikazovalnika (odpovedi monitorja ali displeja),Neskladnost elektronskih komponent,zapisano v izvornih podatkih,74,2019–2025
+6,strukturiran (2019–2025),odpoved senzorja ali stikala,Neskladnost elektronskih komponent,zapisano v izvornih podatkih,66,2019–2024
+7,strukturiran (2019–2025),odpoved tiskanega vezja (odpovedi elementov tiskanih vezij ali krmilnikov),Neskladnost elektronskih komponent,zapisano v izvornih podatkih,1275,2019–2025
+8,strukturiran (2019–2025),"odpoved / puščanje enote za sprej (puščanje enote za sprej, priključka, cevi)",Neskladnost enote za sprej,zapisano v izvornih podatkih,25,2019–2024
+9,strukturiran (2019–2025),"odpoved elektromagnetnega ventila (regulatorja zraka, zatikanje/puščanje ventila",Neskladnost enote za sprej,zapisano v izvornih podatkih,6,2023–2024
+10,strukturiran (2019–2025),"odpoved kompresorja (odpoved motorja kompresorja, puščanje...)",Neskladnost enote za sprej,zapisano v izvornih podatkih,30,2022–2025
+11,strukturiran (2019–2025),odpoved / menjava filtra in deionizatorja hladilnega sistema,Neskladnost hladilnega sistema,zapisano v izvornih podatkih,9,2020–2024
+12,strukturiran (2019–2025),odpoved senzorja pretoka,Neskladnost hladilnega sistema,zapisano v izvornih podatkih,18,2019–2025
+13,strukturiran (2019–2025),odpoved ventilatorja hladilnega sistema,Neskladnost hladilnega sistema,zapisano v izvornih podatkih,32,2020–2024
+14,strukturiran (2019–2025),odpoved črpalke hladilnega sistema (odpoved ali puščanje črpalke),Neskladnost hladilnega sistema,zapisano v izvornih podatkih,34,2020–2024
+15,strukturiran (2019–2025),"odpoved/puščanje hladilnega sistema (hladilnika, priključka, cevi, rezervoarja)",Neskladnost hladilnega sistema,zapisano v izvornih podatkih,25,2019–2024
+16,strukturiran (2019–2025),material aplikacijskih delov ne ustreza zahtevam,Neskladnost mehanskih komponent,zapisano v izvornih podatkih,13,2019–2024
+17,strukturiran (2019–2025),"odpoved / lom ohišja in njegovih delov (poškodbe ohišij naprav, dodatkov...)",Neskladnost mehanskih komponent,zapisano v izvornih podatkih,143,2017–2025
+18,strukturiran (2019–2025),odpoved / menjava zračnih filtrov naprave (predvsem redno vzdrževanje),Neskladnost mehanskih komponent,zapisano v izvornih podatkih,1,2021
+19,strukturiran (2019–2025),"odpoved lepljenih, varjenih in vijačenih delov (odpoved različnih delov izdelkov",Neskladnost mehanskih komponent,zapisano v izvornih podatkih,203,2019–2025
+20,strukturiran (2019–2025),"odpoved premičnih sistemov (odpoved zaklopa, preklopa 200-300um, KTP preklop)",Neskladnost mehanskih komponent,zapisano v izvornih podatkih,124,2019–2025
+21,strukturiran (2019–2025),"odpoved premičnih sistemov (odpoved zaklopa, preklopa 200-300um, KTP preklop),Neskladnost optičnih komponent<br>odpoved / poškodba prenosnega sistema (odpovedi fibrov, zrcal artikuliranih rok)",Neskladnost mehanskih komponent,zapisano v izvornih podatkih,1,2022
+22,strukturiran (2019–2025),"vizualno odstopanje (praske ohišja naprave, ročnikov)",Neskladnost mehanskih komponent,zapisano v izvornih podatkih,43,2019–2025
+23,strukturiran (2019–2025),"neustrezno nastavljen optični sistem (razjustir. sklop. enote, laserja, ročnika)",Neskladnost optičnih komponent,zapisano v izvornih podatkih,65,2019–2024
+24,strukturiran (2019–2025),"odpoved / poškodba aplikatorja (poškodbe optike dodatkov, okenc, fibertipov)",Neskladnost optičnih komponent,zapisano v izvornih podatkih,983,2019–2025
+25,strukturiran (2019–2025),"odpoved / poškodba optične poti (odpovedi zrcal, leč, beamcomb., Q-SW, KTP)",Neskladnost optičnih komponent,zapisano v izvornih podatkih,342,2019–2025
+26,strukturiran (2019–2025),"odpoved / poškodba prenosnega sistema (odpovedi fibrov, zrcal artikuliranih rok)",Neskladnost optičnih komponent,zapisano v izvornih podatkih,721,2019–2025
+27,strukturiran (2019–2025),odpoved / poškodba sklopitvene enote (odpovedi optike couplerjev),Neskladnost optičnih komponent,zapisano v izvornih podatkih,17,2020–2024
+28,strukturiran (2019–2025),"odpoved laserskega vira (odpoved LP, fleša, reflektorja ali laserskega jedra)",Neskladnost optičnih komponent,zapisano v izvornih podatkih,685,2019–2025
+29,strukturiran (2019–2025),odpoved pilotskega žarka (odpoved ali poškodba pointerja),Neskladnost optičnih komponent,zapisano v izvornih podatkih,23,2019–2025
+30,strukturiran (2019–2025),Drugo,Ni tehnična napaka,zapisano v izvornih podatkih,68,2021–2024
+31,strukturiran (2019–2025),"napaka pri odpremi (pakiranje, manjkajoč izdelek, neskladni prejem iz naročila)",Ni tehnična napaka,zapisano v izvornih podatkih,78,2019–2025
+32,strukturiran (2019–2025),"napaka pri pošiljanju (napaka, poškodba  povzročena s transportom izdelka)",Ni tehnična napaka,zapisano v izvornih podatkih,20,2019–2024
+33,strukturiran (2019–2025),"pritožba kupca (pritožba glede dobavnega roka, distributerja, servisne podpore)",Ni tehnična napaka,zapisano v izvornih podatkih,29,2019–2024
+34,strukturiran (2019–2025),redno vzdrževanje izdelkov družbe,Ni tehnična napaka,zapisano v izvornih podatkih,24,2019–2024
+35,prost zapis (2013–2019),napaka FW,Neskladnost elektronskih komponent,lastna uvrstitev,47,2013–2018
+36,prost zapis (2013–2019),okvara PFM,Neskladnost elektronskih komponent,lastna uvrstitev,191,2013–2019
+37,prost zapis (2013–2019),okvara kontrolerja,Neskladnost elektronskih komponent,lastna uvrstitev,150,2013–2019
+38,prost zapis (2013–2019),okvara krmilnika,Neskladnost elektronskih komponent,lastna uvrstitev,155,2013–2019
+39,prost zapis (2013–2019),okvara napajalnika,Neskladnost elektronskih komponent,lastna uvrstitev,259,2013–2019
+40,prost zapis (2013–2019),okvara nožne stopalke,Neskladnost elektronskih komponent,lastna uvrstitev,71,2013–2019
+41,prost zapis (2013–2019),okvara prikazovalnika,Neskladnost elektronskih komponent,lastna uvrstitev,68,2013–2019
+42,prost zapis (2013–2019),okvara tipkovnice,Neskladnost elektronskih komponent,lastna uvrstitev,7,2014–2017
+43,prost zapis (2013–2019),okvara tiskanega vezja,Neskladnost elektronskih komponent,lastna uvrstitev,127,2013–2019
+44,prost zapis (2013–2019),okvara kompresorja,Neskladnost enote za sprej,lastna uvrstitev,3,2013–2018
+45,prost zapis (2013–2019),okvara polnilca,Neskladnost enote za sprej,lastna uvrstitev,252,2013–2019
+46,prost zapis (2013–2019),okvara pršila,Neskladnost enote za sprej,lastna uvrstitev,68,2013–2018
+47,prost zapis (2013–2019),okvara hladilnega sistema,Neskladnost hladilnega sistema,lastna uvrstitev,114,2013–2019
+48,prost zapis (2013–2019),izrabljen del,Neskladnost mehanskih komponent,lastna uvrstitev,88,2013–2019
+49,prost zapis (2013–2019),neustrezen del,Neskladnost mehanskih komponent,lastna uvrstitev,129,2013–2019
+50,prost zapis (2013–2019),neustrezna zaščitna očala,Neskladnost mehanskih komponent,lastna uvrstitev,11,2014–2018
+51,prost zapis (2013–2019),okvara ročnika,Neskladnost mehanskih komponent,lastna uvrstitev,509,2013–2019
+52,prost zapis (2013–2019),poškodba ohišja,Neskladnost mehanskih komponent,lastna uvrstitev,34,2013–2019
+53,prost zapis (2013–2019),Neskladnost optičnih komponent,Neskladnost optičnih komponent,zapisano v izvornih podatkih,1,2023
+54,prost zapis (2013–2019),neustrezen energometer,Neskladnost optičnih komponent,lastna uvrstitev,67,2013–2019
+55,prost zapis (2013–2019),okvara artikulirane roke,Neskladnost optičnih komponent,lastna uvrstitev,158,2013–2019
+56,prost zapis (2013–2019),okvara bliskavke,Neskladnost optičnih komponent,lastna uvrstitev,118,2013–2019
+57,prost zapis (2013–2019),okvara laserja,Neskladnost optičnih komponent,lastna uvrstitev,179,2013–2019
+58,prost zapis (2013–2019),okvara skenerja,Neskladnost optičnih komponent,lastna uvrstitev,140,2013–2019
+59,prost zapis (2013–2019),poškodba fibra,Neskladnost optičnih komponent,lastna uvrstitev,225,2013–2019
+60,prost zapis (2013–2019),poškodba laserske palice,Neskladnost optičnih komponent,lastna uvrstitev,125,2013–2019
+61,prost zapis (2013–2019),poškodba laserskega zrcala,Neskladnost optičnih komponent,lastna uvrstitev,38,2013–2019
+62,prost zapis (2013–2019),poškodba optike,Neskladnost optičnih komponent,lastna uvrstitev,364,2013–2019
+63,prost zapis (2013–2019),drugo,Ni tehnična napaka,lastna uvrstitev,470,2013–2019
+64,prost zapis (2013–2019),napaka pakiranja,Ni tehnična napaka,lastna uvrstitev,37,2014–2019
+65,prost zapis (2013–2019),ni tehnična napaka,Ni tehnična napaka,zapisano v izvornih podatkih,163,2014–2019

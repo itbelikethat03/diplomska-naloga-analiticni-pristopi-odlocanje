@@ -1,0 +1,377 @@
+﻿vzs_sifra,vzs_naziv,cd_zelo_hitro,cd_hitro,cd_redno,cak_zelo_hitro,cak_hitro,cak_redno,cak_skupaj,n_tednov
+1004P,Pregled ob neplodnosti - par - prvi,0.0,0.0,0.0,0.0357,0.0089,0.0089,0.0089,112
+1010P,Dermatološki pregled - prvi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,112
+1011P,Venerološki pregled - prvi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,112
+1012P,Flebološki pregled - prvi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,112
+1018P,Kardiološki pregled - prvi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,112
+1026P,Nevrološki pregled - prvi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,112
+1033P,Ortopedski pregled - prvi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,112
+1040P,Psihiatrična obravnava - prva,0.0,0.0,0.0,0.0,0.0,0.0,0.0,112
+1042P,Pregled ob odvajanju odvisnosti od prepovedanih drog - prvi,0.0,0.0,0.0,0.0446,0.0446,0.0,0.0,112
+1044P,Pregled ob odvajanju odvisnosti od alkohola - prvi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,112
+1045P,Revmatološki pregled - prvi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,112
+1050P,Urološki pregled - prvi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,112
+1053P,Diabetološki pregled - prvi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,112
+1056P,Alergološki pregled - prvi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,112
+1057P,Kardiološki pregled otroka - prvi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,112
+1062P,Alergološki pregled otroka - prvi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,112
+1063P,Revmatološki pregled otroka - prvi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,112
+1067P,Nevrološki pregled otroka - prvi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,112
+1149,Operacija karpalnega kanala,0.0,0.0,0.0,0.0,0.0,0.0,0.0,112
+1151,Fenestracija hrbtenice,0.0,0.0,0.0,0.0089,0.0,0.0,0.0,112
+1152,Operacija tumorja na hrbtenici,0.0,0.0,0.0,0.0,0.0,0.0089,0.0,112
+1164,Druge nevrokirurške operacije,0.0,0.0,0.0,0.0268,0.0,0.0,0.0,112
+1165,"Operacija prirojenih anomalij hrbtenjače in hrbteničnega kanala (meningokela, mielomeningokela,…)",0.0,0.0,0.0,1.0,1.0,1.0,1.0,112
+1176,Operacije na ščitnici in obščitnici,0.0,0.0,0.0,0.0089,0.0,0.0,0.0,112
+1195,Operacija sive mrene (katarakte),0.0,0.0,0.0,0.0,0.0,0.0,0.0,112
+1209,Biopsija zunanjega ušesa,0.0,0.0,0.0,0.9464,0.9464,0.9464,0.9464,112
+1214,Kateterizacija Evstahijeve tube (ušesne troblje),0.0,0.0,0.0,0.1875,0.1786,0.1696,0.1696,112
+1215,Miringotomija,0.0,0.0,0.0,0.0,0.0,0.0,0.0,112
+1220,Miringoplastika,0.0,0.0,0.0,0.0357,0.0446,0.0,0.0,112
+1228,Biopsija nosne votline in/ali zgornjega žrela,0.0,0.0,0.0,0.6339,0.6339,0.6339,0.6339,112
+1231,Aspiracija in lavaža nosnih sinusov,0.0,0.0,0.0,1.0,1.0,1.0,1.0,54
+1232,Biopsija nosnih sinusov,0.0,0.0,0.0,0.9554,0.9554,0.9554,0.9554,112
+1234,Biopsija jezika,0.0,0.0,0.0,0.8393,0.8393,0.8393,0.8393,112
+1236,Biopsija žlez slinavk in izvodil,0.0,0.0,0.0,0.0357,0.0714,0.0625,0.0357,112
+1238,Biopsija ustne votline,0.0,0.0,0.0,0.6786,0.6786,0.6786,0.6786,112
+1239,Biopsija mandljev/žrelnice,0.0,0.0,0.0,1.0,1.0,1.0,1.0,112
+1240,Incizija in drenaža peritonzilarnega abscesa,0.0,0.0,0.0,1.0,1.0,1.0,1.0,74
+1241,Tonzilektomija/adenoidektomija,0.0,0.0,0.0,0.0,0.0,0.0,0.0,112
+1244,Biopsija žrela,0.0,0.0,0.0,0.9911,0.9911,0.9911,0.9911,112
+1246,Incizija in drenaža abscesov ali cist v ustni votlini,0.0,0.0,0.0,1.0,1.0,1.0,1.0,112
+1264,Drugi oralni operativni posegi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,112
+1265,Posegi v grlu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,112
+1285,Aortokoronarni obvodi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,112
+1286,Menjava srčne zaklopke,0.0,0.0,0.0,0.0,0.0,0.0089,0.0,112
+1287,Aortokoronarni obvodi z menjavo srčne zaklopke,0.0,0.0,0.0,0.0,0.0,0.0,0.0,112
+1288,Operacije prirojenih srčnih napak,0.0,0.0,0.0,0.0268,0.0089,0.0,0.0,112
+1289,Operacija torakalne anevrizme,0.0,0.0,0.0,0.0089,0.0089,0.0536,0.0089,112
+1290,Operacija abdominalne aorte (anevrizma ali okluzija),0.0,0.0,0.0,0.0,0.0,0.0,0.0,112
+1291,Femoro - poplitealni obvod (bypass),0.0,0.0,0.0,0.0089,0.0,0.0,0.0,112
+1292,Tea ACI,0.0,0.0,0.0,0.0,0.0,0.0,0.0,112
+1293,Druge žilne operacije (razen arterije),0.0,0.0,0.0,0.0,0.0,0.0,0.0,112
+1294,Revizije po žilnih operacijah (razen arterije),0.0,0.0,0.0,1.0,1.0,1.0,1.0,112
+1298,Ostale operacije na srcu,0.0,0.0,0.0,0.1696,0.2054,0.2143,0.1696,112
+1299,"Revizije po operacijah na srcu (krvavitve, tamponade,…)",0.0,0.0,0.0,1.0,1.0,1.0,1.0,112
+1301,PTCA (koronarna angiografija),0.0,0.0,0.0,0.0,0.0,0.0,0.0,112
+1303,Transkateterska embolizacija krvnih žil,0.0,0.0,0.0,0.0089,0.0179,0.0,0.0,112
+1304,Biopsija periferne arterije,0.0,0.0,0.0,1.0,1.0,1.0,1.0,112
+1305,Vstavitev venske valvule,0.0,0.0,0.0,0.0446,0.0536,0.0536,0.0268,112
+1306,Odstranitev venske valvule,0.0,0.0,0.0,1.0,1.0,1.0,1.0,112
+1308,Druge operacije na arterijah,0.0,0.0,0.0,0.0,0.0,0.0,0.0,112
+1309,Revizije po operacijah na arterijah,0.0,0.0,0.0,1.0,1.0,1.0,1.0,112
+1310,Sklerozacija krčnih žil,0.0,0.0,0.0,0.0,0.0,0.0,0.0,112
+1311,Operacija krčnih žil,0.0,0.0,0.0,0.0,0.0,0.0,0.0,112
+1327,Operacija žolčnih kamnov,0.0,0.0,0.0,0.0,0.0,0.0,0.0,112
+1342,Operacija kile,0.0,0.0,0.0,0.0,0.0,0.0,0.0,112
+1396,Ambulantna histeroskopija,0.0,0.0,0.0,0.0,0.0,0.0,0.0,112
+1397,"Kolposkopija, vaginoskopija",0.0,0.0,0.0,0.0,0.0,0.0,0.0,112
+1400,"Odvzem tkivnega vzorca za histopatološko diagnostiko predrakavih/rakavih sprememb materničnega vratu (biopsija, odščip)",0.0,0.0,0.0,0.0,0.0,0.0,0.0,112
+1402,"Biopsija vulve, perineja in/ali nožnice",0.0,0.0,0.0,0.0,0.0,0.0,0.0,112
+1442,Poseg na žrelu,0.0,0.0,0.0,0.0179,0.0357,0.0,0.0,112
+1443,Rekonstrukcija oblike obraza,0.0,0.0,0.0,1.0,1.0,1.0,1.0,110
+1444,Korekcija shize,0.0,0.0,0.0,1.0,1.0,1.0,1.0,110
+1446,Plastični poseg na ožilju,0.0,0.0,0.0,0.0268,0.0089,0.0,0.0,112
+1471,Elektroencefalografija (EEG),0.0,0.0,0.0,0.0,0.0,0.0,0.0,112
+1472,Nevromišična elektrodiagnostika (tudi elektromiografija EMG),0.0,0.0,0.0,0.0,0.0,0.0,0.0,112
+1604,Ortopedska operacija rame,0.0,0.0,0.0,0.0,0.0,0.0,0.0,112
+1606,"Operacija Dupuytrenove kontrakture (CD, fibromatoza dlančne fascije)",0.0,0.0,0.0,0.0,0.0,0.0,0.0,112
+1607,Operacija nožnega palca (hallux),0.0,0.0,0.0,0.0,0.0,0.0,0.0,112
+1608,Endoproteza gležnja,0.0,0.0,0.0,0.0357,0.0,0.0,0.0,112
+1611,Operacija discus hernie,0.0,0.0,0.0,0.0,0.0,0.0,0.0,112
+1624,Endoproteza kolka delna (PEP)/totalna (TEP),0.0,0.0,0.0,0.0,0.0,0.0,0.0,112
+1625,Endoproteza rame delna (PEP)/totalna (TEP),0.0,0.0,0.0,0.0,0.0,0.0,0.0,112
+1626,Endoproteza kolena,0.0,0.0,0.0,0.0,0.0,0.0,0.0,112
+1640,Osteosinteza rame,0.0,0.0,0.0,0.9018,0.9018,0.9018,0.9018,112
+1641,Osteosinteza cervikalne hrbtenice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,112
+1642,Osteosinteza torakolumbalne hrbtenice s kletko (cage),0.0,0.0,0.0,0.0089,0.0089,0.0089,0.0089,112
+1643,Osteosinteza hrbtenice (drugi posegi),0.0,0.0,0.0,0.0089,0.0089,0.0089,0.0089,112
+1662,Poseg na uhlju,0.009,0.009,0.009,0.4775,0.4775,0.4414,0.4414,111
+1664,Poseg na jeziku,0.0,0.0,0.0,0.0,0.0089,0.0,0.0,112
+1669,CT glave brez KS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,112
+1670,CT orbit brez KS,0.0,0.0,0.0,0.0,0.0,0.0089,0.0,112
+1671,CT skeleta glave,0.0,0.0,0.0,0.0446,0.0625,0.0536,0.0446,112
+1672,CT srednjega ušesa in temporalke,0.0,0.0,0.0,0.0,0.0,0.0,0.0,112
+1673,CT obraznih kosti,0.0,0.0,0.0,0.0089,0.0,0.0,0.0,112
+1674,CT obnosnih votlin brez KS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,112
+1675,CT vratu brez KS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,112
+1676,CT glave s KS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,112
+1677,CT orbit s KS,0.0,0.0,0.0,0.1964,0.2054,0.2411,0.1964,112
+1678,CT skeleta glave s KS,0.0,0.0,0.0,0.5536,0.5536,0.5446,0.5446,112
+1679,CT obnosnih votlin s KS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,112
+1680,CT vratu s KS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,112
+1681,CT skeleta okončin,0.0,0.0,0.0,0.0,0.0,0.0,0.0,112
+1682,CT skeleta hrbtenice,0.0,0.0,0.0,0.1071,0.0804,0.1161,0.0804,112
+1683,CT cervikalne hrbtenice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,112
+1684,CT torakalne hrbtenice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,112
+1685,CT lumbo - sakralne hrbtenice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,112
+1687,CT skeleta medenice,0.0,0.0,0.0,0.0,0.0,0.0179,0.0,112
+1688,CT kolkov,0.0,0.0,0.0,0.0,0.0,0.0,0.0,112
+1689,CT SIS (sakroiliakalnega sklepa),0.0,0.0,0.0,0.0625,0.0536,0.0804,0.0536,112
+1691,CT kolena,0.0,0.0,0.0,0.0,0.0,0.0,0.0,112
+1692,CT rame,0.0,0.0,0.0,0.0,0.0,0.0,0.0,112
+1693,CT gležnja,0.0,0.0,0.0,0.0,0.0,0.0,0.0,112
+1695,CT po lSR brez KS,0.0,0.0,0.0,1.0,1.0,1.0,1.0,109
+1697,CT skeleta drugo - brez KS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,112
+1698,CT - dentalni,0.0091,0.0091,0.0091,0.8,0.7909,0.8,0.7909,110
+1699,CT pelvimetrija,0.0,0.0,0.0,1.0,1.0,1.0,1.0,109
+1700,CT skeleta okončin s KS,0.0,0.0,0.0,0.5357,0.5446,0.5536,0.5268,112
+1701,CT skeleta hrbtenice s KS,0.0,0.0,0.0,0.9196,0.9196,0.9196,0.9196,112
+1702,CT cervikalne hrbtenice s KS,0.0,0.0,0.0,0.2679,0.3036,0.3036,0.2679,112
+1703,CT torakalne hrbtenice s KS,0.0,0.0,0.0,0.25,0.25,0.2321,0.2232,112
+1704,CT lumbo - sakralne hrbtenice s KS,0.0,0.0,0.0,0.0625,0.0536,0.0625,0.0446,112
+1705,CT po mielografiji s KS,0.0,0.0,0.0,0.5804,0.5893,0.5982,0.5804,112
+1706,CT skeleta medenice s KS,0.0,0.0,0.0,0.5179,0.5089,0.5179,0.5089,112
+1707,CT artrografija rame s KS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,112
+1708,CT artrografija - drugo s KS,0.0,0.0,0.0,0.1071,0.125,0.1161,0.0982,112
+1709,CT po lSR s KS,0.0,0.0,0.0,1.0,1.0,1.0,1.0,109
+1710,CT hrbtenice z intratekalno aplik. KS,0.0,0.0,0.0,0.6607,0.6518,0.6607,0.6518,112
+1712,CT skeleta drugo s KS,0.0,0.0,0.0,0.2857,0.2946,0.3036,0.2857,112
+1713,CT prsnih organov brez KS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,112
+1715,CT trebušnih organov brez KS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,112
+1716,CT zgornjega abdomna brez KS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,112
+1717,CT medeničnih organov brez KS,0.0,0.0,0.0,0.0,0.0,0.0089,0.0,112
+1718,CT prsnega koša - pljuč HRCT,0.0,0.0,0.0,0.0,0.0,0.0,0.0,112
+1719,CT abdomna brez KS - drugo,0.0,0.0,0.0,0.0,0.0,0.0,0.0,112
+1720,CT pljuč protokol lungcare,0.0,0.0,0.0,0.0,0.0,0.0,0.0,112
+1722,CT širokega črevesa brez KS,0.0,0.0,0.0,0.0,0.0,0.0089,0.0,112
+1723,CT ozkega črevesa brez KS,0.0,0.0,0.0,0.6875,0.6875,0.6875,0.6875,112
+1724,CT prsnih organov s KS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,112
+1725,CT trebušnih organov s KS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,112
+1726,CT zgornjega abdomna s KS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,112
+1727,CT medeničnih organov s KS,0.0,0.0,0.0,0.0,0.0,0.0268,0.0,112
+1728,CT jeter s portalnim ojačanjem,0.0,0.0,0.0,0.2143,0.2232,0.2054,0.2054,112
+1729,CT urografija - KS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,112
+1730,CT širokega črevesa s KS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,112
+1731,CT ozkega črevesa s KS,0.0,0.0,0.0,0.2679,0.3036,0.3036,0.2679,112
+1732,CTA torakalne aorte,0.0,0.0,0.0,0.0,0.0,0.0,0.0,112
+1733,CTA abdominalne aorte,0.0,0.0,0.0,0.0,0.0,0.0,0.0,112
+1734,CTA pelvičnih žil,0.0,0.0,0.0,0.0,0.0,0.0,0.0,112
+1735,CTA zgornjih okončin,0.0,0.0,0.0,0.0,0.0,0.0268,0.0,112
+1736,CTA pljučnih arterij,0.0,0.0,0.0,0.0,0.0,0.0,0.0,112
+1737,CTA jeter,0.0,0.0,0.0,0.5357,0.5446,0.5446,0.5268,112
+1738,CTA ledvic,0.0,0.0,0.0,0.0268,0.0179,0.0357,0.0179,112
+1739,CTA selektivne angiografije,0.0,0.0,0.0,0.0,0.0,0.0,0.0,112
+1740,CTA aorto - cervikalna,0.0,0.0,0.0,0.0,0.0,0.0,0.0,112
+1741,CTA pelvičnih a. in a. spodnjih okončin,0.0,0.0,0.0,0.0,0.0,0.0,0.0,112
+1742,CTA torakalne in abdominalne aorte,0.0,0.0,0.0,0.0,0.0,0.0,0.0,112
+1743,CTA možganskih arterij,0.0,0.0,0.0,0.0,0.0,0.0,0.0,112
+1744,CTA venografija možganov,0.0,0.0,0.0,0.0625,0.0446,0.0446,0.0446,112
+1745,CTA venografija vratu,0.0,0.0,0.0,0.25,0.2411,0.25,0.2411,112
+1746,CTA venografija drugo,0.0,0.0,0.0,0.0268,0.0,0.0089,0.0,112
+1747,CTA srca - prikaz kalcinacij,0.0,0.0,0.0,0.0,0.0,0.0,0.0,112
+1748,CTA srca - prikaz morfoloških struktur,0.0,0.0,0.0,0.0,0.0,0.0,0.0,112
+1749,CTA srca - prikaz funkcije,0.0,0.0,0.0,0.0,0.0,0.0357,0.0,112
+1750,CTA koronarnih arterij,0.0,0.0,0.0,0.0,0.0,0.0,0.0,112
+1755,MR glave brez kontrasta,0.0,0.0,0.0,0.0,0.0,0.0,0.0,112
+1756,MR obraza in drugo brez KS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,112
+1757,MR vratu brez KS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,112
+1758,MR multipla skleroza brez KS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,112
+1759,MR glave s KS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,112
+1760,MR obraza in drugo s KS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,112
+1762,MR multipla skleroza s KS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,112
+1763,MR vratu s KS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,112
+1764,MR cervikalne hrbtenice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,112
+1765,MR rame,0.0,0.0,0.0,0.0,0.0,0.0,0.0,112
+1766,MR torakalne hrbtenice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,112
+1767,MR komolca,0.0,0.0,0.0,0.0,0.0,0.0,0.0,112
+1768,MR lumbosakralne hrbtenice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,112
+1769,MR zapestja,0.0,0.0,0.0,0.0,0.0,0.0,0.0,112
+1770,MR roke,0.0,0.0,0.0,0.0,0.0,0.0,0.0,112
+1771,MR kolka,0.0,0.0,0.0,0.0,0.0,0.0,0.0,112
+1772,MR kolena,0.0,0.0,0.0,0.0,0.0,0.0,0.0,112
+1773,MR gležnja,0.0,0.0,0.0,0.0,0.0,0.0,0.0,112
+1774,MR stopala,0.0,0.0,0.0,0.0,0.0,0.0,0.0,112
+1776,MR skeleta brez KS - drugo,0.0,0.0,0.0,0.0,0.0,0.0,0.0,112
+1777,MR SIS (sakroliakalnega sklepa) brez KS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,112
+1778,MR cervikalne hrbtenice s KS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,112
+1779,MR torakalne hrbtenice s KS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,112
+1780,MR komolca s KS,0.0,0.0,0.0,0.0268,0.0179,0.0625,0.0179,112
+1781,MR lumbosakralne hrbtenice s KS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,112
+1782,MR rame s KS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,112
+1783,MR zapestja s KS,0.0,0.0,0.0,0.0089,0.0,0.0357,0.0,112
+1784,MR roke s KS,0.0,0.0,0.0,0.0089,0.0,0.0357,0.0,112
+1785,MR kolka s KS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,112
+1786,MR kolena s KS,0.0,0.0,0.0,0.0,0.0,0.0089,0.0,112
+1787,MR gležnja s KS,0.0,0.0,0.0,0.0,0.0,0.0089,0.0,112
+1788,MR stopala s KS,0.0,0.0,0.0,0.0089,0.0,0.0,0.0,112
+1789,MR skeleta s KS - drugo,0.0,0.0,0.0,0.0,0.0,0.0,0.0,112
+1790,MR SIS (sakroliakalnega sklepa) s KS,0.0,0.0,0.0,0.0179,0.0,0.0,0.0,112
+1791,MR prsnega koša,0.0,0.0,0.0,0.0,0.0,0.0,0.0,112
+1792,MR trebušnih organov,0.0,0.0,0.0,0.0,0.0,0.0,0.0,112
+1793,MR abdomna - drugo,0.0,0.0,0.0,0.0,0.0,0.0,0.0,112
+1794,MR zgornjega abdomna,0.0,0.0,0.0,0.0,0.0,0.0,0.0,112
+1795,MR medenice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,112
+1796,MR jeter,0.0,0.0,0.0,0.0,0.0,0.0,0.0,112
+1797,MR dojke,0.0,0.0,0.0,0.0,0.0,0.0,0.0,112
+1798,MR prsnega koša s KS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,112
+1799,MR trebušnih organov s KS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,112
+1800,MR abdomna s KS - drugo,0.0,0.0,0.0,0.0,0.0,0.0,0.0,112
+1801,MR zgornjega abdomna s KS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,112
+1802,MR medenice s KS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,112
+1803,MR jeter s kontrastom,0.0,0.0,0.0,0.0,0.0,0.0,0.0,112
+1804,MR dojke s KS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,112
+1805,MRA možganskega žilja - arterije TOF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,112
+1806,MRA možganskega žilja - vene TOF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,112
+1807,MRA aorto - cervikalna TOF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,112
+1808,MRA torakalne aorte TOF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,112
+1809,MRA abdominalne aorte TOF,0.0,0.0,0.0,0.0089,0.0268,0.0,0.0,112
+1810,MRA pljučnih arterij TOF,0.0,0.0,0.0,0.7768,0.7768,0.7768,0.7768,112
+1811,MRA pelvično žilje TOF,0.0,0.0,0.0,0.0179,0.0357,0.0268,0.0089,112
+1812,MRA ekstremiteti ( vsaka okončina posebej ) TOF,0.0,0.0,0.0,0.0,0.0089,0.0268,0.0,112
+1813,MRA renalno žilje TOF,0.0,0.0,0.0,0.1429,0.1339,0.1518,0.1339,112
+1814,MRA TOF - drugo,0.0,0.0,0.0,0.0,0.0,0.0,0.0,112
+1815,MRA možganskega žilja - arterije KS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,112
+1816,MRA možganskega žilja - vene KS,0.0,0.0,0.0,0.0089,0.0,0.0268,0.0,112
+1817,MRA aorto - cervikalna KS,0.0,0.0,0.0,0.0179,0.0,0.0,0.0,112
+1818,MRA torakalne aorte KS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,112
+1819,MRA abdominalne aorte KS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,112
+1820,MRA pljučnih arterij KS,0.0,0.0,0.0,0.6696,0.6429,0.6696,0.6429,112
+1821,MRA pelvično žilje KS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,112
+1822,MRA pelvičnih a. In arterij spodnjih udov,0.0,0.0,0.0,0.0,0.0,0.0179,0.0,112
+1823,MRA renalno žilje KS,0.0,0.0,0.0,0.0625,0.0625,0.0714,0.0536,112
+1824,MRA zgornje okončine s KS,0.0,0.0,0.0,0.2589,0.25,0.2589,0.2411,112
+1825,MRA prsnega koša s KS,0.0,0.0,0.0,0.4196,0.4375,0.4464,0.4196,112
+1826,MRA hrbtenice s KS,0.0,0.0,0.0,0.4643,0.4643,0.4732,0.4554,112
+1827,MRA trebuha s KS,0.0,0.0,0.0,0.0268,0.0,0.0268,0.0,112
+1828,MRA medenice s KS,0.0,0.0,0.0,0.2857,0.2589,0.2857,0.2589,112
+1829,MRA drugih področij s KS,0.0,0.0,0.0,0.0625,0.0536,0.0982,0.0536,112
+1830,MRA pljučnih ven s KS,0.0,0.0,0.0,0.9911,0.9911,0.9911,0.9911,112
+1831,MR srca - prikaz morfoloških struktur brez KS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,112
+1832,MR srca - prikaz funkcije brez KS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,112
+1833,MR srca - prikaz morfoloških struktur s KS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,112
+1834,MR srca - prikaz funkcije s KS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,112
+1835,MR koronarnih arterij s KS,0.0,0.0,0.0,0.5893,0.5982,0.5982,0.5893,112
+1836,MRA srca in velikih žil - prikaz pretoka s KS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,112
+1852,RTG prstov rok,0.0,0.0,0.0,0.0,0.0,0.0,0.0,112
+1853,RTG dlani,0.0,0.0,0.0,0.0,0.0,0.0,0.0,112
+1854,RTG zapestja,0.0,0.0,0.0,0.0,0.0,0.0,0.0,112
+1855,RTG os naviculare,0.0,0.0,0.0,0.8839,0.8929,0.8929,0.8839,112
+1856,RTG podlahti,0.0,0.0,0.0,0.0089,0.0089,0.0536,0.0089,112
+1857,RTG komolca,0.0,0.0,0.0,0.0,0.0,0.0,0.0,112
+1858,RTG nadlahti,0.0,0.0,0.0,0.0,0.0,0.0089,0.0,112
+1859,RTG rame,0.0,0.0,0.0,0.0,0.0,0.0,0.0,112
+1860,RTG prstov nog,0.0,0.0,0.0,0.0,0.0,0.0,0.0,112
+1861,RTG stopala,0.0,0.0,0.0,0.0,0.0,0.0,0.0,112
+1862,RTG petnice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,112
+1863,RTG gležnja,0.0,0.0,0.0,0.0,0.0,0.0,0.0,112
+1864,RTG goleni,0.0,0.0,0.0,0.0,0.0,0.0,0.0,112
+1865,RTG kolena,0.0,0.0,0.0,0.0,0.0,0.0,0.0,112
+1866,RTG pogačice,0.0,0.0,0.0,0.0089,0.0089,0.0,0.0,112
+1867,RTG stegnenice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,112
+1868,RTG kolka,0.0,0.0,0.0,0.0,0.0,0.0,0.0,112
+1869,RTG medenice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,112
+1870,RTG sakroiliakalnega sklepa - SIS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,112
+1871,RTG cervikalne hrbtenice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,112
+1872,RTG torakalne hrbtenice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,112
+1873,RTG lumbosakralne hrbtenice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,112
+1874,RTG hrbtenice v predelu L5 - S1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,112
+1875,RTG trtice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,112
+1876,RTG ključnice,0.0,0.0,0.0,0.0089,0.0,0.0,0.0,112
+1877,RTG sternoklavikularnega sklepa,0.0,0.0,0.0,0.0446,0.0625,0.0536,0.0446,112
+1878,RTG lopatice,0.0,0.0,0.0,0.0357,0.0446,0.0446,0.0357,112
+1879,RTG reber,0.0,0.0,0.0,0.0,0.0,0.0,0.0,112
+1880,RTG prsnice (sternuma),0.0,0.0,0.0,0.0,0.0,0.0,0.0,112
+1881,RTG glave,0.0,0.0,0.0,0.0,0.0,0.0089,0.0,112
+1882,RTG sinusov,0.0,0.0,0.0,0.0,0.0,0.0,0.0,112
+1883,RTG nosa,0.0,0.0,0.0,0.2857,0.2857,0.2857,0.2589,112
+1884,RTG po schullerju,0.0,0.0,0.0,0.4286,0.4107,0.4286,0.4107,112
+1885,RTG ličnice,0.0,0.0,0.0,0.4911,0.5089,0.5,0.4911,112
+1886,RTG orbit,0.0,0.0,0.0,0.7143,0.6964,0.6964,0.6875,112
+1887,RTG spodnje čeljusti (mandibule),0.0,0.0,0.0,0.0089,0.0,0.0089,0.0,112
+1888,RTG pc,0.0,0.0,0.0,0.0,0.0,0.0,0.0,112
+1889,RTG abdomna,0.0,0.0,0.0,0.0089,0.0,0.0,0.0,112
+1893,Nativno slikanje ledvic,0.0,0.0,0.0,0.6607,0.6518,0.6339,0.625,112
+1894,Intravenska urografija - IVU,0.0,0.0,0.0,0.1161,0.1071,0.1429,0.1071,112
+1895,Retrogradna pielografija,0.0,0.0,0.0,0.8839,0.8839,0.8839,0.8839,112
+1898,Perkutana anterogradna pielografija,1.0,1.0,1.0,0.0,0.0,0.0,0.0,2
+1921,Angiografija (brez koronarne angiografije),0.0,0.0,0.0,0.0,0.0,0.0,0.0,112
+1926,RTG solzevodov,0.0,0.0,0.0,0.9848,0.9848,0.9848,0.9848,66
+1927,RTG prvega vratnega vretenca (dens),0.0,0.0,0.0,0.9732,0.9732,0.9732,0.9732,112
+1930P,Okulistični pregled zaradi očal - prvi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,112
+1931,UZ vratu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,112
+1933,UZ otroške glave,0.0,0.0,0.0,0.0,0.0,0.0,0.0,112
+1938,Doppler ehografija,0.0,0.0,0.0,0.0,0.0,0.0,0.0,112
+1941,UZ vratnih žil,0.0,0.0,0.0,0.0,0.0,0.0,0.0,112
+1943,UZ dojk obojestransko,0.0,0.0,0.0,0.0,0.0,0.0,0.0,112
+1944,UZ dojk enostransko,0.0,0.0,0.0,0.0,0.0,0.0,0.0,112
+1952,Usmerjen UZ srca,0.0,0.0,0.0,0.0,0.0,0.0,0.0,112
+1983,UZ sklepa,0.0,0.0,0.0,0.0,0.0,0.0,0.0,112
+1985,UZ kolka novorojenčkov,0.0,0.0,0.0,0.0179,0.0,0.0,0.0,112
+1986,UZ kolka dojenčkov,0.0,0.0,0.0,0.0,0.0,0.0,0.0,112
+1991,UZ mehkih tkiv,0.0,0.0,0.0,0.0,0.0,0.0,0.0,112
+1992,UZ preiskava ene bezgavčne lože,0.0,0.0,0.0,0.0,0.0,0.0,0.0,112
+2006,Artroskopija kolena (diagnostična in terapevtska),0.0,0.0,0.0,0.0,0.0,0.0,0.0,112
+2017,"Mamografija (vključuje odčitavanje slike, izključuje preventivno presejanje)",0.0,0.0,0.0,0.0,0.0,0.0,0.0,112
+2072,Kriokauterizacija ali krioterapija (postopek v dermatologiji),0.0,0.0,0.0,0.0,0.0,0.0,0.0,112
+2077,Odstranitev polipov,0.0,0.0,0.0,0.0268,0.0,0.0,0.0,112
+2104,Revizijska operacija kolka,0.0,0.0,0.0,0.0,0.0,0.0,0.0,112
+2105,Revizijska operacija kolena,0.0,0.0,0.0,0.0,0.0,0.0,0.0,112
+2106,Revizijska operacija ramena,0.0,0.0,0.0,0.0357,0.0,0.0357,0.0,112
+2107,Vertebroplastika,0.0,0.0,0.0,0.0,0.0,0.0089,0.0,112
+2108,Operacija hrbtenice - dekompresija,0.0,0.0,0.0,0.0,0.0,0.0,0.0,112
+2109,Operacija hrbtenice - spondilodeza,0.0,0.0,0.0,0.0,0.0,0.0,0.0,112
+2160,Lažji posegi v otorinolaringologiji v lokalni anesteziji,0.0,0.0,0.0,0.0,0.0,0.0,0.0,112
+2161,Posegi na ušesu v lokalni anesteziji,0.0,0.0,0.0,0.0,0.0,0.0,0.0,112
+2162,Posegi na bobniču ali srednjem ušesu v lokalni anesteziji,0.0,0.0,0.0,0.0,0.0,0.0,0.0,112
+2163,Posegi na notranjem ušesu v lokalni anesteziji,0.0,0.0,0.0,0.0446,0.0357,0.0,0.0,112
+2164,Kostno usidran slušni pripomoček - BAHA v lokalni anesteziji,0.0,0.0,0.0,0.0536,0.0536,0.0089,0.0089,112
+2165,Posegi na mandljih v lokalni anesteziji,0.0,0.0,0.0,0.0446,0.0,0.0,0.0,112
+2166,Funkcionalni posegi v nosu v lokalni anesteziji,0.0,0.0,0.0,0.0089,0.0,0.0,0.0,112
+2167,MIST (minimalno invazivna terapija sinusov) v lokalni anesteziji,0.0,0.0,0.0,0.0268,0.0089,0.0089,0.0089,112
+2168,Druge operacije nosu v lokalni anesteziji,0.0,0.0,0.0,0.0,0.0,0.0,0.0,112
+2170,Mali posegi malignih sprememb v otorinolaringologiji v lokalni anesteziji,0.0,0.0,0.0,0.0,0.0,0.0,0.0,112
+2171,Lažji posegi v otorinolaringologiji v splošni anesteziji,0.0,0.0,0.0,0.0,0.0,0.0,0.0,112
+2172,Posegi na mandljih pri odrasli v splošni anesteziji,0.0,0.0,0.0,0.0,0.0,0.0,0.0,112
+2173,Posegi na mandljih in žrelnici pri otrocih v splošni anesteziji,0.0,0.0,0.0,0.0,0.0,0.0,0.0,112
+2174,Posegi na žrelnici pri otrocih v splošni anesteziji,0.0,0.0,0.0,0.0,0.0,0.0,0.0,112
+2175,Posegi na žrelnici in bobniču pri otrocih v splošni anesteziji,0.0,0.0,0.0,0.0,0.0,0.0,0.0,112
+2176,Operacije malignih tumorjev v otorinolaringologiji v splošni anesteziji,1.0,1.0,0.0,0.0,0.0,0.0357,0.0,112
+2177,Funkcionalne estetske operacije nosu v splošni anesteziji,0.0,0.0,0.0,0.0089,0.0,0.0,0.0,112
+2178,Endoskopske operacije obnosnih votlin v splošni anesteziji,0.0,0.0,0.0,0.0,0.0,0.0,0.0,112
+2179,Pansinusne operacije v splošni anesteziji,0.0,0.0,0.0,0.0268,0.0089,0.0089,0.0089,112
+2180,Operacije tumorjev obnosnih votlin v splošni anesteziji,0.0,0.0,0.0,0.5982,0.5982,0.5625,0.5625,112
+2181,Druge operacije obnosnih votlin v splošni anesteziji,0.0,0.0,0.0,0.0,0.0,0.0,0.0,112
+2182P,Ginekološki pregled (razen pregled nosečnic) na sekundarni ravni - prvi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,112
+2183P,Pregled ob neplodnosti - moški - prvi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,112
+2184P,Pregled ob neplodnosti - ženske - prvi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,112
+2214,Vestibuloplastika,0.0,0.0,0.0,0.7679,0.7679,0.7679,0.7679,112
+2215,Odstranitev eksostoz,0.0,0.0,0.0,0.2054,0.1964,0.2054,0.1964,112
+2217,Zapora antrooralne komunikacije,0.0,0.0,0.0,0.7857,0.7857,0.7857,0.7857,112
+2230,Ekscizija majhnih tumorjev v oralni kirurgiji,0.0,0.0,0.0,0.0,0.0446,0.0,0.0,112
+2233,Obravnava bolezni slinavk,0.0,0.0,0.0,0.0089,0.0,0.0,0.0,112
+2237,Zdravljenje recesije dlesni,0.0089,0.0089,0.0089,0.0446,0.0,0.0,0.0,112
+2271,UZ skrotuma,0.0,0.0,0.0,0.0,0.0,0.0,0.0,112
+2284,RTG celotne hrbtenice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,112
+2309,Druge ušesne operacije,0.0,0.0,0.0,0.0,0.0,0.0,0.0,112
+2328P,Pregled v ambulanti za zdravljenje parastomalne kože - prvi,0.0,0.0,0.0,0.0893,0.1161,0.1071,0.0893,112
+2329,PTA (perkutana transluminalna angioplastika),0.0,0.0,0.0,0.0,0.0,0.0,0.0,112
+2338P,Urološki pregled otroka - prvi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,112
+2345,MR protokol epilepsija brez KS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,112
+2346,MR protokol epilepsija s KS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,112
+2347,MR multipla skleroza s KS s 3D,0.0,0.0,0.0,0.0,0.0,0.0,0.0,112
+2348,MR celotne hrbtenice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,112
+2349,MRCP (pregled žolčnega sistema),0.0,0.0,0.0,0.0,0.0,0.0,0.0,112
+2350,MR enterografija,0.0,0.0,0.0,0.0,0.0,0.0,0.0,112
+2351,MR male medenice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,112
+2352,MR male medenice s KS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,112
+2353,MR srca in velikih žil brez KS,0.0,0.0,0.0,0.0089,0.0,0.0,0.0,112
+2356,CT zapestja,0.0,0.0,0.0,0.0,0.0,0.0179,0.0,112
+2357,CT komolca,0.0,0.0,0.0,0.0,0.0,0.0,0.0,112
+2358,CT jeter s KS - 4 faze,0.0,0.0,0.0,0.0,0.0,0.0,0.0,112
+2359,CT srca - prikaz kalcinacij,0.0,0.0,0.0,0.0,0.0,0.0,0.0,112
+2372,Posegi v zunanjem ušesu,0.0,0.0,0.0,0.0446,0.0,0.0,0.0,112
+2373,Drugi posegi na bobniču in srednjem ušesu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,112
+2374,Posegi na mastoidni in temporalni kosti,0.0,0.0,0.0,0.0446,0.0089,0.0089,0.0089,112
+2375,Posegi na notranjem ušesu,0.0,0.0,0.0,0.0357,0.0089,0.0089,0.0089,112
+2376,Posegi na koščicah srednjega ušesa,0.0,0.0,0.0,0.0446,0.0446,0.0,0.0,112
+2377,Implantacija elektromagnetnega slušnega pripomočka,0.0,0.0,0.0,0.0536,0.0536,0.0089,0.0089,112
+2378,Vstavitev/odstranitev kohlearnega implanta,0.0,0.0,0.0,0.0179,0.0,0.0,0.0,112
+2379,Operacija nosnega pretina,0.0,0.0,0.0,0.0,0.0,0.0,0.0,112
+2380,Posegi v nosnih sinusih,0.0,0.0,0.0,0.0089,0.0089,0.0,0.0,112
+2382,Radikalna ekscizija tumorja ustne votline,0.0,0.0,0.0,1.0,1.0,1.0,1.0,35
+2383,"Drugi posegi v ustih, na nebu ali jezičku",0.0,0.0,0.0,0.0,0.0,0.0,0.0,112
+2384,Drugi posegi v nosu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,112
+2395P,Oromaksilofacialni pregled - prvi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,112
+2401,Posegi na hrbtenici zaradi vnetja,0.0,0.0,0.0,1.0,1.0,1.0,1.0,112
+2407,Druge ortopedske operacije gležnja in stopala,0.0,0.0,0.0,0.0,0.0,0.0,0.0,112

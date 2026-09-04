@@ -1,0 +1,21 @@
+﻿vzs,naziv,spremenljivka,metoda,horizont,n,pokritost,sirina_povp
+1010P,Dermatološki pregled - prvi,cak_skupaj,empiricni AR(1),1,42,0.762,510.17
+1010P,Dermatološki pregled - prvi,cak_skupaj,empiricni AR(1),4,39,0.436,1103.196
+1018P,Kardiološki pregled - prvi,cak_skupaj,empiricni AR(1),1,42,0.762,445.612
+1018P,Kardiološki pregled - prvi,cak_skupaj,empiricni AR(1),4,39,0.821,1252.588
+1195,Operacija sive mrene (katarakte),cak_skupaj,empiricni AR(1),1,42,0.857,304.248
+1195,Operacija sive mrene (katarakte),cak_skupaj,empiricni AR(1),4,39,0.872,689.506
+1626,Endoproteza kolena,cak_skupaj,empiricni AR(1),1,42,0.881,501.502
+1626,Endoproteza kolena,cak_skupaj,empiricni AR(1),4,39,0.667,568.672
+1755,MR glave brez kontrasta,cak_skupaj,empiricni AR(1),1,42,0.714,306.924
+1755,MR glave brez kontrasta,cak_skupaj,empiricni AR(1),4,39,0.564,892.486
+1941,UZ vratnih žil,cak_skupaj,empiricni AR(1),1,42,0.833,1019.094
+1941,UZ vratnih žil,cak_skupaj,empiricni AR(1),4,39,0.769,1887.417
+AGREGAT,Agregat,cak_skupaj,empiricni AR(1),1,42,0.738,5420.317
+AGREGAT,Agregat,cak_skupaj,empiricni AR(1),4,39,0.744,11759.22
+1010P,Dermatološki pregled - prvi,cd_redno,kvantilni GB,1,62,0.79,56.851
+1018P,Kardiološki pregled - prvi,cd_redno,kvantilni GB,1,62,0.806,29.406
+1941,UZ vratnih žil,cd_redno,kvantilni GB,1,62,0.726,60.605
+1755,MR glave brez kontrasta,cd_redno,kvantilni GB,1,62,0.79,41.45
+1195,Operacija sive mrene (katarakte),cd_redno,kvantilni GB,1,62,0.532,60.842
+1626,Endoproteza kolena,cd_redno,kvantilni GB,1,62,0.742,73.205

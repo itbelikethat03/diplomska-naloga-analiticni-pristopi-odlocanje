@@ -1,0 +1,778 @@
+﻿vzs,naziv,datum,razlika,z,z_flag,if_flag,konsenz
+1010P,Dermatološki pregled - prvi,2024-04-11,181.0,0.262,False,False,False
+1010P,Dermatološki pregled - prvi,2024-04-18,303.0,0.495,False,False,False
+1010P,Dermatološki pregled - prvi,2024-04-25,242.0,0.378,False,False,False
+1010P,Dermatološki pregled - prvi,2024-05-03,337.0,0.56,False,False,False
+1010P,Dermatološki pregled - prvi,2024-05-09,90.0,0.088,False,False,False
+1010P,Dermatološki pregled - prvi,2024-05-16,-44.0,-0.168,False,False,False
+1010P,Dermatološki pregled - prvi,2024-05-23,41.0,-0.006,False,False,False
+1010P,Dermatološki pregled - prvi,2024-05-30,126.0,0.157,False,False,False
+1010P,Dermatološki pregled - prvi,2024-06-06,-120.0,-0.313,False,False,False
+1010P,Dermatološki pregled - prvi,2024-06-13,560.0,0.986,False,False,False
+1010P,Dermatološki pregled - prvi,2024-06-20,76.0,0.061,False,False,False
+1010P,Dermatološki pregled - prvi,2024-06-27,431.0,0.739,False,False,False
+1010P,Dermatološki pregled - prvi,2024-07-04,304.0,0.497,False,False,False
+1010P,Dermatološki pregled - prvi,2024-07-11,247.0,0.388,False,False,False
+1010P,Dermatološki pregled - prvi,2024-07-18,259.0,0.411,False,False,False
+1010P,Dermatološki pregled - prvi,2024-07-25,74.0,0.057,False,False,False
+1010P,Dermatološki pregled - prvi,2024-08-01,52.0,0.015,False,False,False
+1010P,Dermatološki pregled - prvi,2024-08-08,110.0,0.126,False,False,False
+1010P,Dermatološki pregled - prvi,2024-08-16,203.0,0.304,False,False,False
+1010P,Dermatološki pregled - prvi,2024-08-22,60.0,0.031,False,False,False
+1010P,Dermatološki pregled - prvi,2024-08-29,179.0,0.258,False,False,False
+1010P,Dermatološki pregled - prvi,2024-09-05,126.0,0.157,False,False,False
+1010P,Dermatološki pregled - prvi,2024-09-12,184.0,0.267,False,False,False
+1010P,Dermatološki pregled - prvi,2024-09-19,67.0,0.044,False,False,False
+1010P,Dermatološki pregled - prvi,2024-09-26,461.0,0.797,False,False,False
+1010P,Dermatološki pregled - prvi,2024-10-03,428.0,0.734,False,False,False
+1010P,Dermatološki pregled - prvi,2024-10-10,-581.0,-1.194,False,False,False
+1010P,Dermatološki pregled - prvi,2024-10-17,-619.0,-1.267,False,True,False
+1010P,Dermatološki pregled - prvi,2024-10-24,551.0,0.969,False,False,False
+1010P,Dermatološki pregled - prvi,2024-10-31,45.0,0.002,False,False,False
+1010P,Dermatološki pregled - prvi,2024-11-07,-126.0,-0.325,False,False,False
+1010P,Dermatološki pregled - prvi,2024-11-14,13.0,-0.059,False,False,False
+1010P,Dermatološki pregled - prvi,2024-11-21,-120.0,-0.313,False,False,False
+1010P,Dermatološki pregled - prvi,2024-11-28,177.0,0.254,False,False,False
+1010P,Dermatološki pregled - prvi,2024-12-05,-114.0,-0.302,False,False,False
+1010P,Dermatološki pregled - prvi,2024-12-12,-79.0,-0.235,False,False,False
+1010P,Dermatološki pregled - prvi,2024-12-19,-96.0,-0.268,False,False,False
+1010P,Dermatološki pregled - prvi,2025-01-08,-48.0,-0.176,False,False,False
+1010P,Dermatološki pregled - prvi,2025-01-15,223.0,0.342,False,False,False
+1010P,Dermatološki pregled - prvi,2025-01-22,-62.0,-0.203,False,False,False
+1010P,Dermatološki pregled - prvi,2025-01-29,-538.0,-1.112,False,False,False
+1010P,Dermatološki pregled - prvi,2025-02-05,-168.0,-0.405,False,False,False
+1010P,Dermatološki pregled - prvi,2025-02-12,169.0,0.239,False,False,False
+1010P,Dermatološki pregled - prvi,2025-02-19,-143.0,-0.357,False,False,False
+1010P,Dermatološki pregled - prvi,2025-02-26,303.0,0.495,False,False,False
+1010P,Dermatološki pregled - prvi,2025-03-05,95.0,0.097,False,False,False
+1010P,Dermatološki pregled - prvi,2025-03-12,289.0,0.468,False,False,False
+1010P,Dermatološki pregled - prvi,2025-03-19,48.0,0.008,False,False,False
+1010P,Dermatološki pregled - prvi,2025-03-26,0.0,-0.084,False,False,False
+1010P,Dermatološki pregled - prvi,2025-04-02,-90.0,-0.256,False,False,False
+1010P,Dermatološki pregled - prvi,2025-04-09,165.0,0.231,False,False,False
+1010P,Dermatološki pregled - prvi,2025-04-16,436.0,0.749,False,False,False
+1010P,Dermatološki pregled - prvi,2025-04-23,199.0,0.296,False,False,False
+1010P,Dermatološki pregled - prvi,2025-04-30,226.0,0.348,False,False,False
+1010P,Dermatološki pregled - prvi,2025-05-07,-78.0,-0.233,False,False,False
+1010P,Dermatološki pregled - prvi,2025-05-14,271.0,0.434,False,False,False
+1010P,Dermatološki pregled - prvi,2025-05-21,300.0,0.489,False,False,False
+1010P,Dermatološki pregled - prvi,2025-05-28,298.0,0.485,False,False,False
+1010P,Dermatološki pregled - prvi,2025-06-04,95.0,0.097,False,False,False
+1010P,Dermatološki pregled - prvi,2025-06-11,-3158.0,-6.118,True,True,True
+1010P,Dermatološki pregled - prvi,2025-06-18,3730.0,7.042,True,True,True
+1010P,Dermatološki pregled - prvi,2025-07-02,735.0,1.32,False,True,False
+1010P,Dermatološki pregled - prvi,2025-07-09,110.0,0.126,False,True,False
+1010P,Dermatološki pregled - prvi,2025-07-16,-80.0,-0.237,False,True,False
+1010P,Dermatološki pregled - prvi,2025-07-23,-317.0,-0.69,False,False,False
+1010P,Dermatološki pregled - prvi,2025-07-30,-63.0,-0.204,False,False,False
+1010P,Dermatološki pregled - prvi,2025-08-06,385.0,0.651,False,False,False
+1010P,Dermatološki pregled - prvi,2025-08-13,58.0,0.027,False,False,False
+1010P,Dermatološki pregled - prvi,2025-08-20,-134.0,-0.34,False,False,False
+1010P,Dermatološki pregled - prvi,2025-08-27,-5.0,-0.094,False,False,False
+1010P,Dermatološki pregled - prvi,2025-09-03,15.0,-0.055,False,False,False
+1010P,Dermatološki pregled - prvi,2025-09-10,-76.0,-0.229,False,False,False
+1010P,Dermatološki pregled - prvi,2025-09-17,160.0,0.222,False,False,False
+1010P,Dermatološki pregled - prvi,2025-09-24,149.0,0.201,False,False,False
+1010P,Dermatološki pregled - prvi,2025-10-01,-101.0,-0.277,False,False,False
+1010P,Dermatološki pregled - prvi,2025-10-08,-125.0,-0.323,False,False,False
+1010P,Dermatološki pregled - prvi,2025-10-15,-15.0,-0.113,False,False,False
+1010P,Dermatološki pregled - prvi,2025-10-22,-32.0,-0.145,False,False,False
+1010P,Dermatološki pregled - prvi,2025-10-29,65.0,0.04,False,False,False
+1010P,Dermatološki pregled - prvi,2025-11-05,-244.0,-0.55,False,False,False
+1010P,Dermatološki pregled - prvi,2025-11-12,-9.0,-0.101,False,False,False
+1010P,Dermatološki pregled - prvi,2025-11-19,-135.0,-0.342,False,False,False
+1010P,Dermatološki pregled - prvi,2025-11-26,67.0,0.044,False,False,False
+1010P,Dermatološki pregled - prvi,2025-12-03,-235.0,-0.533,False,False,False
+1010P,Dermatološki pregled - prvi,2025-12-10,-215.0,-0.495,False,False,False
+1010P,Dermatološki pregled - prvi,2025-12-17,-51.0,-0.182,False,False,False
+1010P,Dermatološki pregled - prvi,2026-01-07,106.0,0.118,False,False,False
+1010P,Dermatološki pregled - prvi,2026-01-14,-73.0,-0.224,False,False,False
+1010P,Dermatološki pregled - prvi,2026-01-21,-45.0,-0.17,False,False,False
+1010P,Dermatološki pregled - prvi,2026-01-28,-115.0,-0.304,False,False,False
+1010P,Dermatološki pregled - prvi,2026-02-04,-1.0,-0.086,False,False,False
+1010P,Dermatološki pregled - prvi,2026-02-11,-159.0,-0.388,False,False,False
+1010P,Dermatološki pregled - prvi,2026-02-18,-354.0,-0.76,False,False,False
+1010P,Dermatološki pregled - prvi,2026-02-25,-135.0,-0.342,False,False,False
+1010P,Dermatološki pregled - prvi,2026-03-04,-31.0,-0.143,False,False,False
+1010P,Dermatološki pregled - prvi,2026-03-11,-58.0,-0.195,False,False,False
+1010P,Dermatološki pregled - prvi,2026-03-18,-32.0,-0.145,False,False,False
+1010P,Dermatološki pregled - prvi,2026-03-25,284.0,0.458,False,False,False
+1010P,Dermatološki pregled - prvi,2026-04-08,-370.0,-0.791,False,False,False
+1010P,Dermatološki pregled - prvi,2026-04-15,5.0,-0.075,False,False,False
+1010P,Dermatološki pregled - prvi,2026-04-29,300.0,0.489,False,False,False
+1010P,Dermatološki pregled - prvi,2026-05-06,-138.0,-0.348,False,False,False
+1010P,Dermatološki pregled - prvi,2026-05-13,320.0,0.527,False,False,False
+1010P,Dermatološki pregled - prvi,2026-05-20,101.0,0.109,False,False,False
+1010P,Dermatološki pregled - prvi,2026-05-27,423.0,0.724,False,False,False
+1010P,Dermatološki pregled - prvi,2026-06-03,-577.0,-1.187,False,False,False
+1010P,Dermatološki pregled - prvi,2026-06-17,-225.0,-0.514,False,False,False
+1010P,Dermatološki pregled - prvi,2026-06-24,-116.0,-0.306,False,False,False
+1010P,Dermatološki pregled - prvi,2026-07-01,-309.0,-0.674,False,False,False
+1010P,Dermatološki pregled - prvi,2026-07-08,-66.0,-0.21,False,False,False
+1010P,Dermatološki pregled - prvi,2026-07-15,-344.0,-0.741,False,False,False
+1018P,Kardiološki pregled - prvi,2024-04-11,-96.0,-0.35,False,False,False
+1018P,Kardiološki pregled - prvi,2024-04-18,-187.0,-0.768,False,False,False
+1018P,Kardiološki pregled - prvi,2024-04-25,-27.0,-0.032,False,False,False
+1018P,Kardiološki pregled - prvi,2024-05-03,168.0,0.864,False,False,False
+1018P,Kardiološki pregled - prvi,2024-05-09,-56.0,-0.166,False,False,False
+1018P,Kardiološki pregled - prvi,2024-05-16,-150.0,-0.598,False,False,False
+1018P,Kardiološki pregled - prvi,2024-05-23,-135.0,-0.529,False,False,False
+1018P,Kardiološki pregled - prvi,2024-05-30,-133.0,-0.52,False,False,False
+1018P,Kardiološki pregled - prvi,2024-06-06,-417.0,-1.825,False,False,False
+1018P,Kardiološki pregled - prvi,2024-06-13,571.0,2.717,True,True,True
+1018P,Kardiološki pregled - prvi,2024-06-20,-102.0,-0.377,False,False,False
+1018P,Kardiološki pregled - prvi,2024-06-27,173.0,0.887,False,False,False
+1018P,Kardiološki pregled - prvi,2024-07-04,-134.0,-0.524,False,False,False
+1018P,Kardiološki pregled - prvi,2024-07-11,16.0,0.165,False,False,False
+1018P,Kardiološki pregled - prvi,2024-07-18,-147.0,-0.584,False,False,False
+1018P,Kardiološki pregled - prvi,2024-07-25,64.0,0.386,False,False,False
+1018P,Kardiološki pregled - prvi,2024-08-01,145.0,0.758,False,False,False
+1018P,Kardiološki pregled - prvi,2024-08-08,187.0,0.952,False,False,False
+1018P,Kardiološki pregled - prvi,2024-08-16,10.0,0.138,False,False,False
+1018P,Kardiološki pregled - prvi,2024-08-22,-33.0,-0.06,False,False,False
+1018P,Kardiološki pregled - prvi,2024-08-29,-242.0,-1.021,False,False,False
+1018P,Kardiološki pregled - prvi,2024-09-05,-434.0,-1.903,False,False,False
+1018P,Kardiološki pregled - prvi,2024-09-12,-649.0,-2.892,True,True,True
+1018P,Kardiološki pregled - prvi,2024-09-19,759.0,3.581,True,True,True
+1018P,Kardiološki pregled - prvi,2024-09-26,-235.0,-0.989,False,True,False
+1018P,Kardiološki pregled - prvi,2024-10-03,-285.0,-1.218,False,True,False
+1018P,Kardiološki pregled - prvi,2024-10-10,-136.0,-0.533,False,False,False
+1018P,Kardiološki pregled - prvi,2024-10-17,-225.0,-0.943,False,False,False
+1018P,Kardiološki pregled - prvi,2024-10-24,-185.0,-0.759,False,False,False
+1018P,Kardiološki pregled - prvi,2024-10-31,20.0,0.184,False,False,False
+1018P,Kardiološki pregled - prvi,2024-11-07,-164.0,-0.662,False,False,False
+1018P,Kardiološki pregled - prvi,2024-11-14,-146.0,-0.579,False,False,False
+1018P,Kardiološki pregled - prvi,2024-11-21,-543.0,-2.405,True,True,True
+1018P,Kardiološki pregled - prvi,2024-11-28,-91.0,-0.327,False,False,False
+1018P,Kardiološki pregled - prvi,2024-12-05,-375.0,-1.632,False,False,False
+1018P,Kardiološki pregled - prvi,2024-12-12,58.0,0.358,False,False,False
+1018P,Kardiološki pregled - prvi,2024-12-19,-229.0,-0.961,False,False,False
+1018P,Kardiološki pregled - prvi,2025-01-08,204.0,1.03,False,False,False
+1018P,Kardiološki pregled - prvi,2025-01-15,-53.0,-0.152,False,False,False
+1018P,Kardiološki pregled - prvi,2025-01-22,76.0,0.441,False,False,False
+1018P,Kardiološki pregled - prvi,2025-01-29,-36.0,-0.074,False,False,False
+1018P,Kardiološki pregled - prvi,2025-02-05,108.0,0.588,False,False,False
+1018P,Kardiološki pregled - prvi,2025-02-12,157.0,0.814,False,False,False
+1018P,Kardiološki pregled - prvi,2025-02-19,149.0,0.777,False,False,False
+1018P,Kardiološki pregled - prvi,2025-02-26,228.0,1.14,False,False,False
+1018P,Kardiološki pregled - prvi,2025-03-05,13.0,0.152,False,False,False
+1018P,Kardiološki pregled - prvi,2025-03-12,230.0,1.149,False,False,False
+1018P,Kardiološki pregled - prvi,2025-03-19,-40.0,-0.092,False,False,False
+1018P,Kardiološki pregled - prvi,2025-03-26,128.0,0.68,False,False,False
+1018P,Kardiološki pregled - prvi,2025-04-02,61.0,0.372,False,False,False
+1018P,Kardiološki pregled - prvi,2025-04-09,307.0,1.503,False,False,False
+1018P,Kardiološki pregled - prvi,2025-04-16,-15.0,0.023,False,False,False
+1018P,Kardiološki pregled - prvi,2025-04-23,48.0,0.312,False,False,False
+1018P,Kardiološki pregled - prvi,2025-04-30,451.0,2.165,True,False,False
+1018P,Kardiološki pregled - prvi,2025-05-07,14.0,0.156,False,False,False
+1018P,Kardiološki pregled - prvi,2025-05-14,182.0,0.929,False,False,False
+1018P,Kardiološki pregled - prvi,2025-05-21,-21.0,-0.005,False,False,False
+1018P,Kardiološki pregled - prvi,2025-05-28,192.0,0.975,False,False,False
+1018P,Kardiološki pregled - prvi,2025-06-04,-92.0,-0.331,False,False,False
+1018P,Kardiološki pregled - prvi,2025-06-11,-287.0,-1.228,False,False,False
+1018P,Kardiološki pregled - prvi,2025-06-18,480.0,2.299,True,False,False
+1018P,Kardiološki pregled - prvi,2025-07-02,67.0,0.4,False,False,False
+1018P,Kardiološki pregled - prvi,2025-07-09,42.0,0.285,False,False,False
+1018P,Kardiološki pregled - prvi,2025-07-16,-17.0,0.014,False,False,False
+1018P,Kardiološki pregled - prvi,2025-07-23,160.0,0.827,False,False,False
+1018P,Kardiološki pregled - prvi,2025-07-30,124.0,0.662,False,False,False
+1018P,Kardiološki pregled - prvi,2025-08-06,-104.0,-0.386,False,False,False
+1018P,Kardiološki pregled - prvi,2025-08-13,-15.0,0.023,False,False,False
+1018P,Kardiološki pregled - prvi,2025-08-20,-113.0,-0.428,False,False,False
+1018P,Kardiološki pregled - prvi,2025-08-27,98.0,0.542,False,False,False
+1018P,Kardiološki pregled - prvi,2025-09-03,-62.0,-0.193,False,False,False
+1018P,Kardiološki pregled - prvi,2025-09-10,-113.0,-0.428,False,False,False
+1018P,Kardiološki pregled - prvi,2025-09-17,-183.0,-0.749,False,False,False
+1018P,Kardiološki pregled - prvi,2025-09-24,-335.0,-1.448,False,False,False
+1018P,Kardiološki pregled - prvi,2025-10-01,-455.0,-2.0,False,False,False
+1018P,Kardiološki pregled - prvi,2025-10-08,-190.0,-0.782,False,False,False
+1018P,Kardiološki pregled - prvi,2025-10-15,-134.0,-0.524,False,False,False
+1018P,Kardiološki pregled - prvi,2025-10-22,-327.0,-1.412,False,False,False
+1018P,Kardiološki pregled - prvi,2025-10-29,116.0,0.625,False,False,False
+1018P,Kardiološki pregled - prvi,2025-11-05,-174.0,-0.708,False,False,False
+1018P,Kardiološki pregled - prvi,2025-11-12,-46.0,-0.12,False,False,False
+1018P,Kardiološki pregled - prvi,2025-11-19,-174.0,-0.708,False,False,False
+1018P,Kardiološki pregled - prvi,2025-11-26,-53.0,-0.152,False,False,False
+1018P,Kardiološki pregled - prvi,2025-12-03,-61.0,-0.189,False,False,False
+1018P,Kardiološki pregled - prvi,2025-12-10,-67.0,-0.216,False,False,False
+1018P,Kardiološki pregled - prvi,2025-12-17,-267.0,-1.136,False,False,False
+1018P,Kardiološki pregled - prvi,2026-01-07,-48.0,-0.129,False,False,False
+1018P,Kardiološki pregled - prvi,2026-01-14,4.0,0.11,False,False,False
+1018P,Kardiološki pregled - prvi,2026-01-21,103.0,0.565,False,False,False
+1018P,Kardiološki pregled - prvi,2026-01-28,263.0,1.301,False,False,False
+1018P,Kardiološki pregled - prvi,2026-02-04,121.0,0.648,False,False,False
+1018P,Kardiološki pregled - prvi,2026-02-11,-9.0,0.05,False,False,False
+1018P,Kardiološki pregled - prvi,2026-02-18,335.0,1.632,False,False,False
+1018P,Kardiološki pregled - prvi,2026-02-25,19.0,0.179,False,False,False
+1018P,Kardiološki pregled - prvi,2026-03-04,127.0,0.676,False,False,False
+1018P,Kardiološki pregled - prvi,2026-03-11,71.0,0.418,False,False,False
+1018P,Kardiološki pregled - prvi,2026-03-18,-190.0,-0.782,False,False,False
+1018P,Kardiološki pregled - prvi,2026-03-25,145.0,0.758,False,False,False
+1018P,Kardiološki pregled - prvi,2026-04-08,-283.0,-1.209,False,False,False
+1018P,Kardiološki pregled - prvi,2026-04-15,105.0,0.575,False,False,False
+1018P,Kardiološki pregled - prvi,2026-04-29,359.0,1.742,False,False,False
+1018P,Kardiološki pregled - prvi,2026-05-06,-302.0,-1.297,False,False,False
+1018P,Kardiološki pregled - prvi,2026-05-13,131.0,0.694,False,False,False
+1018P,Kardiološki pregled - prvi,2026-05-20,-108.0,-0.405,False,False,False
+1018P,Kardiološki pregled - prvi,2026-05-27,55.0,0.345,False,False,False
+1018P,Kardiološki pregled - prvi,2026-06-03,-90.0,-0.322,False,False,False
+1018P,Kardiološki pregled - prvi,2026-06-17,-34.0,-0.064,False,False,False
+1018P,Kardiološki pregled - prvi,2026-06-24,230.0,1.149,False,False,False
+1018P,Kardiološki pregled - prvi,2026-07-01,-189.0,-0.777,False,False,False
+1018P,Kardiološki pregled - prvi,2026-07-08,46.0,0.303,False,False,False
+1018P,Kardiološki pregled - prvi,2026-07-15,106.0,0.579,False,False,False
+1941,UZ vratnih žil,2024-04-11,196.0,0.242,False,False,False
+1941,UZ vratnih žil,2024-04-18,578.0,1.175,False,False,False
+1941,UZ vratnih žil,2024-04-25,185.0,0.215,False,False,False
+1941,UZ vratnih žil,2024-05-03,215.0,0.288,False,False,False
+1941,UZ vratnih žil,2024-05-09,256.0,0.389,False,False,False
+1941,UZ vratnih žil,2024-05-16,114.0,0.042,False,False,False
+1941,UZ vratnih žil,2024-05-23,241.0,0.352,False,False,False
+1941,UZ vratnih žil,2024-05-30,132.0,0.086,False,False,False
+1941,UZ vratnih žil,2024-06-06,-312.0,-0.999,False,False,False
+1941,UZ vratnih žil,2024-06-13,114.0,0.042,False,False,False
+1941,UZ vratnih žil,2024-06-20,-184.0,-0.686,False,False,False
+1941,UZ vratnih žil,2024-06-27,172.0,0.183,False,False,False
+1941,UZ vratnih žil,2024-07-04,-107.0,-0.498,False,False,False
+1941,UZ vratnih žil,2024-07-11,-217.0,-0.767,False,False,False
+1941,UZ vratnih žil,2024-07-18,89.0,-0.019,False,False,False
+1941,UZ vratnih žil,2024-07-25,179.0,0.201,False,False,False
+1941,UZ vratnih žil,2024-08-01,-73.0,-0.415,False,False,False
+1941,UZ vratnih žil,2024-08-08,70.0,-0.066,False,False,False
+1941,UZ vratnih žil,2024-08-16,-166.0,-0.642,False,False,False
+1941,UZ vratnih žil,2024-08-22,72.0,-0.061,False,False,False
+1941,UZ vratnih žil,2024-08-29,133.0,0.088,False,False,False
+1941,UZ vratnih žil,2024-09-05,-295.0,-0.957,False,False,False
+1941,UZ vratnih žil,2024-09-12,175.0,0.191,False,False,False
+1941,UZ vratnih žil,2024-09-19,-116.0,-0.52,False,False,False
+1941,UZ vratnih žil,2024-09-26,59.0,-0.093,False,False,False
+1941,UZ vratnih žil,2024-10-03,0.0,-0.237,False,False,False
+1941,UZ vratnih žil,2024-10-10,176.0,0.193,False,False,False
+1941,UZ vratnih žil,2024-10-17,-33.0,-0.317,False,False,False
+1941,UZ vratnih žil,2024-10-24,226.0,0.315,False,False,False
+1941,UZ vratnih žil,2024-10-31,383.0,0.699,False,False,False
+1941,UZ vratnih žil,2024-11-07,133.0,0.088,False,False,False
+1941,UZ vratnih žil,2024-11-14,6.0,-0.222,False,False,False
+1941,UZ vratnih žil,2024-11-21,698.0,1.468,False,False,False
+1941,UZ vratnih žil,2024-11-28,-379.0,-1.162,False,False,False
+1941,UZ vratnih žil,2024-12-05,-581.0,-1.656,False,False,False
+1941,UZ vratnih žil,2024-12-12,444.0,0.848,False,False,False
+1941,UZ vratnih žil,2024-12-19,379.0,0.689,False,False,False
+1941,UZ vratnih žil,2025-01-08,-168.0,-0.647,False,False,False
+1941,UZ vratnih žil,2025-01-15,696.0,1.463,False,False,False
+1941,UZ vratnih žil,2025-01-22,207.0,0.269,False,False,False
+1941,UZ vratnih žil,2025-01-29,581.0,1.182,False,False,False
+1941,UZ vratnih žil,2025-02-05,409.0,0.762,False,False,False
+1941,UZ vratnih žil,2025-02-12,420.0,0.789,False,False,False
+1941,UZ vratnih žil,2025-02-19,227.0,0.318,False,False,False
+1941,UZ vratnih žil,2025-02-26,543.0,1.09,False,False,False
+1941,UZ vratnih žil,2025-03-05,-63.0,-0.391,False,False,False
+1941,UZ vratnih žil,2025-03-12,-283.0,-0.928,False,False,False
+1941,UZ vratnih žil,2025-03-19,476.0,0.926,False,False,False
+1941,UZ vratnih žil,2025-03-26,549.0,1.104,False,False,False
+1941,UZ vratnih žil,2025-04-02,181.0,0.205,False,False,False
+1941,UZ vratnih žil,2025-04-09,735.0,1.559,False,False,False
+1941,UZ vratnih žil,2025-04-16,255.0,0.386,False,False,False
+1941,UZ vratnih žil,2025-04-23,285.0,0.459,False,False,False
+1941,UZ vratnih žil,2025-04-30,369.0,0.665,False,False,False
+1941,UZ vratnih žil,2025-05-07,26.0,-0.173,False,False,False
+1941,UZ vratnih žil,2025-05-14,481.0,0.938,False,False,False
+1941,UZ vratnih žil,2025-05-21,300.0,0.496,False,False,False
+1941,UZ vratnih žil,2025-05-28,396.0,0.731,False,False,False
+1941,UZ vratnih žil,2025-06-04,532.0,1.063,False,False,False
+1941,UZ vratnih žil,2025-06-11,-594.0,-1.688,False,False,False
+1941,UZ vratnih žil,2025-06-18,827.0,1.783,False,False,False
+1941,UZ vratnih žil,2025-07-02,78.0,-0.046,False,False,False
+1941,UZ vratnih žil,2025-07-09,-6.0,-0.251,False,False,False
+1941,UZ vratnih žil,2025-07-16,-795.0,-2.179,True,False,False
+1941,UZ vratnih žil,2025-07-23,1014.0,2.24,True,False,False
+1941,UZ vratnih žil,2025-07-30,-141.0,-0.581,False,False,False
+1941,UZ vratnih žil,2025-08-06,276.0,0.437,False,False,False
+1941,UZ vratnih žil,2025-08-13,16.0,-0.198,False,False,False
+1941,UZ vratnih žil,2025-08-20,-1608.0,-4.164,True,True,True
+1941,UZ vratnih žil,2025-08-27,1520.0,3.476,True,True,True
+1941,UZ vratnih žil,2025-09-03,-418.0,-1.258,False,True,False
+1941,UZ vratnih žil,2025-09-10,-223.0,-0.781,False,True,False
+1941,UZ vratnih žil,2025-09-17,-132.0,-0.559,False,False,False
+1941,UZ vratnih žil,2025-09-24,-276.0,-0.911,False,False,False
+1941,UZ vratnih žil,2025-10-01,298.0,0.491,False,False,False
+1941,UZ vratnih žil,2025-10-08,176.0,0.193,False,False,False
+1941,UZ vratnih žil,2025-10-15,-105.0,-0.493,False,False,False
+1941,UZ vratnih žil,2025-10-22,334.0,0.579,False,False,False
+1941,UZ vratnih žil,2025-10-29,405.0,0.753,False,False,False
+1941,UZ vratnih žil,2025-11-05,-369.0,-1.138,False,False,False
+1941,UZ vratnih žil,2025-11-12,-210.0,-0.75,False,False,False
+1941,UZ vratnih žil,2025-11-19,227.0,0.318,False,False,False
+1941,UZ vratnih žil,2025-11-26,-215.0,-0.762,False,False,False
+1941,UZ vratnih žil,2025-12-03,221.0,0.303,False,False,False
+1941,UZ vratnih žil,2025-12-10,-554.0,-1.59,False,False,False
+1941,UZ vratnih žil,2025-12-17,-1.0,-0.239,False,False,False
+1941,UZ vratnih žil,2026-01-07,-1.0,-0.239,False,False,False
+1941,UZ vratnih žil,2026-01-14,130.0,0.081,False,False,False
+1941,UZ vratnih žil,2026-01-21,160.0,0.154,False,False,False
+1941,UZ vratnih žil,2026-01-28,373.0,0.674,False,False,False
+1941,UZ vratnih žil,2026-02-04,24.0,-0.178,False,False,False
+1941,UZ vratnih žil,2026-02-11,115.0,0.044,False,False,False
+1941,UZ vratnih žil,2026-02-18,549.0,1.104,False,False,False
+1941,UZ vratnih žil,2026-02-25,-107.0,-0.498,False,False,False
+1941,UZ vratnih žil,2026-03-04,75.0,-0.053,False,False,False
+1941,UZ vratnih žil,2026-03-11,273.0,0.43,False,False,False
+1941,UZ vratnih žil,2026-03-18,278.0,0.442,False,False,False
+1941,UZ vratnih žil,2026-03-25,-177.0,-0.669,False,False,False
+1941,UZ vratnih žil,2026-04-08,-449.0,-1.333,False,False,False
+1941,UZ vratnih žil,2026-04-15,-162.0,-0.632,False,False,False
+1941,UZ vratnih žil,2026-04-29,236.0,0.34,False,False,False
+1941,UZ vratnih žil,2026-05-06,388.0,0.711,False,False,False
+1941,UZ vratnih žil,2026-05-13,75.0,-0.053,False,False,False
+1941,UZ vratnih žil,2026-05-20,-952.0,-2.562,True,False,False
+1941,UZ vratnih žil,2026-05-27,215.0,0.288,False,False,False
+1941,UZ vratnih žil,2026-06-03,-185.0,-0.689,False,False,False
+1941,UZ vratnih žil,2026-06-17,-995.0,-2.667,True,True,True
+1941,UZ vratnih žil,2026-06-24,197.0,0.244,False,False,False
+1941,UZ vratnih žil,2026-07-01,894.0,1.947,False,True,False
+1941,UZ vratnih žil,2026-07-08,-150.0,-0.603,False,False,False
+1941,UZ vratnih žil,2026-07-15,91.0,-0.014,False,False,False
+1755,MR glave brez kontrasta,2024-04-11,-123.0,-1.048,False,False,False
+1755,MR glave brez kontrasta,2024-04-18,57.0,0.215,False,False,False
+1755,MR glave brez kontrasta,2024-04-25,61.0,0.243,False,False,False
+1755,MR glave brez kontrasta,2024-05-03,-164.0,-1.336,False,False,False
+1755,MR glave brez kontrasta,2024-05-09,-18.0,-0.311,False,False,False
+1755,MR glave brez kontrasta,2024-05-16,-9.0,-0.248,False,False,False
+1755,MR glave brez kontrasta,2024-05-23,70.0,0.306,False,False,False
+1755,MR glave brez kontrasta,2024-05-30,89.0,0.44,False,False,False
+1755,MR glave brez kontrasta,2024-06-06,-69.0,-0.669,False,False,False
+1755,MR glave brez kontrasta,2024-06-13,-34.0,-0.424,False,False,False
+1755,MR glave brez kontrasta,2024-06-20,-81.0,-0.753,False,False,False
+1755,MR glave brez kontrasta,2024-06-27,-36.0,-0.438,False,False,False
+1755,MR glave brez kontrasta,2024-07-04,-56.0,-0.578,False,False,False
+1755,MR glave brez kontrasta,2024-07-11,-156.0,-1.28,False,False,False
+1755,MR glave brez kontrasta,2024-07-18,-253.0,-1.96,False,False,False
+1755,MR glave brez kontrasta,2024-07-25,-225.0,-1.764,False,False,False
+1755,MR glave brez kontrasta,2024-08-01,-170.0,-1.378,False,False,False
+1755,MR glave brez kontrasta,2024-08-08,-61.0,-0.613,False,False,False
+1755,MR glave brez kontrasta,2024-08-16,-170.0,-1.378,False,False,False
+1755,MR glave brez kontrasta,2024-08-22,-161.0,-1.315,False,False,False
+1755,MR glave brez kontrasta,2024-08-29,-85.0,-0.781,False,False,False
+1755,MR glave brez kontrasta,2024-09-05,-61.0,-0.613,False,False,False
+1755,MR glave brez kontrasta,2024-09-12,-43.0,-0.487,False,False,False
+1755,MR glave brez kontrasta,2024-09-19,-100.0,-0.887,False,False,False
+1755,MR glave brez kontrasta,2024-09-26,279.0,1.773,False,False,False
+1755,MR glave brez kontrasta,2024-10-03,-4.0,-0.213,False,False,False
+1755,MR glave brez kontrasta,2024-10-10,130.0,0.727,False,False,False
+1755,MR glave brez kontrasta,2024-10-17,-4.0,-0.213,False,False,False
+1755,MR glave brez kontrasta,2024-10-24,46.0,0.138,False,False,False
+1755,MR glave brez kontrasta,2024-10-31,-141.0,-1.174,False,False,False
+1755,MR glave brez kontrasta,2024-11-07,137.0,0.776,False,False,False
+1755,MR glave brez kontrasta,2024-11-14,56.0,0.208,False,False,False
+1755,MR glave brez kontrasta,2024-11-21,23.0,-0.024,False,False,False
+1755,MR glave brez kontrasta,2024-11-28,-47.0,-0.515,False,False,False
+1755,MR glave brez kontrasta,2024-12-05,39.0,0.089,False,False,False
+1755,MR glave brez kontrasta,2024-12-12,5.0,-0.15,False,False,False
+1755,MR glave brez kontrasta,2024-12-19,-89.0,-0.809,False,False,False
+1755,MR glave brez kontrasta,2025-01-08,-390.0,-2.921,True,True,True
+1755,MR glave brez kontrasta,2025-01-15,63.0,0.257,False,False,False
+1755,MR glave brez kontrasta,2025-01-22,123.0,0.678,False,False,False
+1755,MR glave brez kontrasta,2025-01-29,137.0,0.776,False,False,False
+1755,MR glave brez kontrasta,2025-02-05,70.0,0.306,False,False,False
+1755,MR glave brez kontrasta,2025-02-12,133.0,0.748,False,False,False
+1755,MR glave brez kontrasta,2025-02-19,77.0,0.355,False,False,False
+1755,MR glave brez kontrasta,2025-02-26,46.0,0.138,False,False,False
+1755,MR glave brez kontrasta,2025-03-05,72.0,0.32,False,False,False
+1755,MR glave brez kontrasta,2025-03-12,106.0,0.559,False,False,False
+1755,MR glave brez kontrasta,2025-03-19,73.0,0.327,False,False,False
+1755,MR glave brez kontrasta,2025-03-26,78.0,0.362,False,False,False
+1755,MR glave brez kontrasta,2025-04-02,14.0,-0.087,False,False,False
+1755,MR glave brez kontrasta,2025-04-09,71.0,0.313,False,False,False
+1755,MR glave brez kontrasta,2025-04-16,178.0,1.064,False,False,False
+1755,MR glave brez kontrasta,2025-04-23,142.0,0.811,False,False,False
+1755,MR glave brez kontrasta,2025-04-30,11.0,-0.108,False,False,False
+1755,MR glave brez kontrasta,2025-05-07,-56.0,-0.578,False,False,False
+1755,MR glave brez kontrasta,2025-05-14,29.0,0.019,False,False,False
+1755,MR glave brez kontrasta,2025-05-21,195.0,1.183,False,False,False
+1755,MR glave brez kontrasta,2025-05-28,111.0,0.594,False,False,False
+1755,MR glave brez kontrasta,2025-06-04,175.0,1.043,False,False,False
+1755,MR glave brez kontrasta,2025-06-11,-438.0,-3.258,True,True,True
+1755,MR glave brez kontrasta,2025-06-18,471.0,3.12,True,True,True
+1755,MR glave brez kontrasta,2025-07-02,-125.0,-1.062,False,True,False
+1755,MR glave brez kontrasta,2025-07-09,-91.0,-0.823,False,True,False
+1755,MR glave brez kontrasta,2025-07-16,-76.0,-0.718,False,False,False
+1755,MR glave brez kontrasta,2025-07-23,58.0,0.222,False,False,False
+1755,MR glave brez kontrasta,2025-07-30,-111.0,-0.964,False,False,False
+1755,MR glave brez kontrasta,2025-08-06,24.0,-0.017,False,False,False
+1755,MR glave brez kontrasta,2025-08-13,-115.0,-0.992,False,False,False
+1755,MR glave brez kontrasta,2025-08-20,-403.0,-3.013,True,True,True
+1755,MR glave brez kontrasta,2025-08-27,130.0,0.727,False,False,False
+1755,MR glave brez kontrasta,2025-09-03,93.0,0.468,False,False,False
+1755,MR glave brez kontrasta,2025-09-10,79.0,0.369,False,False,False
+1755,MR glave brez kontrasta,2025-09-17,222.0,1.373,False,False,False
+1755,MR glave brez kontrasta,2025-09-24,190.0,1.148,False,False,False
+1755,MR glave brez kontrasta,2025-10-01,231.0,1.436,False,False,False
+1755,MR glave brez kontrasta,2025-10-08,113.0,0.608,False,False,False
+1755,MR glave brez kontrasta,2025-10-15,304.0,1.948,False,False,False
+1755,MR glave brez kontrasta,2025-10-22,77.0,0.355,False,False,False
+1755,MR glave brez kontrasta,2025-10-29,47.0,0.145,False,False,False
+1755,MR glave brez kontrasta,2025-11-05,14.0,-0.087,False,False,False
+1755,MR glave brez kontrasta,2025-11-12,154.0,0.896,False,False,False
+1755,MR glave brez kontrasta,2025-11-19,118.0,0.643,False,False,False
+1755,MR glave brez kontrasta,2025-11-26,143.0,0.818,False,False,False
+1755,MR glave brez kontrasta,2025-12-03,118.0,0.643,False,False,False
+1755,MR glave brez kontrasta,2025-12-10,198.0,1.204,False,False,False
+1755,MR glave brez kontrasta,2025-12-17,7.0,-0.136,False,False,False
+1755,MR glave brez kontrasta,2026-01-07,-81.0,-0.753,False,False,False
+1755,MR glave brez kontrasta,2026-01-14,174.0,1.036,False,False,False
+1755,MR glave brez kontrasta,2026-01-21,152.0,0.882,False,False,False
+1755,MR glave brez kontrasta,2026-01-28,200.0,1.218,False,False,False
+1755,MR glave brez kontrasta,2026-02-04,217.0,1.338,False,False,False
+1755,MR glave brez kontrasta,2026-02-11,107.0,0.566,False,False,False
+1755,MR glave brez kontrasta,2026-02-18,233.0,1.45,False,False,False
+1755,MR glave brez kontrasta,2026-02-25,25.0,-0.01,False,False,False
+1755,MR glave brez kontrasta,2026-03-04,-60.0,-0.606,False,False,False
+1755,MR glave brez kontrasta,2026-03-11,77.0,0.355,False,False,False
+1755,MR glave brez kontrasta,2026-03-18,99.0,0.51,False,False,False
+1755,MR glave brez kontrasta,2026-03-25,224.0,1.387,False,False,False
+1755,MR glave brez kontrasta,2026-04-08,179.0,1.071,False,False,False
+1755,MR glave brez kontrasta,2026-04-15,131.0,0.734,False,False,False
+1755,MR glave brez kontrasta,2026-04-29,81.0,0.383,False,False,False
+1755,MR glave brez kontrasta,2026-05-06,46.0,0.138,False,False,False
+1755,MR glave brez kontrasta,2026-05-13,95.0,0.482,False,False,False
+1755,MR glave brez kontrasta,2026-05-20,22.0,-0.031,False,False,False
+1755,MR glave brez kontrasta,2026-05-27,3.0,-0.164,False,False,False
+1755,MR glave brez kontrasta,2026-06-03,-136.0,-1.139,False,False,False
+1755,MR glave brez kontrasta,2026-06-17,-17.0,-0.304,False,False,False
+1755,MR glave brez kontrasta,2026-06-24,-33.0,-0.417,False,False,False
+1755,MR glave brez kontrasta,2026-07-01,-65.0,-0.641,False,False,False
+1755,MR glave brez kontrasta,2026-07-08,-121.0,-1.034,False,False,False
+1755,MR glave brez kontrasta,2026-07-15,-148.0,-1.223,False,False,False
+1195,Operacija sive mrene (katarakte),2024-04-11,-9.0,-0.261,False,False,False
+1195,Operacija sive mrene (katarakte),2024-04-18,348.0,1.48,False,False,False
+1195,Operacija sive mrene (katarakte),2024-04-25,168.0,0.602,False,False,False
+1195,Operacija sive mrene (katarakte),2024-05-03,33.0,-0.056,False,False,False
+1195,Operacija sive mrene (katarakte),2024-05-09,-73.0,-0.573,False,False,False
+1195,Operacija sive mrene (katarakte),2024-05-16,-179.0,-1.09,False,False,False
+1195,Operacija sive mrene (katarakte),2024-05-23,-166.0,-1.027,False,True,False
+1195,Operacija sive mrene (katarakte),2024-05-30,-14.0,-0.285,False,False,False
+1195,Operacija sive mrene (katarakte),2024-06-06,3.0,-0.202,False,False,False
+1195,Operacija sive mrene (katarakte),2024-06-13,339.0,1.436,False,False,False
+1195,Operacija sive mrene (katarakte),2024-06-20,-105.0,-0.729,False,False,False
+1195,Operacija sive mrene (katarakte),2024-06-27,84.0,0.193,False,False,False
+1195,Operacija sive mrene (katarakte),2024-07-04,-79.0,-0.602,False,False,False
+1195,Operacija sive mrene (katarakte),2024-07-11,76.0,0.154,False,False,False
+1195,Operacija sive mrene (katarakte),2024-07-18,18.0,-0.129,False,False,False
+1195,Operacija sive mrene (katarakte),2024-07-25,252.0,1.012,False,False,False
+1195,Operacija sive mrene (katarakte),2024-08-01,83.0,0.188,False,False,False
+1195,Operacija sive mrene (katarakte),2024-08-08,0.0,-0.217,False,False,False
+1195,Operacija sive mrene (katarakte),2024-08-16,105.0,0.295,False,False,False
+1195,Operacija sive mrene (katarakte),2024-08-22,89.0,0.217,False,False,False
+1195,Operacija sive mrene (katarakte),2024-08-29,34.0,-0.051,False,False,False
+1195,Operacija sive mrene (katarakte),2024-09-05,194.0,0.729,False,False,False
+1195,Operacija sive mrene (katarakte),2024-09-12,128.0,0.407,False,False,False
+1195,Operacija sive mrene (katarakte),2024-09-19,-1.0,-0.222,False,False,False
+1195,Operacija sive mrene (katarakte),2024-09-26,-23.0,-0.329,False,False,False
+1195,Operacija sive mrene (katarakte),2024-10-03,168.0,0.602,False,False,False
+1195,Operacija sive mrene (katarakte),2024-10-10,3.0,-0.202,False,False,False
+1195,Operacija sive mrene (katarakte),2024-10-17,10.0,-0.168,False,False,False
+1195,Operacija sive mrene (katarakte),2024-10-24,70.0,0.124,False,False,False
+1195,Operacija sive mrene (katarakte),2024-10-31,37.0,-0.037,False,False,False
+1195,Operacija sive mrene (katarakte),2024-11-07,-66.0,-0.539,False,False,False
+1195,Operacija sive mrene (katarakte),2024-11-14,133.0,0.432,False,False,False
+1195,Operacija sive mrene (katarakte),2024-11-21,131.0,0.422,False,False,False
+1195,Operacija sive mrene (katarakte),2024-11-28,29.0,-0.076,False,False,False
+1195,Operacija sive mrene (katarakte),2024-12-05,131.0,0.422,False,False,False
+1195,Operacija sive mrene (katarakte),2024-12-12,162.0,0.573,False,False,False
+1195,Operacija sive mrene (katarakte),2024-12-19,281.0,1.153,False,False,False
+1195,Operacija sive mrene (katarakte),2025-01-08,174.0,0.632,False,False,False
+1195,Operacija sive mrene (katarakte),2025-01-15,-138.0,-0.89,False,False,False
+1195,Operacija sive mrene (katarakte),2025-01-22,-88.0,-0.646,False,False,False
+1195,Operacija sive mrene (katarakte),2025-01-29,143.0,0.48,False,False,False
+1195,Operacija sive mrene (katarakte),2025-02-05,-98.0,-0.695,False,False,False
+1195,Operacija sive mrene (katarakte),2025-02-12,147.0,0.5,False,False,False
+1195,Operacija sive mrene (katarakte),2025-02-19,2.0,-0.207,False,False,False
+1195,Operacija sive mrene (katarakte),2025-02-26,97.0,0.256,False,False,False
+1195,Operacija sive mrene (katarakte),2025-03-05,-102.0,-0.715,False,False,False
+1195,Operacija sive mrene (katarakte),2025-03-12,176.0,0.641,False,False,False
+1195,Operacija sive mrene (katarakte),2025-03-19,42.0,-0.012,False,False,False
+1195,Operacija sive mrene (katarakte),2025-03-26,163.0,0.578,False,False,False
+1195,Operacija sive mrene (katarakte),2025-04-02,206.0,0.788,False,False,False
+1195,Operacija sive mrene (katarakte),2025-04-09,62.0,0.085,False,False,False
+1195,Operacija sive mrene (katarakte),2025-04-16,24.0,-0.1,False,False,False
+1195,Operacija sive mrene (katarakte),2025-04-23,-56.0,-0.49,False,False,False
+1195,Operacija sive mrene (katarakte),2025-04-30,340.0,1.441,False,False,False
+1195,Operacija sive mrene (katarakte),2025-05-07,-104.0,-0.724,False,False,False
+1195,Operacija sive mrene (katarakte),2025-05-14,-85.0,-0.632,False,False,False
+1195,Operacija sive mrene (katarakte),2025-05-21,6.0,-0.188,False,False,False
+1195,Operacija sive mrene (katarakte),2025-05-28,-61.0,-0.515,False,False,False
+1195,Operacija sive mrene (katarakte),2025-06-04,85.0,0.197,False,False,False
+1195,Operacija sive mrene (katarakte),2025-06-11,-1298.0,-6.548,True,True,True
+1195,Operacija sive mrene (katarakte),2025-06-18,1097.0,5.134,True,True,True
+1195,Operacija sive mrene (katarakte),2025-07-02,-26.0,-0.344,False,True,False
+1195,Operacija sive mrene (katarakte),2025-07-09,282.0,1.158,False,True,False
+1195,Operacija sive mrene (katarakte),2025-07-16,94.0,0.241,False,True,False
+1195,Operacija sive mrene (katarakte),2025-07-23,-20.0,-0.315,False,False,False
+1195,Operacija sive mrene (katarakte),2025-07-30,26.0,-0.09,False,False,False
+1195,Operacija sive mrene (katarakte),2025-08-06,47.0,0.012,False,False,False
+1195,Operacija sive mrene (katarakte),2025-08-13,87.0,0.207,False,False,False
+1195,Operacija sive mrene (katarakte),2025-08-20,-35.0,-0.388,False,False,False
+1195,Operacija sive mrene (katarakte),2025-08-27,-29.0,-0.359,False,False,False
+1195,Operacija sive mrene (katarakte),2025-09-03,36.0,-0.042,False,False,False
+1195,Operacija sive mrene (katarakte),2025-09-10,-29.0,-0.359,False,False,False
+1195,Operacija sive mrene (katarakte),2025-09-17,71.0,0.129,False,False,False
+1195,Operacija sive mrene (katarakte),2025-09-24,132.0,0.427,False,False,False
+1195,Operacija sive mrene (katarakte),2025-10-01,7.0,-0.183,False,False,False
+1195,Operacija sive mrene (katarakte),2025-10-08,59.0,0.071,False,False,False
+1195,Operacija sive mrene (katarakte),2025-10-15,34.0,-0.051,False,False,False
+1195,Operacija sive mrene (katarakte),2025-10-22,198.0,0.749,False,False,False
+1195,Operacija sive mrene (katarakte),2025-10-29,89.0,0.217,False,False,False
+1195,Operacija sive mrene (katarakte),2025-11-05,-76.0,-0.588,False,False,False
+1195,Operacija sive mrene (katarakte),2025-11-12,7.0,-0.183,False,False,False
+1195,Operacija sive mrene (katarakte),2025-11-19,88.0,0.212,False,False,False
+1195,Operacija sive mrene (katarakte),2025-11-26,14.0,-0.149,False,False,False
+1195,Operacija sive mrene (katarakte),2025-12-03,75.0,0.149,False,False,False
+1195,Operacija sive mrene (katarakte),2025-12-10,106.0,0.3,False,False,False
+1195,Operacija sive mrene (katarakte),2025-12-17,158.0,0.554,False,False,False
+1195,Operacija sive mrene (katarakte),2026-01-07,-22.0,-0.324,False,False,False
+1195,Operacija sive mrene (katarakte),2026-01-14,-69.0,-0.554,False,False,False
+1195,Operacija sive mrene (katarakte),2026-01-21,-177.0,-1.08,False,False,False
+1195,Operacija sive mrene (katarakte),2026-01-28,-37.0,-0.398,False,False,False
+1195,Operacija sive mrene (katarakte),2026-02-04,73.0,0.139,False,False,False
+1195,Operacija sive mrene (katarakte),2026-02-11,-14.0,-0.285,False,False,False
+1195,Operacija sive mrene (katarakte),2026-02-18,402.0,1.744,False,False,False
+1195,Operacija sive mrene (katarakte),2026-02-25,12.0,-0.159,False,False,False
+1195,Operacija sive mrene (katarakte),2026-03-04,-47.0,-0.446,False,False,False
+1195,Operacija sive mrene (katarakte),2026-03-11,12.0,-0.159,False,False,False
+1195,Operacija sive mrene (katarakte),2026-03-18,-78.0,-0.598,False,False,False
+1195,Operacija sive mrene (katarakte),2026-03-25,-84.0,-0.627,False,False,False
+1195,Operacija sive mrene (katarakte),2026-04-08,294.0,1.217,False,False,False
+1195,Operacija sive mrene (katarakte),2026-04-15,-190.0,-1.144,False,False,False
+1195,Operacija sive mrene (katarakte),2026-04-29,138.0,0.456,False,False,False
+1195,Operacija sive mrene (katarakte),2026-05-06,-167.0,-1.032,False,False,False
+1195,Operacija sive mrene (katarakte),2026-05-13,1.0,-0.212,False,False,False
+1195,Operacija sive mrene (katarakte),2026-05-20,155.0,0.539,False,False,False
+1195,Operacija sive mrene (katarakte),2026-05-27,109.0,0.315,False,False,False
+1195,Operacija sive mrene (katarakte),2026-06-03,-103.0,-0.719,False,False,False
+1195,Operacija sive mrene (katarakte),2026-06-17,32.0,-0.061,False,False,False
+1195,Operacija sive mrene (katarakte),2026-06-24,365.0,1.563,False,False,False
+1195,Operacija sive mrene (katarakte),2026-07-01,-244.0,-1.407,False,False,False
+1195,Operacija sive mrene (katarakte),2026-07-08,-16.0,-0.295,False,False,False
+1195,Operacija sive mrene (katarakte),2026-07-15,73.0,0.139,False,False,False
+1626,Endoproteza kolena,2024-04-11,19.0,0.048,False,False,False
+1626,Endoproteza kolena,2024-04-18,49.0,0.175,False,False,False
+1626,Endoproteza kolena,2024-04-25,41.0,0.141,False,False,False
+1626,Endoproteza kolena,2024-05-03,-14.0,-0.091,False,False,False
+1626,Endoproteza kolena,2024-05-09,-1.0,-0.036,False,False,False
+1626,Endoproteza kolena,2024-05-16,-100.0,-0.454,False,False,False
+1626,Endoproteza kolena,2024-05-23,30.0,0.095,False,False,False
+1626,Endoproteza kolena,2024-05-30,106.0,0.416,False,False,False
+1626,Endoproteza kolena,2024-06-06,-45.0,-0.222,False,False,False
+1626,Endoproteza kolena,2024-06-13,-19.0,-0.112,False,False,False
+1626,Endoproteza kolena,2024-06-20,-225.0,-0.982,False,False,False
+1626,Endoproteza kolena,2024-06-27,8.0,0.002,False,False,False
+1626,Endoproteza kolena,2024-07-04,213.0,0.867,False,False,False
+1626,Endoproteza kolena,2024-07-11,13.0,0.023,False,False,False
+1626,Endoproteza kolena,2024-07-18,-88.0,-0.403,False,False,False
+1626,Endoproteza kolena,2024-07-25,124.0,0.492,False,False,False
+1626,Endoproteza kolena,2024-08-01,-21.0,-0.121,False,False,False
+1626,Endoproteza kolena,2024-08-08,24.0,0.069,False,False,False
+1626,Endoproteza kolena,2024-08-16,80.0,0.306,False,False,False
+1626,Endoproteza kolena,2024-08-22,-8.0,-0.066,False,False,False
+1626,Endoproteza kolena,2024-08-29,19.0,0.048,False,False,False
+1626,Endoproteza kolena,2024-09-05,-85.0,-0.391,False,False,False
+1626,Endoproteza kolena,2024-09-12,18.0,0.044,False,False,False
+1626,Endoproteza kolena,2024-09-19,-271.0,-1.176,False,False,False
+1626,Endoproteza kolena,2024-09-26,-38.0,-0.192,False,False,False
+1626,Endoproteza kolena,2024-10-03,310.0,1.277,False,False,False
+1626,Endoproteza kolena,2024-10-10,27.0,0.082,False,False,False
+1626,Endoproteza kolena,2024-10-17,-298.0,-1.29,False,False,False
+1626,Endoproteza kolena,2024-10-24,19.0,0.048,False,False,False
+1626,Endoproteza kolena,2024-10-31,-31.0,-0.163,False,False,False
+1626,Endoproteza kolena,2024-11-07,256.0,1.049,False,False,False
+1626,Endoproteza kolena,2024-11-14,28.0,0.086,False,False,False
+1626,Endoproteza kolena,2024-11-21,-276.0,-1.197,False,False,False
+1626,Endoproteza kolena,2024-11-28,80.0,0.306,False,False,False
+1626,Endoproteza kolena,2024-12-05,234.0,0.956,False,False,False
+1626,Endoproteza kolena,2024-12-12,22.0,0.061,False,False,False
+1626,Endoproteza kolena,2024-12-19,23.0,0.065,False,False,False
+1626,Endoproteza kolena,2025-01-08,18.0,0.044,False,False,False
+1626,Endoproteza kolena,2025-01-15,-263.0,-1.142,False,False,False
+1626,Endoproteza kolena,2025-01-22,28.0,0.086,False,False,False
+1626,Endoproteza kolena,2025-01-29,34.0,0.112,False,False,False
+1626,Endoproteza kolena,2025-02-05,-49.0,-0.239,False,False,False
+1626,Endoproteza kolena,2025-02-12,249.0,1.019,False,False,False
+1626,Endoproteza kolena,2025-02-19,18.0,0.044,False,False,False
+1626,Endoproteza kolena,2025-02-26,48.0,0.171,False,False,False
+1626,Endoproteza kolena,2025-03-05,-32.0,-0.167,False,False,False
+1626,Endoproteza kolena,2025-03-12,18.0,0.044,False,False,False
+1626,Endoproteza kolena,2025-03-19,0.0,-0.032,False,False,False
+1626,Endoproteza kolena,2025-03-26,0.0,-0.032,False,False,False
+1626,Endoproteza kolena,2025-04-02,26.0,0.078,False,False,False
+1626,Endoproteza kolena,2025-04-09,425.0,1.762,False,False,False
+1626,Endoproteza kolena,2025-04-16,-745.0,-3.177,True,True,True
+1626,Endoproteza kolena,2025-04-23,15.0,0.031,False,False,False
+1626,Endoproteza kolena,2025-04-30,-30.0,-0.159,False,False,False
+1626,Endoproteza kolena,2025-05-07,384.0,1.589,False,False,False
+1626,Endoproteza kolena,2025-05-14,-19.0,-0.112,False,False,False
+1626,Endoproteza kolena,2025-05-21,-407.0,-1.75,False,False,False
+1626,Endoproteza kolena,2025-05-28,102.0,0.399,False,False,False
+1626,Endoproteza kolena,2025-06-04,333.0,1.374,False,False,False
+1626,Endoproteza kolena,2025-06-11,-1146.0,-4.87,True,True,True
+1626,Endoproteza kolena,2025-06-18,1181.0,4.954,True,True,True
+1626,Endoproteza kolena,2025-07-02,4.0,-0.015,False,True,False
+1626,Endoproteza kolena,2025-07-09,44.0,0.154,False,True,False
+1626,Endoproteza kolena,2025-07-16,-297.0,-1.286,False,False,False
+1626,Endoproteza kolena,2025-07-23,94.0,0.365,False,False,False
+1626,Endoproteza kolena,2025-07-30,-38.0,-0.192,False,False,False
+1626,Endoproteza kolena,2025-08-06,341.0,1.408,False,False,False
+1626,Endoproteza kolena,2025-08-13,43.0,0.15,False,False,False
+1626,Endoproteza kolena,2025-08-20,-82.0,-0.378,False,False,False
+1626,Endoproteza kolena,2025-08-27,19.0,0.048,False,False,False
+1626,Endoproteza kolena,2025-09-03,20.0,0.053,False,False,False
+1626,Endoproteza kolena,2025-09-10,16.0,0.036,False,False,False
+1626,Endoproteza kolena,2025-09-17,-260.0,-1.13,False,False,False
+1626,Endoproteza kolena,2025-09-24,18.0,0.044,False,False,False
+1626,Endoproteza kolena,2025-10-01,-190.0,-0.834,False,False,False
+1626,Endoproteza kolena,2025-10-08,142.0,0.568,False,False,False
+1626,Endoproteza kolena,2025-10-15,248.0,1.015,False,False,False
+1626,Endoproteza kolena,2025-10-22,-3.0,-0.045,False,False,False
+1626,Endoproteza kolena,2025-10-29,89.0,0.344,False,False,False
+1626,Endoproteza kolena,2025-11-05,-88.0,-0.403,False,False,False
+1626,Endoproteza kolena,2025-11-12,98.0,0.382,False,False,False
+1626,Endoproteza kolena,2025-11-19,-341.0,-1.471,False,False,False
+1626,Endoproteza kolena,2025-11-26,9.0,0.006,False,False,False
+1626,Endoproteza kolena,2025-12-03,-84.0,-0.386,False,False,False
+1626,Endoproteza kolena,2025-12-10,253.0,1.036,False,False,False
+1626,Endoproteza kolena,2025-12-17,-393.0,-1.691,False,False,False
+1626,Endoproteza kolena,2026-01-07,141.0,0.563,False,False,False
+1626,Endoproteza kolena,2026-01-14,-9.0,-0.07,False,False,False
+1626,Endoproteza kolena,2026-01-21,10.0,0.01,False,False,False
+1626,Endoproteza kolena,2026-01-28,76.0,0.289,False,False,False
+1626,Endoproteza kolena,2026-02-04,-10.0,-0.074,False,False,False
+1626,Endoproteza kolena,2026-02-11,-38.0,-0.192,False,False,False
+1626,Endoproteza kolena,2026-02-18,22.0,0.061,False,False,False
+1626,Endoproteza kolena,2026-02-25,-48.0,-0.235,False,False,False
+1626,Endoproteza kolena,2026-03-04,-192.0,-0.842,False,False,False
+1626,Endoproteza kolena,2026-03-11,4.0,-0.015,False,False,False
+1626,Endoproteza kolena,2026-03-18,111.0,0.437,False,False,False
+1626,Endoproteza kolena,2026-03-25,41.0,0.141,False,False,False
+1626,Endoproteza kolena,2026-04-08,60.0,0.221,False,False,False
+1626,Endoproteza kolena,2026-04-15,-301.0,-1.303,False,False,False
+1626,Endoproteza kolena,2026-04-29,733.0,3.063,True,True,True
+1626,Endoproteza kolena,2026-05-06,-61.0,-0.289,False,False,False
+1626,Endoproteza kolena,2026-05-13,35.0,0.116,False,False,False
+1626,Endoproteza kolena,2026-05-20,-26.0,-0.142,False,False,False
+1626,Endoproteza kolena,2026-05-27,42.0,0.145,False,False,False
+1626,Endoproteza kolena,2026-06-03,-40.0,-0.201,False,False,False
+1626,Endoproteza kolena,2026-06-17,-5.0,-0.053,False,False,False
+1626,Endoproteza kolena,2026-06-24,113.0,0.445,False,False,False
+1626,Endoproteza kolena,2026-07-01,-19.0,-0.112,False,False,False
+1626,Endoproteza kolena,2026-07-08,118.0,0.466,False,False,False
+1626,Endoproteza kolena,2026-07-15,8.0,0.002,False,False,False
+AGREGAT,Agregat,2024-04-11,161.0,-0.056,False,False,False
+AGREGAT,Agregat,2024-04-18,2356.0,0.39,False,False,False
+AGREGAT,Agregat,2024-04-25,706.0,0.055,False,False,False
+AGREGAT,Agregat,2024-05-03,1696.0,0.256,False,False,False
+AGREGAT,Agregat,2024-05-09,-366.0,-0.163,False,False,False
+AGREGAT,Agregat,2024-05-16,-1968.0,-0.488,False,False,False
+AGREGAT,Agregat,2024-05-23,-16.0,-0.092,False,False,False
+AGREGAT,Agregat,2024-05-30,1146.0,0.144,False,False,False
+AGREGAT,Agregat,2024-06-06,-3223.0,-0.743,False,False,False
+AGREGAT,Agregat,2024-06-13,4482.0,0.822,False,False,False
+AGREGAT,Agregat,2024-06-20,-2430.0,-0.582,False,False,False
+AGREGAT,Agregat,2024-06-27,984.0,0.111,False,False,False
+AGREGAT,Agregat,2024-07-04,-198.0,-0.129,False,False,False
+AGREGAT,Agregat,2024-07-11,-752.0,-0.241,False,False,False
+AGREGAT,Agregat,2024-07-18,-7098.0,-1.53,False,False,False
+AGREGAT,Agregat,2024-07-25,-2026.0,-0.5,False,False,False
+AGREGAT,Agregat,2024-08-01,-2506.0,-0.597,False,False,False
+AGREGAT,Agregat,2024-08-08,1159.0,0.147,False,False,False
+AGREGAT,Agregat,2024-08-16,-497.0,-0.189,False,False,False
+AGREGAT,Agregat,2024-08-22,-328.0,-0.155,False,False,False
+AGREGAT,Agregat,2024-08-29,12726.0,2.496,True,True,True
+AGREGAT,Agregat,2024-09-05,-2813.0,-0.66,False,False,False
+AGREGAT,Agregat,2024-09-12,-576.0,-0.205,False,False,False
+AGREGAT,Agregat,2024-09-19,265.0,-0.035,False,False,False
+AGREGAT,Agregat,2024-09-26,-333.0,-0.156,False,False,False
+AGREGAT,Agregat,2024-10-03,2307.0,0.38,False,False,False
+AGREGAT,Agregat,2024-10-10,1030.0,0.121,False,False,False
+AGREGAT,Agregat,2024-10-17,-2771.0,-0.651,False,False,False
+AGREGAT,Agregat,2024-10-24,1723.0,0.261,False,False,False
+AGREGAT,Agregat,2024-10-31,1222.0,0.16,False,False,False
+AGREGAT,Agregat,2024-11-07,101.0,-0.068,False,False,False
+AGREGAT,Agregat,2024-11-14,375.0,-0.012,False,False,False
+AGREGAT,Agregat,2024-11-21,-1050.0,-0.302,False,False,False
+AGREGAT,Agregat,2024-11-28,98.0,-0.069,False,False,False
+AGREGAT,Agregat,2024-12-05,-1260.0,-0.344,False,False,False
+AGREGAT,Agregat,2024-12-12,-102.0,-0.109,False,False,False
+AGREGAT,Agregat,2024-12-19,-34.0,-0.095,False,False,False
+AGREGAT,Agregat,2025-01-08,294.0,-0.029,False,False,False
+AGREGAT,Agregat,2025-01-15,11.0,-0.086,False,False,False
+AGREGAT,Agregat,2025-01-22,1660.0,0.249,False,False,False
+AGREGAT,Agregat,2025-01-29,3061.0,0.533,False,False,False
+AGREGAT,Agregat,2025-02-05,683.0,0.05,False,False,False
+AGREGAT,Agregat,2025-02-12,4463.0,0.818,False,False,False
+AGREGAT,Agregat,2025-02-19,-302.0,-0.15,False,False,False
+AGREGAT,Agregat,2025-02-26,4266.0,0.778,False,False,False
+AGREGAT,Agregat,2025-03-05,221.0,-0.044,False,False,False
+AGREGAT,Agregat,2025-03-12,1862.0,0.29,False,False,False
+AGREGAT,Agregat,2025-03-19,319.0,-0.024,False,False,False
+AGREGAT,Agregat,2025-03-26,1474.0,0.211,False,False,False
+AGREGAT,Agregat,2025-04-02,357.0,-0.016,False,False,False
+AGREGAT,Agregat,2025-04-09,1274.0,0.17,False,False,False
+AGREGAT,Agregat,2025-04-16,558.0,0.025,False,False,False
+AGREGAT,Agregat,2025-04-23,1002.0,0.115,False,False,False
+AGREGAT,Agregat,2025-04-30,3201.0,0.562,False,False,False
+AGREGAT,Agregat,2025-05-07,-1751.0,-0.444,False,False,False
+AGREGAT,Agregat,2025-05-14,1352.0,0.186,False,False,False
+AGREGAT,Agregat,2025-05-21,-418.0,-0.173,False,False,False
+AGREGAT,Agregat,2025-05-28,2263.0,0.371,False,False,False
+AGREGAT,Agregat,2025-06-04,2628.0,0.445,False,False,False
+AGREGAT,Agregat,2025-06-11,-32669.0,-6.724,True,True,True
+AGREGAT,Agregat,2025-06-18,31161.0,6.24,True,True,True
+AGREGAT,Agregat,2025-07-02,736.0,0.061,False,True,False
+AGREGAT,Agregat,2025-07-09,1202.0,0.156,False,True,False
+AGREGAT,Agregat,2025-07-16,-637.0,-0.218,False,False,False
+AGREGAT,Agregat,2025-07-23,3255.0,0.573,False,False,False
+AGREGAT,Agregat,2025-07-30,-1267.0,-0.346,False,False,False
+AGREGAT,Agregat,2025-08-06,1237.0,0.163,False,False,False
+AGREGAT,Agregat,2025-08-13,1062.0,0.127,False,False,False
+AGREGAT,Agregat,2025-08-20,-8137.0,-1.741,False,True,False
+AGREGAT,Agregat,2025-08-27,6643.0,1.261,False,False,False
+AGREGAT,Agregat,2025-09-03,-542.0,-0.199,False,False,False
+AGREGAT,Agregat,2025-09-10,960.0,0.106,False,False,False
+AGREGAT,Agregat,2025-09-17,322.0,-0.023,False,False,False
+AGREGAT,Agregat,2025-09-24,832.0,0.081,False,False,False
+AGREGAT,Agregat,2025-10-01,-526.0,-0.195,False,False,False
+AGREGAT,Agregat,2025-10-08,1514.0,0.219,False,False,False
+AGREGAT,Agregat,2025-10-15,2099.0,0.338,False,False,False
+AGREGAT,Agregat,2025-10-22,1200.0,0.155,False,False,False
+AGREGAT,Agregat,2025-10-29,3220.0,0.566,False,False,False
+AGREGAT,Agregat,2025-11-05,-1758.0,-0.446,False,False,False
+AGREGAT,Agregat,2025-11-12,1223.0,0.16,False,False,False
+AGREGAT,Agregat,2025-11-19,132.0,-0.062,False,False,False
+AGREGAT,Agregat,2025-11-26,1229.0,0.161,False,False,False
+AGREGAT,Agregat,2025-12-03,-333.0,-0.156,False,False,False
+AGREGAT,Agregat,2025-12-10,-990.0,-0.29,False,False,False
+AGREGAT,Agregat,2025-12-17,-1728.0,-0.439,False,False,False
+AGREGAT,Agregat,2026-01-07,-282.0,-0.146,False,False,False
+AGREGAT,Agregat,2026-01-14,951.0,0.105,False,False,False
+AGREGAT,Agregat,2026-01-21,1953.0,0.308,False,False,False
+AGREGAT,Agregat,2026-01-28,3337.0,0.589,False,False,False
+AGREGAT,Agregat,2026-02-04,1965.0,0.311,False,False,False
+AGREGAT,Agregat,2026-02-11,1500.0,0.216,False,False,False
+AGREGAT,Agregat,2026-02-18,4479.0,0.821,False,False,False
+AGREGAT,Agregat,2026-02-25,-1295.0,-0.352,False,False,False
+AGREGAT,Agregat,2026-03-04,-1330.0,-0.359,False,False,False
+AGREGAT,Agregat,2026-03-11,1106.0,0.136,False,False,False
+AGREGAT,Agregat,2026-03-18,-16.0,-0.092,False,False,False
+AGREGAT,Agregat,2026-03-25,2247.0,0.368,False,False,False
+AGREGAT,Agregat,2026-04-08,-2084.0,-0.512,False,False,False
+AGREGAT,Agregat,2026-04-15,-1818.0,-0.458,False,False,False
+AGREGAT,Agregat,2026-04-29,3368.0,0.596,False,False,False
+AGREGAT,Agregat,2026-05-06,-2204.0,-0.536,False,False,False
+AGREGAT,Agregat,2026-05-13,770.0,0.068,False,False,False
+AGREGAT,Agregat,2026-05-20,-1253.0,-0.343,False,False,False
+AGREGAT,Agregat,2026-05-27,1892.0,0.296,False,False,False
+AGREGAT,Agregat,2026-06-03,-2300.0,-0.556,False,False,False
+AGREGAT,Agregat,2026-06-17,-2655.0,-0.628,False,False,False
+AGREGAT,Agregat,2026-06-24,394.0,-0.008,False,False,False
+AGREGAT,Agregat,2026-07-01,-1399.0,-0.373,False,False,False
+AGREGAT,Agregat,2026-07-08,-236.0,-0.136,False,False,False
+AGREGAT,Agregat,2026-07-15,1159.0,0.147,False,False,False

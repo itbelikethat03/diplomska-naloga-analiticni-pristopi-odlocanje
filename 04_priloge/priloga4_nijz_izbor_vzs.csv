@@ -1,0 +1,8 @@
+﻿Enota,Korak,Vrednost
+Tedni,Objavljenih tedenskih poročil v arhivu (4. 4. 2024 – 15. 7. 2026),112
+Tedni,Manj tednov brez objave (6 epizod izpada),-8
+Tedni,"Manj tednov, označenih kot nezanesljivi (11. 6. in 20. 8. 2025)",-2
+Tedni,"Zanesljivih tednov, uporabljenih za modeliranje",110
+Storitve,Unija vseh vrst zdravstvenih storitev v arhivu,376
+Storitve,Manj storitev z vsaj eno manjkajočo vrednostjo v 110 zanesljivih tednih,-84
+Storitve,"Storitev s popolno vrsto, vključenih v agregat",292

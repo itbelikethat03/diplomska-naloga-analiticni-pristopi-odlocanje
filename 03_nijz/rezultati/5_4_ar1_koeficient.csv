@@ -1,0 +1,15 @@
+﻿razlicica,vzs,vrsta,fi_celotni_vzorec,se,ci95_sp,ci95_zg,ena_v_ci95,t_proti_ena,wf_fi_min,wf_fi_mediana,wf_fi_max,wf_n_oken
+A_interpolirano,1010P,Dermatološki pregled - prvi,0.9641,0.0104,0.9438,0.9845,False,-3.4589,0.9307,0.9691,0.9885,68
+B_brez_interpolacije,1010P,Dermatološki pregled - prvi,0.9626,0.0117,0.9397,0.9854,False,-3.2086,0.9327,0.9687,0.9908,58
+A_interpolirano,1018P,Kardiološki pregled - prvi,0.967,0.0181,0.9315,1.0025,True,-1.8213,0.9587,0.9679,0.98,68
+B_brez_interpolacije,1018P,Kardiološki pregled - prvi,0.9633,0.0203,0.9235,1.0031,True,-1.8078,0.9561,0.9643,0.9786,58
+A_interpolirano,1941,UZ vratnih žil,0.9886,0.0071,0.9747,1.0026,True,-1.5991,0.9873,0.9952,1.0427,68
+B_brez_interpolacije,1941,UZ vratnih žil,0.9887,0.0079,0.9732,1.0042,True,-1.4278,0.9872,0.996,1.0434,58
+A_interpolirano,1755,MR glave brez kontrasta,1.0089,0.0065,0.9962,1.0217,True,1.3701,0.955,1.0116,1.0334,68
+B_brez_interpolacije,1755,MR glave brez kontrasta,1.0105,0.0076,0.9955,1.0254,True,1.3727,0.9529,1.012,1.0369,58
+A_interpolirano,1195,Operacija sive mrene (katarakte),0.9891,0.0071,0.9751,1.0031,True,-1.5242,0.9852,0.9899,1.0056,68
+B_brez_interpolacije,1195,Operacija sive mrene (katarakte),0.9898,0.0079,0.9744,1.0053,True,-1.2891,0.9868,0.9913,1.008,58
+A_interpolirano,1626,Endoproteza kolena,0.778,0.0608,0.6589,0.8971,False,-3.6526,0.4096,0.6611,0.7653,68
+B_brez_interpolacije,1626,Endoproteza kolena,0.7437,0.0675,0.6115,0.876,False,-3.7986,0.3978,0.6372,0.7278,58
+A_interpolirano,AGREGAT,Agregat,0.9945,0.0095,0.9759,1.0131,True,-0.5777,0.9759,1.0009,1.0129,68
+B_brez_interpolacije,AGREGAT,Agregat,0.9948,0.0105,0.9742,1.0154,True,-0.4961,0.9869,1.0022,1.0121,58

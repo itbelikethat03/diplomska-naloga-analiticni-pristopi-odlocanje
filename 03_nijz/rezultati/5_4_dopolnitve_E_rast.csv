@@ -1,0 +1,293 @@
+﻿vzs,naziv,prva,zadnja,rast_pct,mediana,modelirana
+1004P,Pregled ob neplodnosti - par - prvi,311.0,159.0,-48.87,240.0,False
+1010P,Dermatološki pregled - prvi,24345.0,29233.0,20.08,29360.5,True
+1011P,Venerološki pregled - prvi,405.0,318.0,-21.48,393.5,False
+1012P,Flebološki pregled - prvi,1273.0,1325.0,4.08,1341.5,False
+1018P,Kardiološki pregled - prvi,19129.0,16912.0,-11.59,17101.0,True
+1026P,Nevrološki pregled - prvi,12526.0,11121.0,-11.22,12286.0,False
+1033P,Ortopedski pregled - prvi,22786.0,24348.0,6.86,24411.0,False
+1040P,Psihiatrična obravnava - prva,3071.0,3630.0,18.2,3032.5,False
+1042P,Pregled ob odvajanju odvisnosti od prepovedanih drog - prvi,10.0,23.0,130.0,23.5,False
+1044P,Pregled ob odvajanju odvisnosti od alkohola - prvi,101.0,146.0,44.55,124.0,False
+1045P,Revmatološki pregled - prvi,5870.0,5581.0,-4.92,5774.0,False
+1050P,Urološki pregled - prvi,7293.0,6182.0,-15.23,6460.0,False
+1053P,Diabetološki pregled - prvi,1615.0,1764.0,9.23,1786.5,False
+1056P,Alergološki pregled - prvi,3665.0,4307.0,17.52,4089.5,False
+1057P,Kardiološki pregled otroka - prvi,1336.0,1153.0,-13.7,1257.0,False
+1062P,Alergološki pregled otroka - prvi,4179.0,4561.0,9.14,4524.5,False
+1063P,Revmatološki pregled otroka - prvi,105.0,139.0,32.38,109.5,False
+1067P,Nevrološki pregled otroka - prvi,1633.0,1845.0,12.98,1724.0,False
+1149,Operacija karpalnega kanala,1258.0,1354.0,7.63,1370.0,False
+1151,Fenestracija hrbtenice,106.0,116.0,9.43,98.5,False
+1152,Operacija tumorja na hrbtenici,20.0,12.0,-40.0,17.0,False
+1164,Druge nevrokirurške operacije,27.0,86.0,218.52,26.0,False
+1176,Operacije na ščitnici in obščitnici,134.0,162.0,20.9,124.0,False
+1195,Operacija sive mrene (katarakte),11198.0,16139.0,44.12,14390.0,True
+1215,Miringotomija,18.0,55.0,205.56,57.0,False
+1220,Miringoplastika,5.0,7.0,40.0,7.0,False
+1241,Tonzilektomija/adenoidektomija,451.0,589.0,30.6,599.0,False
+1264,Drugi oralni operativni posegi,2579.0,2653.0,2.87,2502.5,False
+1265,Posegi v grlu,630.0,485.0,-23.02,522.0,False
+1285,Aortokoronarni obvodi,28.0,45.0,60.71,36.0,False
+1286,Menjava srčne zaklopke,19.0,38.0,100.0,31.5,False
+1287,Aortokoronarni obvodi z menjavo srčne zaklopke,172.0,214.0,24.42,197.0,False
+1288,Operacije prirojenih srčnih napak,7.0,6.0,-14.29,5.0,False
+1289,Operacija torakalne anevrizme,3.0,4.0,33.33,6.0,False
+1290,Operacija abdominalne aorte (anevrizma ali okluzija),55.0,49.0,-10.91,51.0,False
+1291,Femoro - poplitealni obvod (bypass),14.0,18.0,28.57,21.0,False
+1292,Tea ACI,91.0,76.0,-16.48,91.0,False
+1293,Druge žilne operacije (razen arterije),417.0,292.0,-29.98,402.0,False
+1301,PTCA (koronarna angiografija),1716.0,1912.0,11.42,1597.5,False
+1303,Transkateterska embolizacija krvnih žil,48.0,49.0,2.08,98.0,False
+1308,Druge operacije na arterijah,124.0,118.0,-4.84,148.0,False
+1310,Sklerozacija krčnih žil,1331.0,892.0,-32.98,1316.0,False
+1311,Operacija krčnih žil,7579.0,6095.0,-19.58,6877.5,False
+1327,Operacija žolčnih kamnov,2041.0,1776.0,-12.98,2093.0,False
+1342,Operacija kile,3604.0,3919.0,8.74,4367.5,False
+1396,Ambulantna histeroskopija,519.0,573.0,10.4,617.5,False
+1397,"Kolposkopija, vaginoskopija",984.0,1166.0,18.5,1114.5,False
+1400,"Odvzem tkivnega vzorca za histopatološko diagnostiko predrakavih/rakavih sprememb materničnega vratu (biopsija, odščip)",515.0,75.0,-85.44,302.5,False
+1402,"Biopsija vulve, perineja in/ali nožnice",19.0,7.0,-63.16,11.5,False
+1442,Poseg na žrelu,3.0,3.0,0.0,4.0,False
+1446,Plastični poseg na ožilju,10.0,16.0,60.0,13.0,False
+1471,Elektroencefalografija (EEG),594.0,719.0,21.04,562.5,False
+1472,Nevromišična elektrodiagnostika (tudi elektromiografija EMG),10445.0,9654.0,-7.57,10262.0,False
+1604,Ortopedska operacija rame,529.0,480.0,-9.26,508.5,False
+1606,"Operacija Dupuytrenove kontrakture (CD, fibromatoza dlančne fascije)",214.0,260.0,21.5,230.0,False
+1607,Operacija nožnega palca (hallux),3026.0,2739.0,-9.48,2870.0,False
+1608,Endoproteza gležnja,43.0,32.0,-25.58,32.0,False
+1611,Operacija discus hernie,376.0,545.0,44.95,463.5,False
+1624,Endoproteza kolka delna (PEP)/totalna (TEP),5284.0,5199.0,-1.61,5337.5,False
+1625,Endoproteza rame delna (PEP)/totalna (TEP),345.0,415.0,20.29,354.0,False
+1626,Endoproteza kolena,8603.0,9441.0,9.74,8812.0,True
+1641,Osteosinteza cervikalne hrbtenice,5.0,13.0,160.0,10.0,False
+1642,Osteosinteza torakolumbalne hrbtenice s kletko (cage),44.0,49.0,11.36,46.0,False
+1643,Osteosinteza hrbtenice (drugi posegi),27.0,19.0,-29.63,26.0,False
+1664,Poseg na jeziku,5.0,4.0,-20.0,5.0,False
+1669,CT glave brez KS,955.0,1400.0,46.6,861.0,False
+1670,CT orbit brez KS,10.0,7.0,-30.0,6.0,False
+1672,CT srednjega ušesa in temporalke,81.0,106.0,30.86,70.5,False
+1673,CT obraznih kosti,7.0,12.0,71.43,13.0,False
+1674,CT obnosnih votlin brez KS,380.0,515.0,35.53,334.5,False
+1675,CT vratu brez KS,31.0,63.0,103.23,38.0,False
+1676,CT glave s KS,183.0,265.0,44.81,218.0,False
+1679,CT obnosnih votlin s KS,32.0,25.0,-21.88,16.5,False
+1680,CT vratu s KS,64.0,101.0,57.81,62.5,False
+1681,CT skeleta okončin,49.0,60.0,22.45,42.0,False
+1683,CT cervikalne hrbtenice,33.0,52.0,57.58,36.5,False
+1684,CT torakalne hrbtenice,37.0,38.0,2.7,30.0,False
+1685,CT lumbo - sakralne hrbtenice,95.0,141.0,48.42,117.0,False
+1687,CT skeleta medenice,12.0,26.0,116.67,13.5,False
+1688,CT kolkov,45.0,73.0,62.22,41.0,False
+1691,CT kolena,59.0,59.0,0.0,51.0,False
+1692,CT rame,71.0,88.0,23.94,57.5,False
+1693,CT gležnja,57.0,78.0,36.84,54.0,False
+1697,CT skeleta drugo - brez KS,21.0,40.0,90.48,24.0,False
+1707,CT artrografija rame s KS,31.0,26.0,-16.13,19.0,False
+1713,CT prsnih organov brez KS,1665.0,2591.0,55.62,1932.0,False
+1715,CT trebušnih organov brez KS,839.0,1060.0,26.34,868.5,False
+1716,CT zgornjega abdomna brez KS,16.0,15.0,-6.25,12.0,False
+1717,CT medeničnih organov brez KS,11.0,13.0,18.18,8.5,False
+1718,CT prsnega koša - pljuč HRCT,905.0,1602.0,77.02,1251.5,False
+1719,CT abdomna brez KS - drugo,251.0,243.0,-3.19,217.0,False
+1720,CT pljuč protokol lungcare,102.0,175.0,71.57,143.5,False
+1722,CT širokega črevesa brez KS,6.0,4.0,-33.33,8.0,False
+1724,CT prsnih organov s KS,1664.0,2515.0,51.14,1853.5,False
+1725,CT trebušnih organov s KS,1584.0,2531.0,59.79,1684.0,False
+1726,CT zgornjega abdomna s KS,59.0,77.0,30.51,45.0,False
+1727,CT medeničnih organov s KS,6.0,13.0,116.67,7.0,False
+1729,CT urografija - KS,414.0,666.0,60.87,406.5,False
+1730,CT širokega črevesa s KS,19.0,13.0,-31.58,18.0,False
+1732,CTA torakalne aorte,231.0,415.0,79.65,253.0,False
+1733,CTA abdominalne aorte,197.0,299.0,51.78,228.0,False
+1734,CTA pelvičnih žil,53.0,60.0,13.21,48.0,False
+1735,CTA zgornjih okončin,8.0,14.0,75.0,12.0,False
+1736,CTA pljučnih arterij,41.0,42.0,2.44,37.0,False
+1739,CTA selektivne angiografije,11.0,15.0,36.36,13.0,False
+1740,CTA aorto - cervikalna,333.0,563.0,69.07,371.0,False
+1741,CTA pelvičnih a. in a. spodnjih okončin,363.0,529.0,45.73,379.0,False
+1742,CTA torakalne in abdominalne aorte,152.0,302.0,98.68,191.0,False
+1743,CTA možganskih arterij,232.0,452.0,94.83,293.5,False
+1746,CTA venografija drugo,3.0,13.0,333.33,7.0,False
+1747,CTA srca - prikaz kalcinacij,50.0,181.0,262.0,139.0,False
+1748,CTA srca - prikaz morfoloških struktur,57.0,49.0,-14.04,74.0,False
+1749,CTA srca - prikaz funkcije,11.0,5.0,-54.55,13.0,False
+1750,CTA koronarnih arterij,1290.0,1676.0,29.92,1495.5,False
+1755,MR glave brez kontrasta,4958.0,7884.0,59.02,4768.5,True
+1756,MR obraza in drugo brez KS,128.0,428.0,234.38,158.5,False
+1757,MR vratu brez KS,79.0,103.0,30.38,71.0,False
+1758,MR multipla skleroza brez KS,582.0,819.0,40.72,498.5,False
+1759,MR glave s KS,2604.0,3641.0,39.82,2822.5,False
+1760,MR obraza in drugo s KS,764.0,217.0,-71.6,193.5,False
+1762,MR multipla skleroza s KS,196.0,265.0,35.2,230.0,False
+1763,MR vratu s KS,37.0,66.0,78.38,50.0,False
+1764,MR cervikalne hrbtenice,2718.0,3706.0,36.35,2591.0,False
+1765,MR rame,1779.0,3093.0,73.86,2061.0,False
+1766,MR torakalne hrbtenice,743.0,1008.0,35.67,702.0,False
+1767,MR komolca,151.0,265.0,75.5,175.0,False
+1768,MR lumbosakralne hrbtenice,5910.0,8244.0,39.49,5508.5,False
+1769,MR zapestja,242.0,440.0,81.82,261.5,False
+1770,MR roke,128.0,335.0,161.72,142.5,False
+1771,MR kolka,723.0,1189.0,64.45,751.0,False
+1772,MR kolena,3039.0,5498.0,80.91,3546.0,False
+1773,MR gležnja,467.0,974.0,108.57,542.0,False
+1774,MR stopala,436.0,898.0,105.96,522.5,False
+1776,MR skeleta brez KS - drugo,215.0,364.0,69.3,221.0,False
+1777,MR SIS (sakroliakalnega sklepa) brez KS,236.0,342.0,44.92,241.5,False
+1778,MR cervikalne hrbtenice s KS,123.0,200.0,62.6,160.0,False
+1779,MR torakalne hrbtenice s KS,84.0,166.0,97.62,118.0,False
+1781,MR lumbosakralne hrbtenice s KS,155.0,268.0,72.9,298.0,False
+1782,MR rame s KS,29.0,29.0,0.0,34.0,False
+1783,MR zapestja s KS,8.0,8.0,0.0,8.5,False
+1784,MR roke s KS,8.0,10.0,25.0,7.0,False
+1785,MR kolka s KS,17.0,25.0,47.06,20.0,False
+1786,MR kolena s KS,16.0,24.0,50.0,25.0,False
+1787,MR gležnja s KS,4.0,8.0,100.0,6.0,False
+1788,MR stopala s KS,30.0,31.0,3.33,23.0,False
+1789,MR skeleta s KS - drugo,23.0,57.0,147.83,33.0,False
+1790,MR SIS (sakroliakalnega sklepa) s KS,13.0,14.0,7.69,12.0,False
+1791,MR prsnega koša,79.0,85.0,7.59,66.0,False
+1792,MR trebušnih organov,614.0,716.0,16.61,676.0,False
+1793,MR abdomna - drugo,341.0,405.0,18.77,314.0,False
+1794,MR zgornjega abdomna,346.0,735.0,112.43,497.5,False
+1795,MR medenice,542.0,703.0,29.7,602.5,False
+1796,MR jeter,330.0,390.0,18.18,316.0,False
+1797,MR dojke,60.0,108.0,80.0,86.0,False
+1798,MR prsnega koša s KS,20.0,34.0,70.0,21.0,False
+1799,MR trebušnih organov s KS,180.0,319.0,77.22,215.0,False
+1800,MR abdomna s KS - drugo,141.0,190.0,34.75,133.5,False
+1801,MR zgornjega abdomna s KS,322.0,1016.0,215.53,512.5,False
+1802,MR medenice s KS,330.0,393.0,19.09,308.0,False
+1803,MR jeter s kontrastom,368.0,702.0,90.76,401.0,False
+1804,MR dojke s KS,108.0,156.0,44.44,100.0,False
+1805,MRA možganskega žilja - arterije TOF,845.0,1347.0,59.41,837.0,False
+1806,MRA možganskega žilja - vene TOF,12.0,45.0,275.0,22.0,False
+1807,MRA aorto - cervikalna TOF,29.0,71.0,144.83,48.5,False
+1808,MRA torakalne aorte TOF,23.0,50.0,117.39,35.0,False
+1809,MRA abdominalne aorte TOF,4.0,6.0,50.0,4.0,False
+1812,MRA ekstremiteti ( vsaka okončina posebej ) TOF,6.0,21.0,250.0,9.0,False
+1814,MRA TOF - drugo,35.0,51.0,45.71,20.5,False
+1815,MRA možganskega žilja - arterije KS,57.0,66.0,15.79,51.0,False
+1816,MRA možganskega žilja - vene KS,9.0,7.0,-22.22,5.0,False
+1817,MRA aorto - cervikalna KS,15.0,12.0,-20.0,12.0,False
+1818,MRA torakalne aorte KS,28.0,51.0,82.14,32.0,False
+1819,MRA abdominalne aorte KS,21.0,25.0,19.05,19.0,False
+1821,MRA pelvično žilje KS,4.0,17.0,325.0,5.5,False
+1822,MRA pelvičnih a. In arterij spodnjih udov,15.0,22.0,46.67,12.0,False
+1827,MRA trebuha s KS,1.0,2.0,100.0,3.0,False
+1831,MR srca - prikaz morfoloških struktur brez KS,270.0,134.0,-50.37,237.5,False
+1832,MR srca - prikaz funkcije brez KS,234.0,136.0,-41.88,203.0,False
+1833,MR srca - prikaz morfoloških struktur s KS,804.0,600.0,-25.37,607.5,False
+1834,MR srca - prikaz funkcije s KS,636.0,522.0,-17.92,529.5,False
+1836,MRA srca in velikih žil - prikaz pretoka s KS,21.0,37.0,76.19,25.0,False
+1852,RTG prstov rok,172.0,374.0,117.44,216.5,False
+1853,RTG dlani,137.0,150.0,9.49,157.0,False
+1854,RTG zapestja,111.0,99.0,-10.81,127.5,False
+1857,RTG komolca,76.0,48.0,-36.84,69.0,False
+1858,RTG nadlahti,24.0,5.0,-79.17,10.0,False
+1859,RTG rame,458.0,364.0,-20.52,485.5,False
+1860,RTG prstov nog,27.0,37.0,37.04,41.0,False
+1861,RTG stopala,293.0,315.0,7.51,343.5,False
+1862,RTG petnice,152.0,148.0,-2.63,174.0,False
+1863,RTG gležnja,152.0,132.0,-13.16,152.0,False
+1864,RTG goleni,29.0,15.0,-48.28,24.0,False
+1865,RTG kolena,951.0,896.0,-5.78,1114.0,False
+1866,RTG pogačice,8.0,13.0,62.5,9.0,False
+1867,RTG stegnenice,17.0,18.0,5.88,13.0,False
+1868,RTG kolka,570.0,502.0,-11.93,597.0,False
+1869,RTG medenice,424.0,413.0,-2.59,472.5,False
+1870,RTG sakroiliakalnega sklepa - SIS,38.0,48.0,26.32,48.0,False
+1871,RTG cervikalne hrbtenice,361.0,251.0,-30.47,380.5,False
+1872,RTG torakalne hrbtenice,196.0,168.0,-14.29,219.0,False
+1873,RTG lumbosakralne hrbtenice,859.0,746.0,-13.15,908.0,False
+1874,RTG hrbtenice v predelu L5 - S1,8.0,10.0,25.0,9.0,False
+1875,RTG trtice,16.0,21.0,31.25,20.5,False
+1876,RTG ključnice,12.0,7.0,-41.67,10.0,False
+1879,RTG reber,47.0,47.0,0.0,55.5,False
+1880,RTG prsnice (sternuma),11.0,15.0,36.36,13.0,False
+1881,RTG glave,5.0,3.0,-40.0,9.0,False
+1882,RTG sinusov,33.0,18.0,-45.45,37.0,False
+1887,RTG spodnje čeljusti (mandibule),13.0,8.0,-38.46,9.0,False
+1888,RTG pc,1455.0,1090.0,-25.09,1318.0,False
+1889,RTG abdomna,6.0,9.0,50.0,11.0,False
+1921,Angiografija (brez koronarne angiografije),53.0,59.0,11.32,64.0,False
+1930P,Okulistični pregled zaradi očal - prvi,5491.0,4667.0,-15.01,5382.0,False
+1931,UZ vratu,1849.0,2410.0,30.34,2031.5,False
+1933,UZ otroške glave,58.0,101.0,74.14,58.5,False
+1938,Doppler ehografija,136.0,6.0,-95.59,177.0,False
+1941,UZ vratnih žil,17932.0,28688.0,59.98,26326.0,True
+1943,UZ dojk obojestransko,2944.0,3775.0,28.23,3139.0,False
+1944,UZ dojk enostransko,200.0,395.0,97.5,196.5,False
+1952,Usmerjen UZ srca,1973.0,2575.0,30.51,2320.0,False
+1983,UZ sklepa,1122.0,1012.0,-9.8,941.0,False
+1985,UZ kolka novorojenčkov,113.0,103.0,-8.85,110.0,False
+1986,UZ kolka dojenčkov,773.0,893.0,15.52,823.5,False
+1991,UZ mehkih tkiv,2602.0,2769.0,6.42,2817.5,False
+1992,UZ preiskava ene bezgavčne lože,12.0,25.0,108.33,23.5,False
+2006,Artroskopija kolena (diagnostična in terapevtska),2253.0,2178.0,-3.33,2207.5,False
+2017,"Mamografija (vključuje odčitavanje slike, izključuje preventivno presejanje)",673.0,1034.0,53.64,920.5,False
+2072,Kriokauterizacija ali krioterapija (postopek v dermatologiji),40.0,46.0,15.0,45.5,False
+2077,Odstranitev polipov,19.0,25.0,31.58,24.0,False
+2104,Revizijska operacija kolka,110.0,86.0,-21.82,102.0,False
+2105,Revizijska operacija kolena,82.0,112.0,36.59,99.0,False
+2106,Revizijska operacija ramena,2.0,6.0,200.0,7.0,False
+2107,Vertebroplastika,11.0,22.0,100.0,10.0,False
+2108,Operacija hrbtenice - dekompresija,765.0,879.0,14.9,812.5,False
+2109,Operacija hrbtenice - spondilodeza,1435.0,1242.0,-13.45,1265.5,False
+2160,Lažji posegi v otorinolaringologiji v lokalni anesteziji,249.0,404.0,62.25,254.0,False
+2161,Posegi na ušesu v lokalni anesteziji,53.0,19.0,-64.15,24.0,False
+2162,Posegi na bobniču ali srednjem ušesu v lokalni anesteziji,251.0,276.0,9.96,278.0,False
+2163,Posegi na notranjem ušesu v lokalni anesteziji,2.0,11.0,450.0,10.5,False
+2164,Kostno usidran slušni pripomoček - BAHA v lokalni anesteziji,20.0,15.0,-25.0,18.0,False
+2165,Posegi na mandljih v lokalni anesteziji,18.0,4.0,-77.78,8.0,False
+2166,Funkcionalni posegi v nosu v lokalni anesteziji,264.0,350.0,32.58,304.5,False
+2167,MIST (minimalno invazivna terapija sinusov) v lokalni anesteziji,33.0,44.0,33.33,47.0,False
+2168,Druge operacije nosu v lokalni anesteziji,880.0,923.0,4.89,960.5,False
+2170,Mali posegi malignih sprememb v otorinolaringologiji v lokalni anesteziji,168.0,180.0,7.14,201.0,False
+2171,Lažji posegi v otorinolaringologiji v splošni anesteziji,40.0,28.0,-30.0,40.5,False
+2172,Posegi na mandljih pri odrasli v splošni anesteziji,606.0,579.0,-4.46,614.0,False
+2173,Posegi na mandljih in žrelnici pri otrocih v splošni anesteziji,1172.0,1313.0,12.03,1311.0,False
+2174,Posegi na žrelnici pri otrocih v splošni anesteziji,325.0,326.0,0.31,321.5,False
+2175,Posegi na žrelnici in bobniču pri otrocih v splošni anesteziji,1047.0,1209.0,15.47,1244.5,False
+2176,Operacije malignih tumorjev v otorinolaringologiji v splošni anesteziji,25.0,18.0,-28.0,23.0,False
+2177,Funkcionalne estetske operacije nosu v splošni anesteziji,359.0,385.0,7.24,350.5,False
+2178,Endoskopske operacije obnosnih votlin v splošni anesteziji,692.0,744.0,7.51,743.5,False
+2179,Pansinusne operacije v splošni anesteziji,80.0,120.0,50.0,83.5,False
+2181,Druge operacije obnosnih votlin v splošni anesteziji,211.0,416.0,97.16,244.5,False
+2182P,Ginekološki pregled (razen pregled nosečnic) na sekundarni ravni - prvi,2161.0,2310.0,6.89,2512.0,False
+2183P,Pregled ob neplodnosti - moški - prvi,194.0,300.0,54.64,232.5,False
+2184P,Pregled ob neplodnosti - ženske - prvi,422.0,565.0,33.89,417.5,False
+2230,Ekscizija majhnih tumorjev v oralni kirurgiji,3.0,11.0,266.67,5.0,False
+2233,Obravnava bolezni slinavk,17.0,5.0,-70.59,12.0,False
+2237,Zdravljenje recesije dlesni,7.0,4.0,-42.86,6.0,False
+2271,UZ skrotuma,870.0,1075.0,23.56,1011.0,False
+2284,RTG celotne hrbtenice,91.0,84.0,-7.69,102.0,False
+2309,Druge ušesne operacije,297.0,297.0,0.0,288.0,False
+2329,PTA (perkutana transluminalna angioplastika),188.0,286.0,52.13,200.5,False
+2338P,Urološki pregled otroka - prvi,681.0,448.0,-34.21,554.5,False
+2345,MR protokol epilepsija brez KS,60.0,102.0,70.0,67.0,False
+2346,MR protokol epilepsija s KS,11.0,17.0,54.55,12.0,False
+2347,MR multipla skleroza s KS s 3D,174.0,190.0,9.2,219.5,False
+2348,MR celotne hrbtenice,17.0,17.0,0.0,12.0,False
+2349,MRCP (pregled žolčnega sistema),1629.0,3106.0,90.67,2011.0,False
+2350,MR enterografija,111.0,80.0,-27.93,89.0,False
+2351,MR male medenice,285.0,418.0,46.67,272.5,False
+2352,MR male medenice s KS,782.0,1463.0,87.08,901.0,False
+2353,MR srca in velikih žil brez KS,12.0,15.0,25.0,12.0,False
+2356,CT zapestja,29.0,59.0,103.45,30.0,False
+2357,CT komolca,11.0,16.0,45.45,8.0,False
+2358,CT jeter s KS - 4 faze,17.0,27.0,58.82,25.0,False
+2359,CT srca - prikaz kalcinacij,60.0,503.0,738.33,438.0,False
+2372,Posegi v zunanjem ušesu,25.0,21.0,-16.0,22.0,False
+2373,Drugi posegi na bobniču in srednjem ušesu,293.0,401.0,36.86,312.0,False
+2374,Posegi na mastoidni in temporalni kosti,20.0,19.0,-5.0,19.0,False
+2375,Posegi na notranjem ušesu,43.0,46.0,6.98,40.0,False
+2376,Posegi na koščicah srednjega ušesa,5.0,5.0,0.0,5.0,False
+2377,Implantacija elektromagnetnega slušnega pripomočka,17.0,13.0,-23.53,12.0,False
+2378,Vstavitev/odstranitev kohlearnega implanta,20.0,16.0,-20.0,27.0,False
+2379,Operacija nosnega pretina,1169.0,1699.0,45.34,1340.0,False
+2380,Posegi v nosnih sinusih,9.0,30.0,233.33,21.0,False
+2383,"Drugi posegi v ustih, na nebu ali jezičku",347.0,378.0,8.93,421.5,False
+2384,Drugi posegi v nosu,68.0,60.0,-11.76,72.0,False
+2395P,Oromaksilofacialni pregled - prvi,18124.0,20431.0,12.73,19697.5,False
+2407,Druge ortopedske operacije gležnja in stopala,898.0,1080.0,20.27,917.0,False
