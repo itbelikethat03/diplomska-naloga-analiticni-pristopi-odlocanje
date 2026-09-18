@@ -1,7 +1,7 @@
 # Koda diplomske naloge
 
 Programska koda, s katero so bili izdelani rezultati diplomskega dela
-**»Uporaba podatkovne analitike za podporo odločanju v servisni dejavnosti«**
+**»ANALITIČNI PRISTOPI K ODLOČANJU V RAZLIČNIH SEKTORJIH«**
 (Fakulteta za upravo, Univerza v Ljubljani).
 
 Repozitorij vsebuje izključno tisto, kar je bilo dejansko uporabljeno za
@@ -43,7 +43,7 @@ Naloga obsega dva empirična dela:
 
 ```
 01_etl/                cevovod ETL in shema baze servis_db
-  etl_servis.py            CSV -> 24 normaliziranih tabel v MySQL
+  etl_servis.py            CSV -> 23 normaliziranih tabel v MySQL
   schema_servis_db.sql     shema baze (DDL, tuji ključi, pogleda SQL)
   servisni_proces.drawio   izvorna datoteka diagrama servisnega procesa
   poizvedbe/               poizvedbe SQL za opisne številke poglavja 5.1
