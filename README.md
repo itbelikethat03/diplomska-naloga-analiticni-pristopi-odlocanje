@@ -114,5 +114,6 @@ merodajna, so v `03_nijz/README.md`.
   dokumentirani v `02_fotona/db_common.py` in v prilogi 1.
 - Pri podatkih NIJZ manjkajoči tedni **niso** interpolirani. Učinek te
   odločitve je izmerjen ločeno v `03_nijz/skripte/23_ucinek_interpolacije.py`.
+- Pri pisanju in razhroščevanju programske kode v tem repozitoriju je bilo kot pomoč uporabljeno orodje umetne inteligence (Claude, Anthropic). Metodološke odločitve, izbira modelov in interpretacija rezultatov so avtorjevo delo.
 
 
