@@ -13,7 +13,7 @@ Naloga obsega dva empirična dela:
 
 1. **Interni podatki podjetja** (mape `01_etl`, `02_podjetje) — dve ploski
    razpredelnici iz internega sistema sta bili s cevovodom ETL preneseni v
-   normalizirano bazo MySQL (24 tabel, 124.741 zapisov), nad njo pa so bile
+   normalizirano bazo MySQL (23 tabel, 121.286 zapisov), nad njo pa so bile
    izvedene opisna analiza, nadzorna plošča in napovedni modeli.
 2. **Javni podatki NIJZ o čakalnih dobah** (mapa `03_nijz`) — primerjalni
    preizkus prenosljivosti istega analitičnega pristopa na javno domeno
